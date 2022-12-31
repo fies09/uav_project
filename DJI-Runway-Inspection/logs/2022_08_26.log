@@ -1,0 +1,698 @@
+2022-08-26 09:08:50,926 - maincontroller.py - line:98 - INFO| [+] AGX API is running [2022-08-26 09:08:50.925447]
+2022-08-26 09:11:10,563 - maincontroller.py - line:100 - INFO| [+] AGX API is running [2022-08-26 09:11:10.563768]
+2022-08-26 09:13:14,562 - maincontroller.py - line:101 - INFO| [+] AGX API is running [2022-08-26 09:13:14.562890]
+2022-08-26 09:18:53,011 - maincontroller.py - line:112 - INFO| [+] AGX API is running [2022-08-26 09:18:53.011154]
+2022-08-26 09:21:17,604 - maincontroller.py - line:114 - INFO| [+] AGX API is running [2022-08-26 09:21:17.604151]
+2022-08-26 09:31:30,966 - maincontroller.py - line:89 - INFO| 图片分析结果为<TbRunway 1>
+2022-08-26 09:31:30,966 - maincontroller.py - line:90 - INFO| 图片结果分析成功
+2022-08-26 09:37:32,079 - maincontroller.py - line:89 - INFO| 图片分析结果为<TbRunway 1>
+2022-08-26 09:37:32,079 - maincontroller.py - line:90 - INFO| 图片结果分析成功
+2022-08-26 09:38:14,491 - maincontroller.py - line:89 - INFO| 图片分析结果为<TbRunway 1>
+2022-08-26 09:38:14,491 - maincontroller.py - line:90 - INFO| 图片结果分析成功
+2022-08-26 09:39:00,102 - maincontroller.py - line:115 - INFO| [+] AGX API is running [2022-08-26 09:39:00.102507]
+2022-08-26 09:46:49,445 - maincontroller.py - line:115 - INFO| [+] AGX API is running [2022-08-26 09:46:49.445535]
+2022-08-26 09:56:23,816 - maincontroller.py - line:115 - INFO| [+] AGX API is running [2022-08-26 09:56:23.816788]
+2022-08-26 09:57:48,644 - maincontroller.py - line:102 - INFO| 图片分析结果为<TbRunway 14>
+2022-08-26 09:57:48,644 - maincontroller.py - line:103 - INFO| 图片结果分析成功
+2022-08-26 09:57:56,838 - maincontroller.py - line:102 - INFO| 图片分析结果为<TbRunway 1>
+2022-08-26 09:57:56,839 - maincontroller.py - line:103 - INFO| 图片结果分析成功
+2022-08-26 09:58:45,892 - maincontroller.py - line:117 - INFO| [+] AGX API is running [2022-08-26 09:58:45.892474]
+2022-08-26 10:56:53,084 - maincontroller.py - line:117 - INFO| [+] AGX API is running [2022-08-26 10:56:53.084309]
+2022-08-26 11:00:50,312 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:00:50.312660]
+2022-08-26 11:01:47,777 - maincontroller.py - line:67 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File "maincontroller.py", line 61, in detectio_img
+    origin_image = request.files["origin_image"]
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 375, in __getitem__
+    raise exceptions.BadRequestKeyError(key)
+werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+行数:61
+2022-08-26 11:02:54,859 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:54.859119]
+2022-08-26 11:02:54,953 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:54.953866]
+2022-08-26 11:02:55,007 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.007722]
+2022-08-26 11:02:55,050 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.050606]
+2022-08-26 11:02:55,123 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.123412]
+2022-08-26 11:02:55,155 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.155327]
+2022-08-26 11:02:55,217 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.217164]
+2022-08-26 11:02:55,316 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.316894]
+2022-08-26 11:02:55,318 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.318889]
+2022-08-26 11:02:55,324 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.324873]
+2022-08-26 11:02:55,347 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.347813]
+2022-08-26 11:02:55,357 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.356788]
+2022-08-26 11:02:55,362 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.362771]
+2022-08-26 11:02:55,367 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.367758]
+2022-08-26 11:02:55,382 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.382718]
+2022-08-26 11:02:55,383 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:02:55.383716]
+2022-08-26 11:02:56,412 - detect.py - line:120 - INFO| 
+2022-08-26 11:03:06,292 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.292549]
+2022-08-26 11:03:06,362 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.362363]
+2022-08-26 11:03:06,435 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.434172]
+2022-08-26 11:03:06,493 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.493014]
+2022-08-26 11:03:06,576 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.576790]
+2022-08-26 11:03:06,582 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.582773]
+2022-08-26 11:03:06,591 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.591749]
+2022-08-26 11:03:06,604 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.603720]
+2022-08-26 11:03:06,617 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.617681]
+2022-08-26 11:03:06,629 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.629648]
+2022-08-26 11:03:06,634 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.634635]
+2022-08-26 11:03:06,643 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.643611]
+2022-08-26 11:03:06,646 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.646603]
+2022-08-26 11:03:06,647 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.647600]
+2022-08-26 11:03:06,648 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.648598]
+2022-08-26 11:03:06,673 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:06.672536]
+2022-08-26 11:03:07,804 - detect.py - line:120 - INFO| 
+2022-08-26 11:03:17,716 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:17.716008]
+2022-08-26 11:03:17,742 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:17.742936]
+2022-08-26 11:03:17,774 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:17.774851]
+2022-08-26 11:03:17,889 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:17.889544]
+2022-08-26 11:03:17,968 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:17.968333]
+2022-08-26 11:03:18,012 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.012216]
+2022-08-26 11:03:18,022 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.022189]
+2022-08-26 11:03:18,034 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.034157]
+2022-08-26 11:03:18,035 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.035154]
+2022-08-26 11:03:18,040 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.039144]
+2022-08-26 11:03:18,045 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.045127]
+2022-08-26 11:03:18,054 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.054104]
+2022-08-26 11:03:18,059 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.059091]
+2022-08-26 11:03:18,123 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.123917]
+2022-08-26 11:03:18,156 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.156828]
+2022-08-26 11:03:18,200 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:18.200711]
+2022-08-26 11:03:19,220 - detect.py - line:120 - INFO| 
+2022-08-26 11:03:30,079 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.079803]
+2022-08-26 11:03:30,177 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.177542]
+2022-08-26 11:03:30,291 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.291237]
+2022-08-26 11:03:30,315 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.315173]
+2022-08-26 11:03:30,465 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.465770]
+2022-08-26 11:03:30,471 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.471753]
+2022-08-26 11:03:30,493 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.493696]
+2022-08-26 11:03:30,500 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.499686]
+2022-08-26 11:03:30,533 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.531595]
+2022-08-26 11:03:30,756 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.756991]
+2022-08-26 11:03:30,768 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.768958]
+2022-08-26 11:03:30,789 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.789903]
+2022-08-26 11:03:30,806 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.806857]
+2022-08-26 11:03:30,815 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.815833]
+2022-08-26 11:03:30,816 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.816830]
+2022-08-26 11:03:30,829 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:30.829796]
+2022-08-26 11:03:31,842 - detect.py - line:120 - INFO| 
+2022-08-26 11:03:41,800 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:41.800466]
+2022-08-26 11:03:41,870 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:41.869281]
+2022-08-26 11:03:41,943 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:41.943084]
+2022-08-26 11:03:41,956 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:41.956050]
+2022-08-26 11:03:42,102 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.102657]
+2022-08-26 11:03:42,106 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.106646]
+2022-08-26 11:03:42,121 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.121607]
+2022-08-26 11:03:42,132 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.132577]
+2022-08-26 11:03:42,144 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.144545]
+2022-08-26 11:03:42,160 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.159505]
+2022-08-26 11:03:42,171 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.171474]
+2022-08-26 11:03:42,194 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.194412]
+2022-08-26 11:03:42,200 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.200395]
+2022-08-26 11:03:42,210 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.210369]
+2022-08-26 11:03:42,212 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.212363]
+2022-08-26 11:03:42,279 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:42.279185]
+2022-08-26 11:03:43,362 - detect.py - line:120 - INFO| 
+2022-08-26 11:03:53,219 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.219936]
+2022-08-26 11:03:53,256 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.256835]
+2022-08-26 11:03:53,387 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.387485]
+2022-08-26 11:03:53,406 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.406435]
+2022-08-26 11:03:53,415 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.415412]
+2022-08-26 11:03:53,446 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.445332]
+2022-08-26 11:03:53,541 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.541075]
+2022-08-26 11:03:53,583 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.583966]
+2022-08-26 11:03:53,593 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.593933]
+2022-08-26 11:03:53,600 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.600916]
+2022-08-26 11:03:53,607 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.607896]
+2022-08-26 11:03:53,626 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.626845]
+2022-08-26 11:03:53,642 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.642802]
+2022-08-26 11:03:53,651 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.651779]
+2022-08-26 11:03:53,677 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.677710]
+2022-08-26 11:03:53,702 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:03:53.701645]
+2022-08-26 11:03:54,765 - detect.py - line:120 - INFO| 
+2022-08-26 11:04:04,658 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.658351]
+2022-08-26 11:04:04,739 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.739135]
+2022-08-26 11:04:04,772 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.772049]
+2022-08-26 11:04:04,819 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.819922]
+2022-08-26 11:04:04,847 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.847845]
+2022-08-26 11:04:04,864 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.864800]
+2022-08-26 11:04:04,891 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.891730]
+2022-08-26 11:04:04,916 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.916660]
+2022-08-26 11:04:04,987 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.987471]
+2022-08-26 11:04:04,994 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:04.994453]
+2022-08-26 11:04:05,083 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:05.083215]
+2022-08-26 11:04:05,091 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:05.091194]
+2022-08-26 11:04:05,093 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:05.092191]
+2022-08-26 11:04:05,109 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:05.109145]
+2022-08-26 11:04:05,116 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:05.116127]
+2022-08-26 11:04:05,133 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:05.133081]
+2022-08-26 11:04:06,177 - detect.py - line:120 - INFO| 
+2022-08-26 11:04:15,999 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:15.999746]
+2022-08-26 11:04:16,028 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.028671]
+2022-08-26 11:04:16,080 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.080532]
+2022-08-26 11:04:16,215 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.215169]
+2022-08-26 11:04:16,258 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.258059]
+2022-08-26 11:04:16,360 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.360781]
+2022-08-26 11:04:16,395 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.395687]
+2022-08-26 11:04:16,396 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.396684]
+2022-08-26 11:04:16,409 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.409653]
+2022-08-26 11:04:16,423 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.422616]
+2022-08-26 11:04:16,447 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.447548]
+2022-08-26 11:04:16,499 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.499409]
+2022-08-26 11:04:16,503 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.503398]
+2022-08-26 11:04:16,512 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.512375]
+2022-08-26 11:04:16,513 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.513372]
+2022-08-26 11:04:16,548 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:16.548278]
+2022-08-26 11:04:17,579 - detect.py - line:120 - INFO| 
+2022-08-26 11:04:27,614 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.614692]
+2022-08-26 11:04:27,666 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.666553]
+2022-08-26 11:04:27,681 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.681513]
+2022-08-26 11:04:27,711 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.711434]
+2022-08-26 11:04:27,763 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.762297]
+2022-08-26 11:04:27,771 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.771274]
+2022-08-26 11:04:27,776 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.776261]
+2022-08-26 11:04:27,778 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.778256]
+2022-08-26 11:04:27,779 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.779252]
+2022-08-26 11:04:27,794 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.794216]
+2022-08-26 11:04:27,794 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.794216]
+2022-08-26 11:04:27,810 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.810169]
+2022-08-26 11:04:27,822 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.822137]
+2022-08-26 11:04:27,822 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.822137]
+2022-08-26 11:04:27,849 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.849065]
+2022-08-26 11:04:27,849 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:27.849065]
+2022-08-26 11:04:29,014 - detect.py - line:120 - INFO| 
+2022-08-26 11:04:39,006 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.006235]
+2022-08-26 11:04:39,075 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.075051]
+2022-08-26 11:04:39,095 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.095996]
+2022-08-26 11:04:39,128 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.128906]
+2022-08-26 11:04:39,154 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.154838]
+2022-08-26 11:04:39,211 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.211687]
+2022-08-26 11:04:39,234 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.234624]
+2022-08-26 11:04:39,305 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.304437]
+2022-08-26 11:04:39,370 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.370260]
+2022-08-26 11:04:39,421 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.421125]
+2022-08-26 11:04:39,424 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.424117]
+2022-08-26 11:04:39,439 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.439077]
+2022-08-26 11:04:39,442 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.442069]
+2022-08-26 11:04:39,447 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.446058]
+2022-08-26 11:04:39,454 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.454036]
+2022-08-26 11:04:39,469 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:39.469994]
+2022-08-26 11:04:40,486 - detect.py - line:120 - INFO| 
+2022-08-26 11:04:50,467 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.467593]
+2022-08-26 11:04:50,486 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.486541]
+2022-08-26 11:04:50,546 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.546380]
+2022-08-26 11:04:50,570 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.570317]
+2022-08-26 11:04:50,600 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.600236]
+2022-08-26 11:04:50,618 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.617191]
+2022-08-26 11:04:50,725 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.725900]
+2022-08-26 11:04:50,755 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.755820]
+2022-08-26 11:04:50,778 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.778760]
+2022-08-26 11:04:50,803 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.803692]
+2022-08-26 11:04:50,814 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.814663]
+2022-08-26 11:04:50,823 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.823639]
+2022-08-26 11:04:50,840 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.840593]
+2022-08-26 11:04:50,841 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.841590]
+2022-08-26 11:04:50,853 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.853559]
+2022-08-26 11:04:50,853 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:04:50.853559]
+2022-08-26 11:04:51,918 - detect.py - line:120 - INFO| 
+2022-08-26 11:05:01,841 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:01.841183]
+2022-08-26 11:05:01,948 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:01.948895]
+2022-08-26 11:05:02,001 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.001753]
+2022-08-26 11:05:02,099 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.099491]
+2022-08-26 11:05:02,099 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.099491]
+2022-08-26 11:05:02,123 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.122431]
+2022-08-26 11:05:02,134 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.134399]
+2022-08-26 11:05:02,134 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.134399]
+2022-08-26 11:05:02,137 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.137391]
+2022-08-26 11:05:02,153 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.153349]
+2022-08-26 11:05:02,156 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.156342]
+2022-08-26 11:05:02,157 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.157339]
+2022-08-26 11:05:02,162 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.162323]
+2022-08-26 11:05:02,163 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.163321]
+2022-08-26 11:05:02,206 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.206208]
+2022-08-26 11:05:02,245 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:02.245102]
+2022-08-26 11:05:03,352 - detect.py - line:120 - INFO| 
+2022-08-26 11:05:13,219 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.218765]
+2022-08-26 11:05:13,241 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.241702]
+2022-08-26 11:05:13,362 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.361384]
+2022-08-26 11:05:13,371 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.371356]
+2022-08-26 11:05:13,456 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.456128]
+2022-08-26 11:05:13,482 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.482060]
+2022-08-26 11:05:13,524 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.524947]
+2022-08-26 11:05:13,576 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.576807]
+2022-08-26 11:05:13,595 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.595754]
+2022-08-26 11:05:13,628 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.628666]
+2022-08-26 11:05:13,629 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.629663]
+2022-08-26 11:05:13,645 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.645623]
+2022-08-26 11:05:13,657 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.657588]
+2022-08-26 11:05:13,673 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.673548]
+2022-08-26 11:05:13,674 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.674544]
+2022-08-26 11:05:13,689 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:13.689503]
+2022-08-26 11:05:14,773 - detect.py - line:120 - INFO| 
+2022-08-26 11:05:24,541 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.541491]
+2022-08-26 11:05:24,667 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.667154]
+2022-08-26 11:05:24,737 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.737964]
+2022-08-26 11:05:24,841 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.841687]
+2022-08-26 11:05:24,884 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.884573]
+2022-08-26 11:05:24,902 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.902525]
+2022-08-26 11:05:24,922 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.922471]
+2022-08-26 11:05:24,935 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.935436]
+2022-08-26 11:05:24,938 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.938428]
+2022-08-26 11:05:24,938 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.938428]
+2022-08-26 11:05:24,941 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.941420]
+2022-08-26 11:05:24,955 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.955383]
+2022-08-26 11:05:24,955 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.955383]
+2022-08-26 11:05:24,958 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.958376]
+2022-08-26 11:05:24,994 - maincontroller.py - line:113 - INFO| [+] AGX API is running [2022-08-26 11:05:24.994279]
+2022-08-26 11:05:26,167 - maincontroller.py - line:78 - INFO| 文件夹图片对比分析成功
+2022-08-26 11:07:08,429 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 17>
+2022-08-26 11:07:08,429 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:08,429 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 31>
+2022-08-26 11:07:08,429 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,492 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 1>
+2022-08-26 11:07:14,493 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,493 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 2>
+2022-08-26 11:07:14,493 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,494 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 3>
+2022-08-26 11:07:14,494 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,494 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 4>
+2022-08-26 11:07:14,494 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,495 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 5>
+2022-08-26 11:07:14,495 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,495 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 6>
+2022-08-26 11:07:14,495 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,495 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 7>
+2022-08-26 11:07:14,496 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,496 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 8>
+2022-08-26 11:07:14,496 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,496 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 9>
+2022-08-26 11:07:14,496 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,497 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 10>
+2022-08-26 11:07:14,497 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,497 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 11>
+2022-08-26 11:07:14,497 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,497 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 12>
+2022-08-26 11:07:14,497 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,498 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 13>
+2022-08-26 11:07:14,498 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,498 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 14>
+2022-08-26 11:07:14,498 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,498 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 15>
+2022-08-26 11:07:14,498 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,499 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 16>
+2022-08-26 11:07:14,499 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,499 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 18>
+2022-08-26 11:07:14,499 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,499 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 19>
+2022-08-26 11:07:14,500 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,500 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 20>
+2022-08-26 11:07:14,500 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,500 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 21>
+2022-08-26 11:07:14,500 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,500 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 22>
+2022-08-26 11:07:14,501 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,501 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 23>
+2022-08-26 11:07:14,501 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,501 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 24>
+2022-08-26 11:07:14,501 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,501 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 25>
+2022-08-26 11:07:14,502 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,502 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 26>
+2022-08-26 11:07:14,502 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,502 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 27>
+2022-08-26 11:07:14,502 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,503 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 28>
+2022-08-26 11:07:14,503 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,503 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 29>
+2022-08-26 11:07:14,503 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:07:14,503 - maincontroller.py - line:100 - INFO| 图片分析结果为<TbRunway 30>
+2022-08-26 11:07:14,503 - maincontroller.py - line:101 - INFO| 图片结果分析成功
+2022-08-26 11:25:05,296 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:25:05.296246]
+2022-08-26 11:25:24,541 - maincontroller.py - line:94 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File "maincontroller.py", line 69, in detectio_img
+    origin_image = request.files["origin_image"]
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 375, in __getitem__
+    raise exceptions.BadRequestKeyError(key)
+werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+行数:69
+2022-08-26 11:26:40,588 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.588088]
+2022-08-26 11:26:40,592 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.592077]
+2022-08-26 11:26:40,620 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.620002]
+2022-08-26 11:26:40,645 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.645933]
+2022-08-26 11:26:40,648 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.648924]
+2022-08-26 11:26:40,663 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.663886]
+2022-08-26 11:26:40,668 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.668877]
+2022-08-26 11:26:40,684 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.684829]
+2022-08-26 11:26:40,695 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.695800]
+2022-08-26 11:26:40,699 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.699788]
+2022-08-26 11:26:40,745 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.745666]
+2022-08-26 11:26:40,756 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.756638]
+2022-08-26 11:26:40,759 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.759628]
+2022-08-26 11:26:40,768 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.768603]
+2022-08-26 11:26:40,835 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.835425]
+2022-08-26 11:26:40,875 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:40.875318]
+2022-08-26 11:26:42,053 - detect.py - line:120 - INFO| 
+2022-08-26 11:26:42,741 - maincontroller.py - line:72 - INFO| 图片分析成功
+2022-08-26 11:26:50,548 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.548458]
+2022-08-26 11:26:50,592 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.592339]
+2022-08-26 11:26:50,637 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.637221]
+2022-08-26 11:26:50,694 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.694069]
+2022-08-26 11:26:50,779 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.779838]
+2022-08-26 11:26:50,815 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.814744]
+2022-08-26 11:26:50,824 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.824718]
+2022-08-26 11:26:50,864 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.864611]
+2022-08-26 11:26:50,909 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.909491]
+2022-08-26 11:26:50,916 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.916472]
+2022-08-26 11:26:50,952 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.952376]
+2022-08-26 11:26:50,965 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.964344]
+2022-08-26 11:26:50,990 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.990277]
+2022-08-26 11:26:50,995 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:50.995263]
+2022-08-26 11:26:51,029 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:51.029170]
+2022-08-26 11:26:51,074 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:26:51.074050]
+2022-08-26 11:26:52,099 - maincontroller.py - line:91 - INFO| 数据插入成功
+2022-08-26 11:29:36,953 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:36.953831]
+2022-08-26 11:29:36,987 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:36.987741]
+2022-08-26 11:29:37,011 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.011679]
+2022-08-26 11:29:37,041 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.041596]
+2022-08-26 11:29:37,067 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.067529]
+2022-08-26 11:29:37,085 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.085479]
+2022-08-26 11:29:37,091 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.091463]
+2022-08-26 11:29:37,103 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.103431]
+2022-08-26 11:29:37,106 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.106424]
+2022-08-26 11:29:37,122 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.122381]
+2022-08-26 11:29:37,131 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.131356]
+2022-08-26 11:29:37,132 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.131356]
+2022-08-26 11:29:37,134 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.134348]
+2022-08-26 11:29:37,191 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.191196]
+2022-08-26 11:29:37,285 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.285942]
+2022-08-26 11:29:37,344 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:37.344785]
+2022-08-26 11:29:38,363 - detect.py - line:120 - INFO| 
+2022-08-26 11:29:47,900 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:47.900985]
+2022-08-26 11:29:48,019 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.019667]
+2022-08-26 11:29:48,050 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.050586]
+2022-08-26 11:29:48,054 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.053580]
+2022-08-26 11:29:48,090 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.090480]
+2022-08-26 11:29:48,093 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.092473]
+2022-08-26 11:29:48,152 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.152313]
+2022-08-26 11:29:48,152 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.152313]
+2022-08-26 11:29:48,180 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.180238]
+2022-08-26 11:29:48,181 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.181235]
+2022-08-26 11:29:48,183 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.183230]
+2022-08-26 11:29:48,183 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.183230]
+2022-08-26 11:29:48,191 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.190211]
+2022-08-26 11:29:48,191 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.191212]
+2022-08-26 11:29:48,195 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.195198]
+2022-08-26 11:29:48,227 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:48.227112]
+2022-08-26 11:29:49,424 - detect.py - line:120 - INFO| 
+2022-08-26 11:29:59,035 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.035214]
+2022-08-26 11:29:59,140 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.140935]
+2022-08-26 11:29:59,226 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.226703]
+2022-08-26 11:29:59,242 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.242660]
+2022-08-26 11:29:59,263 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.262608]
+2022-08-26 11:29:59,272 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.271583]
+2022-08-26 11:29:59,273 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.273581]
+2022-08-26 11:29:59,292 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.292529]
+2022-08-26 11:29:59,293 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.293525]
+2022-08-26 11:29:59,293 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.293525]
+2022-08-26 11:29:59,297 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.297515]
+2022-08-26 11:29:59,301 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.301503]
+2022-08-26 11:29:59,319 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.319455]
+2022-08-26 11:29:59,319 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.319455]
+2022-08-26 11:29:59,328 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.328430]
+2022-08-26 11:29:59,378 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:29:59.378297]
+2022-08-26 11:30:00,615 - detect.py - line:120 - INFO| 
+2022-08-26 11:30:10,172 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.172439]
+2022-08-26 11:30:10,242 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.242252]
+2022-08-26 11:30:10,283 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.283146]
+2022-08-26 11:30:10,289 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.288130]
+2022-08-26 11:30:10,327 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.327030]
+2022-08-26 11:30:10,355 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.355949]
+2022-08-26 11:30:10,356 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.356945]
+2022-08-26 11:30:10,360 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.360935]
+2022-08-26 11:30:10,370 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.370909]
+2022-08-26 11:30:10,373 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.373903]
+2022-08-26 11:30:10,373 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.373903]
+2022-08-26 11:30:10,390 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.390853]
+2022-08-26 11:30:10,390 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.390853]
+2022-08-26 11:30:10,391 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.391851]
+2022-08-26 11:30:10,410 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.410800]
+2022-08-26 11:30:10,414 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:10.414794]
+2022-08-26 11:30:11,604 - detect.py - line:120 - INFO| 
+2022-08-26 11:30:21,124 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.124894]
+2022-08-26 11:30:21,137 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.137859]
+2022-08-26 11:30:21,218 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.218642]
+2022-08-26 11:30:21,232 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.232605]
+2022-08-26 11:30:21,235 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.235597]
+2022-08-26 11:30:21,262 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.262525]
+2022-08-26 11:30:21,268 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.268508]
+2022-08-26 11:30:21,270 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.270503]
+2022-08-26 11:30:21,270 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.270503]
+2022-08-26 11:30:21,279 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.279479]
+2022-08-26 11:30:21,280 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.279479]
+2022-08-26 11:30:21,281 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.281474]
+2022-08-26 11:30:21,293 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.293444]
+2022-08-26 11:30:21,321 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.321367]
+2022-08-26 11:30:21,379 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.379212]
+2022-08-26 11:30:21,389 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:21.389188]
+2022-08-26 11:30:22,538 - detect.py - line:120 - INFO| 
+2022-08-26 11:30:32,023 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.023755]
+2022-08-26 11:30:32,093 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.093566]
+2022-08-26 11:30:32,194 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.194297]
+2022-08-26 11:30:32,233 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.233194]
+2022-08-26 11:30:32,259 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.259123]
+2022-08-26 11:30:32,301 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.301015]
+2022-08-26 11:30:32,426 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.426675]
+2022-08-26 11:30:32,493 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.493497]
+2022-08-26 11:30:32,503 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:32.500478]
+2022-08-26 11:30:33,026 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:33.026072]
+2022-08-26 11:30:33,027 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:33.027070]
+2022-08-26 11:30:33,028 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:33.028067]
+2022-08-26 11:30:33,034 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:33.034051]
+2022-08-26 11:30:33,038 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:33.037043]
+2022-08-26 11:30:33,040 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:33.040035]
+2022-08-26 11:30:33,044 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:33.044025]
+2022-08-26 11:30:33,752 - detect.py - line:120 - INFO| 
+2022-08-26 11:30:43,265 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.265145]
+2022-08-26 11:30:43,348 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.348920]
+2022-08-26 11:30:43,452 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.452643]
+2022-08-26 11:30:43,516 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.516472]
+2022-08-26 11:30:43,534 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.534425]
+2022-08-26 11:30:43,560 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.560357]
+2022-08-26 11:30:43,578 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.578307]
+2022-08-26 11:30:43,583 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.583294]
+2022-08-26 11:30:43,588 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.587283]
+2022-08-26 11:30:43,597 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.597258]
+2022-08-26 11:30:43,607 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.607229]
+2022-08-26 11:30:43,608 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.608227]
+2022-08-26 11:30:43,611 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.611218]
+2022-08-26 11:30:43,612 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.612215]
+2022-08-26 11:30:43,656 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.656098]
+2022-08-26 11:30:43,692 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:43.692002]
+2022-08-26 11:30:44,836 - detect.py - line:120 - INFO| 
+2022-08-26 11:30:54,523 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.523045]
+2022-08-26 11:30:54,589 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.589865]
+2022-08-26 11:30:54,688 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.688602]
+2022-08-26 11:30:54,694 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.694586]
+2022-08-26 11:30:54,738 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.738468]
+2022-08-26 11:30:54,756 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.756421]
+2022-08-26 11:30:54,786 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.786341]
+2022-08-26 11:30:54,793 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.793323]
+2022-08-26 11:30:54,802 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.802299]
+2022-08-26 11:30:54,806 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.806287]
+2022-08-26 11:30:54,822 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.822245]
+2022-08-26 11:30:54,835 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.835209]
+2022-08-26 11:30:54,866 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.866127]
+2022-08-26 11:30:54,888 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.888068]
+2022-08-26 11:30:54,913 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.913001]
+2022-08-26 11:30:54,932 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:30:54.932947]
+2022-08-26 11:30:55,992 - detect.py - line:120 - INFO| 
+2022-08-26 11:31:05,493 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.493713]
+2022-08-26 11:31:05,606 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.606414]
+2022-08-26 11:31:05,751 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.751026]
+2022-08-26 11:31:05,760 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.760001]
+2022-08-26 11:31:05,791 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.791917]
+2022-08-26 11:31:05,793 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.793910]
+2022-08-26 11:31:05,805 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.805878]
+2022-08-26 11:31:05,824 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.824827]
+2022-08-26 11:31:05,825 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.825825]
+2022-08-26 11:31:05,832 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.831809]
+2022-08-26 11:31:05,841 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.841786]
+2022-08-26 11:31:05,855 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.855746]
+2022-08-26 11:31:05,950 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.950492]
+2022-08-26 11:31:05,963 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.963456]
+2022-08-26 11:31:05,973 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.973431]
+2022-08-26 11:31:05,984 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:05.984402]
+2022-08-26 11:31:07,095 - detect.py - line:120 - INFO| 
+2022-08-26 11:31:16,689 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.689780]
+2022-08-26 11:31:16,774 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.774552]
+2022-08-26 11:31:16,817 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.817438]
+2022-08-26 11:31:16,860 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.860322]
+2022-08-26 11:31:16,891 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.891240]
+2022-08-26 11:31:16,910 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.910190]
+2022-08-26 11:31:16,937 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.937120]
+2022-08-26 11:31:16,942 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.942104]
+2022-08-26 11:31:16,956 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.956066]
+2022-08-26 11:31:16,957 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.957066]
+2022-08-26 11:31:16,975 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.975017]
+2022-08-26 11:31:16,978 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.978008]
+2022-08-26 11:31:16,992 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.992967]
+2022-08-26 11:31:16,992 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.992967]
+2022-08-26 11:31:16,993 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:16.992967]
+2022-08-26 11:31:17,078 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:17.078738]
+2022-08-26 11:31:18,297 - detect.py - line:120 - INFO| 
+2022-08-26 11:31:28,098 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.098278]
+2022-08-26 11:31:28,149 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.149141]
+2022-08-26 11:31:28,156 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.156122]
+2022-08-26 11:31:28,170 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.170086]
+2022-08-26 11:31:28,174 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.173077]
+2022-08-26 11:31:28,184 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.184047]
+2022-08-26 11:31:28,194 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.194023]
+2022-08-26 11:31:28,205 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.205988]
+2022-08-26 11:31:28,215 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.215961]
+2022-08-26 11:31:28,222 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.222946]
+2022-08-26 11:31:28,228 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.228930]
+2022-08-26 11:31:28,233 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.233915]
+2022-08-26 11:31:28,248 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.248874]
+2022-08-26 11:31:28,271 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.271816]
+2022-08-26 11:31:28,301 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.301734]
+2022-08-26 11:31:28,306 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:28.306719]
+2022-08-26 11:31:29,486 - detect.py - line:120 - INFO| 
+2022-08-26 11:31:39,046 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.046007]
+2022-08-26 11:31:39,114 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.114823]
+2022-08-26 11:31:39,245 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.245474]
+2022-08-26 11:31:39,306 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.306312]
+2022-08-26 11:31:39,328 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.327255]
+2022-08-26 11:31:39,345 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.345210]
+2022-08-26 11:31:39,367 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.367148]
+2022-08-26 11:31:39,391 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.391085]
+2022-08-26 11:31:39,396 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.396070]
+2022-08-26 11:31:39,406 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.406045]
+2022-08-26 11:31:39,408 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.408038]
+2022-08-26 11:31:39,413 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.413024]
+2022-08-26 11:31:39,413 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.413024]
+2022-08-26 11:31:39,417 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.417014]
+2022-08-26 11:31:39,434 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.434966]
+2022-08-26 11:31:39,435 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:39.435964]
+2022-08-26 11:31:40,585 - detect.py - line:120 - INFO| 
+2022-08-26 11:31:50,293 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.293933]
+2022-08-26 11:31:50,307 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.307898]
+2022-08-26 11:31:50,314 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.314883]
+2022-08-26 11:31:50,349 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.349787]
+2022-08-26 11:31:50,372 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.371725]
+2022-08-26 11:31:50,395 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.394665]
+2022-08-26 11:31:50,399 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.399655]
+2022-08-26 11:31:50,402 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.402643]
+2022-08-26 11:31:50,403 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.403639]
+2022-08-26 11:31:50,406 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.406633]
+2022-08-26 11:31:50,413 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.413614]
+2022-08-26 11:31:50,414 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.414610]
+2022-08-26 11:31:50,418 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.418601]
+2022-08-26 11:31:50,450 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.450515]
+2022-08-26 11:31:50,462 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.462482]
+2022-08-26 11:31:50,479 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:31:50.479436]
+2022-08-26 11:31:51,702 - detect.py - line:120 - INFO| 
+2022-08-26 11:32:01,164 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.164868]
+2022-08-26 11:32:01,261 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.261610]
+2022-08-26 11:32:01,262 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.262608]
+2022-08-26 11:32:01,291 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.291531]
+2022-08-26 11:32:01,291 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.291531]
+2022-08-26 11:32:01,296 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.296519]
+2022-08-26 11:32:01,303 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.303497]
+2022-08-26 11:32:01,303 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.303497]
+2022-08-26 11:32:01,304 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.304496]
+2022-08-26 11:32:01,326 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.326436]
+2022-08-26 11:32:01,326 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.326436]
+2022-08-26 11:32:01,336 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.336410]
+2022-08-26 11:32:01,338 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.337407]
+2022-08-26 11:32:01,344 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.344391]
+2022-08-26 11:32:01,360 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.360345]
+2022-08-26 11:32:01,420 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 11:32:01.420185]
+2022-08-26 11:32:02,669 - maincontroller.py - line:105 - INFO| 文件夹图片对比分析成功
+2022-08-26 15:51:49,743 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:51:49,749 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:51:49.749523]
+2022-08-26 15:52:25,668 - timeTools.py - line:6 - INFO| 收到消息 2022-08-26 15:52:25.668595
+2022-08-26 15:52:25,668 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-26 15:52:25.668595
+2022-08-26 15:52:25,724 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-26 15:52:25.724477
+2022-08-26 15:52:25,724 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-26 15:52:25.724477
+2022-08-26 15:52:25,725 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-26 15:52:25.725442
+2022-08-26 15:52:26,216 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-26 15:52:26.216760
+2022-08-26 15:52:26,216 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-26 15:52:26.216760
+2022-08-26 15:52:29,920 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-26 15:52:29.920032
+2022-08-26 15:52:29,933 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-26 15:52:29.933994
+2022-08-26 15:52:33,458 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,465 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.465344]
+2022-08-26 15:52:33,510 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,518 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.518203]
+2022-08-26 15:52:33,584 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,593 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.593543]
+2022-08-26 15:52:33,643 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,648 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.648403]
+2022-08-26 15:52:33,821 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,822 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,826 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.826967]
+2022-08-26 15:52:33,827 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.827965]
+2022-08-26 15:52:33,839 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,844 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.843923]
+2022-08-26 15:52:33,852 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,859 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.859883]
+2022-08-26 15:52:33,859 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,874 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,874 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,876 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.876356]
+2022-08-26 15:52:33,880 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,881 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.881344]
+2022-08-26 15:52:33,881 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.880347]
+2022-08-26 15:52:33,884 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,887 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.887326]
+2022-08-26 15:52:33,891 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.890318]
+2022-08-26 15:52:33,902 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,902 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,905 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:33,908 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.908271]
+2022-08-26 15:52:33,909 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.909270]
+2022-08-26 15:52:33,912 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:33.912259]
+2022-08-26 15:52:35,040 - detect.py - line:120 - INFO| 
+2022-08-26 15:52:35,057 - timeTools.py - line:6 - INFO| 结束时间 2022-08-26 15:52:35.057876
+2022-08-26 15:52:35,058 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-26 15:52:35.058870
+2022-08-26 15:52:35,594 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-26 15:52:35.593603
+2022-08-26 15:52:35,628 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-26 15:52:35.627512
+2022-08-26 15:52:35,658 - maincontroller.py - line:72 - INFO| 图片分析成功
+2022-08-26 15:52:43,611 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,677 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.677460]
+2022-08-26 15:52:43,718 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,770 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.770734]
+2022-08-26 15:52:43,835 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,836 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,840 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.840086]
+2022-08-26 15:52:43,845 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.845071]
+2022-08-26 15:52:43,849 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,863 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,863 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.863025]
+2022-08-26 15:52:43,869 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,871 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.871003]
+2022-08-26 15:52:43,879 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.879985]
+2022-08-26 15:52:43,892 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,899 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,905 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.905453]
+2022-08-26 15:52:43,908 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.908443]
+2022-08-26 15:52:43,909 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,920 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.920410]
+2022-08-26 15:52:43,924 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,933 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,933 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.933375]
+2022-08-26 15:52:43,935 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,938 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.938362]
+2022-08-26 15:52:43,943 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.943349]
+2022-08-26 15:52:43,967 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,969 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,971 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.971274]
+2022-08-26 15:52:43,973 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.973272]
+2022-08-26 15:52:43,979 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:52:43,985 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:52:43.985239]
+2022-08-26 15:52:45,144 - maincontroller.py - line:91 - INFO| 数据插入成功
+2022-08-26 15:54:46,882 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:55:04,140 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:55:04,142 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:55:04.142890]
+2022-08-26 15:55:51,789 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:55:51,790 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-26 15:55:51.790416]
+2022-08-26 15:58:48,011 - db_runway.py - line:15 - INFO| None
+2022-08-26 15:58:48,014 - maincontroller.py - line:173 - INFO| [+] AGX API is running [2022-08-26 15:58:48.014803]
+2022-08-26 16:02:23,337 - maincontroller.py - line:173 - INFO| [+] AGX API is running [2022-08-26 16:02:23.337935]

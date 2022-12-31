@@ -1,0 +1,162 @@
+.thumbnail {
+  display: block;
+  padding: 0;
+  width: 90%;
+  margin: 0.5% auto 0;
+  position: relative;
+  top: -40px;
+}
+.ul {
+  position: absolute;
+  /* left:0; */
+  height: 100px;
+  width: 100%;
+  overflow: auto;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  /* margin-left:0px; */
+  /* margin-right:0px */
+  /* animation: ul 10s infinite 2s running; */
+  text-align: center;
+}
+.thumbnail li {
+  width: calc(10% - 14px);
+  box-sizing: border-box;
+  display: inline-block;
+  height: 90%;
+}
+.jssora05l {
+  background-position: -10px -40px;
+}
+.jssora05l,
+.jssora05r {
+  display: block;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  background: url(../images/a17.png) no-repeat;
+  overflow: hidden;
+}
+.jssora05r {
+  background-position: -10px -40px;
+}
+.jssora05l {
+  background-position: -10px -40px;
+}
+.jssora05r {
+  background-position: -70px -40px;
+}
+.jssora05l:hover {
+  background-position: -130px -40px;
+}
+.jssora05r:hover {
+  background-position: -190px -40px;
+}
+.jssora05l.jssora05ldn {
+  background-position: -250px -40px;
+}
+.jssora05r.jssora05rdn {
+  background-position: -310px -40px;
+}
+
+.wrapper {
+  z-index: 12;
+  position: absolute;
+  top: 6%;
+  left: 6%;
+  width: 88%;
+  height: 5%;
+  padding: 5px;
+  box-sizing: border-box;
+  background: linear-gradient(135deg, transparent 5px, var(--decoration) 0) top
+      left,
+    linear-gradient(-135deg, transparent 5px, var(--decoration) 0) top right,
+    linear-gradient(-45deg, transparent 5px, var(--decoration) 0) bottom right,
+    linear-gradient(45deg, transparent 5px, var(--decoration) 0) bottom left;
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
+  /* top: 50%; */
+  /* left: 50%; */
+  /* transform: translate(-50%,-50%); */
+  overflow: hidden;
+  line-height: 35px;
+}
+.wrapper a {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  font-size: 13px;
+  margin-left: 8px;
+  background-color: #ffffff45;
+  /* border: 1px solid #ffffff7a; */
+  padding: 5px 8px;
+  border-radius: 5px;
+}
+.wrapper .iconfont {
+  width: 16px;
+  height: 16px;
+}
+.board-img {
+  top: 52%;
+}
+.wrapper .haighlight {
+  background-color: #ffffff75;
+  border: 1px solid aqua;
+  color: aqua;
+}
+.tableView {
+  display: block;
+  /* display: none; */
+}
+.grad {
+  /* display: block; */
+  display: none;
+}
+.board-img .taskList tr td img{
+  width:50px;
+  height:auto;
+  clip-path: none;
+  }
+  .taskList{
+    overflow: auto;
+    display:block;
+    height:530px;
+    overflow-y: scroll;
+    /* -webkit-overflow-scrolling: touch;  为了滚动顺畅 */
+  }
+  table thead,
+    tbody tr,
+    tfoot tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    text-align:center;
+ } 
+ table thead { 
+  width: calc( 100% - 1em)
+  }
+  /* 隐藏滚动条 */
+  table tbody::-webkit-scrollbar {
+    /* display: none;  */
+    width:15px;
+}
+/* 设置滚动条的样式 */
+table tbody::-webkit-scrollbar {
+  width:12px;
+  }
+  /* 滚动槽 */
+  table tbody::-webkit-scrollbar-track {
+  -webkit-box-shadow:inset006pxrgba(0,0,0,0.3);
+  border-radius:10px;
+  }
+  /* 滚动条滑块 */
+  table tbody::-webkit-scrollbar-thumb {
+  border-radius:10px;
+  background:rgba(185, 179, 179, 0.5);
+  -webkit-box-shadow:inset006pxrgba(0,0,0,0.5);
+  }
+  table tbody::-webkit-scrollbar-thumb:window-inactive {
+  background:rgba(20, 92, 160, 0.4);
+  }

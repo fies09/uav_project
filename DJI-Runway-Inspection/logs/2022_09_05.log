@@ -1,0 +1,303 @@
+2022-09-05 09:28:09,903 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:28:09.903505]
+2022-09-05 09:29:52,188 - maincontroller.py - line:234 - INFO| 开始执行对比文件夹下的文件...
+2022-09-05 09:29:52,188 - maincontroller.py - line:242 - INFO| D:/images/write_imgs/20220903105600_a
+2022-09-05 09:29:52,189 - maincontroller.py - line:243 - INFO| D:/images/write_imgs/20220903105600_b
+2022-09-05 09:29:52,189 - maincontroller.py - line:244 - INFO| D:/images/out_imgs/20220903105600_c
+2022-09-05 09:29:52,190 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：1
+2022-09-05 09:29:52,441 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:29:53,123 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:29:53,521 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:29:53.521103
+2022-09-05 09:29:53,999 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:29:53.999823
+2022-09-05 09:29:53,999 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:29:53.999823
+2022-09-05 09:29:58,145 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:29:58.145573
+2022-09-05 09:29:58,158 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:29:58.158543
+2022-09-05 09:30:00,621 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.621950]
+2022-09-05 09:30:00,690 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.690766]
+2022-09-05 09:30:00,717 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.717695]
+2022-09-05 09:30:00,733 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.733651]
+2022-09-05 09:30:00,759 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.759582]
+2022-09-05 09:30:00,799 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.799475]
+2022-09-05 09:30:00,801 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.801471]
+2022-09-05 09:30:00,846 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.846350]
+2022-09-05 09:30:00,857 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.857320]
+2022-09-05 09:30:00,877 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.877267]
+2022-09-05 09:30:00,882 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.882253]
+2022-09-05 09:30:00,907 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.907187]
+2022-09-05 09:30:00,916 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.916163]
+2022-09-05 09:30:00,989 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:00.988967]
+2022-09-05 09:30:01,029 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:01.029858]
+2022-09-05 09:30:01,113 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:01.113634]
+2022-09-05 09:30:02,043 - detect.py - line:121 - INFO| 
+2022-09-05 09:30:02,057 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:30:02.057111
+2022-09-05 09:30:02,103 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/1.JPG
+2022-09-05 09:30:02,623 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：2
+2022-09-05 09:30:02,959 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:03,673 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:04,064 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:30:04.064128
+2022-09-05 09:30:04,459 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:30:04.459072
+2022-09-05 09:30:04,459 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:30:04.459072
+2022-09-05 09:30:08,270 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:30:08.270908
+2022-09-05 09:30:08,284 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:30:08.284839
+2022-09-05 09:30:11,075 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.075647]
+2022-09-05 09:30:11,081 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.081631]
+2022-09-05 09:30:11,092 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.092602]
+2022-09-05 09:30:11,144 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.144463]
+2022-09-05 09:30:11,164 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.164410]
+2022-09-05 09:30:11,197 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.197322]
+2022-09-05 09:30:11,213 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.213278]
+2022-09-05 09:30:11,217 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.217268]
+2022-09-05 09:30:11,217 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.217268]
+2022-09-05 09:30:11,257 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.257161]
+2022-09-05 09:30:11,283 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.283092]
+2022-09-05 09:30:11,292 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.292068]
+2022-09-05 09:30:11,293 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.293065]
+2022-09-05 09:30:11,296 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.296057]
+2022-09-05 09:30:11,334 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.334955]
+2022-09-05 09:30:11,362 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:11.362878]
+2022-09-05 09:30:12,464 - detect.py - line:121 - INFO| 
+2022-09-05 09:30:12,514 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:30:12.514179
+2022-09-05 09:30:12,565 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/2.JPG
+2022-09-05 09:30:13,270 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：3
+2022-09-05 09:30:13,564 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:14,254 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:14,638 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:30:14.638721
+2022-09-05 09:30:15,019 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:30:15.019700
+2022-09-05 09:30:15,019 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:30:15.019700
+2022-09-05 09:30:19,046 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:30:19.046930
+2022-09-05 09:30:19,063 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:30:19.063883
+2022-09-05 09:30:21,849 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:21.849434]
+2022-09-05 09:30:21,852 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:21.852425]
+2022-09-05 09:30:21,907 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:21.907278]
+2022-09-05 09:30:21,908 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:21.908276]
+2022-09-05 09:30:21,920 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:21.920245]
+2022-09-05 09:30:21,964 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:21.964126]
+2022-09-05 09:30:22,003 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.003022]
+2022-09-05 09:30:22,011 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.011001]
+2022-09-05 09:30:22,048 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.048900]
+2022-09-05 09:30:22,064 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.064857]
+2022-09-05 09:30:22,071 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.071838]
+2022-09-05 09:30:22,110 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.110734]
+2022-09-05 09:30:22,123 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.123699]
+2022-09-05 09:30:22,159 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.158606]
+2022-09-05 09:30:22,166 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.166585]
+2022-09-05 09:30:22,197 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:22.197501]
+2022-09-05 09:30:23,086 - detect.py - line:121 - INFO| 
+2022-09-05 09:30:23,100 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:30:23.100088
+2022-09-05 09:30:23,119 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/3.JPG
+2022-09-05 09:30:23,685 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：4
+2022-09-05 09:30:23,980 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:24,664 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:25,047 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:30:25.047878
+2022-09-05 09:30:25,438 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:30:25.438832
+2022-09-05 09:30:25,438 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:30:25.438832
+2022-09-05 09:30:29,131 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:30:29.131953
+2022-09-05 09:30:29,146 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:30:29.146915
+2022-09-05 09:30:31,694 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.694534]
+2022-09-05 09:30:31,697 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.696529]
+2022-09-05 09:30:31,707 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.707500]
+2022-09-05 09:30:31,713 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.713484]
+2022-09-05 09:30:31,729 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.729440]
+2022-09-05 09:30:31,779 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.779306]
+2022-09-05 09:30:31,779 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.779306]
+2022-09-05 09:30:31,779 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.779306]
+2022-09-05 09:30:31,811 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.811222]
+2022-09-05 09:30:31,822 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.822193]
+2022-09-05 09:30:31,836 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.836154]
+2022-09-05 09:30:31,842 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.842138]
+2022-09-05 09:30:31,858 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.858095]
+2022-09-05 09:30:31,864 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.864079]
+2022-09-05 09:30:31,911 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.911952]
+2022-09-05 09:30:31,934 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:31.934890]
+2022-09-05 09:30:32,964 - detect.py - line:121 - INFO| 
+2022-09-05 09:30:32,980 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:30:32.980096
+2022-09-05 09:30:32,999 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/4.JPG
+2022-09-05 09:30:33,450 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：5
+2022-09-05 09:30:33,875 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:34,570 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:34,952 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:30:34.952026
+2022-09-05 09:30:35,325 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:30:35.325995
+2022-09-05 09:30:35,326 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:30:35.325995
+2022-09-05 09:30:38,974 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:30:38.974393
+2022-09-05 09:30:38,989 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:30:38.989353
+2022-09-05 09:30:41,489 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.489665]
+2022-09-05 09:30:41,522 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.522577]
+2022-09-05 09:30:41,574 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.574438]
+2022-09-05 09:30:41,578 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.578428]
+2022-09-05 09:30:41,608 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.608347]
+2022-09-05 09:30:41,637 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.637270]
+2022-09-05 09:30:41,649 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.649238]
+2022-09-05 09:30:41,680 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.680156]
+2022-09-05 09:30:41,696 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.696114]
+2022-09-05 09:30:41,703 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.703094]
+2022-09-05 09:30:41,722 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.722044]
+2022-09-05 09:30:41,738 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.738999]
+2022-09-05 09:30:41,755 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.755953]
+2022-09-05 09:30:41,773 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.773904]
+2022-09-05 09:30:41,811 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.811803]
+2022-09-05 09:30:41,862 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:41.862667]
+2022-09-05 09:30:42,767 - detect.py - line:121 - INFO| 
+2022-09-05 09:30:42,785 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:30:42.785200
+2022-09-05 09:30:42,804 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/5.JPG
+2022-09-05 09:30:43,268 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：6
+2022-09-05 09:30:43,601 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:44,285 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:44,669 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:30:44.669255
+2022-09-05 09:30:45,047 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:30:45.047244
+2022-09-05 09:30:45,048 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:30:45.048241
+2022-09-05 09:30:48,739 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:30:48.739370
+2022-09-05 09:30:48,754 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:30:48.754328
+2022-09-05 09:30:51,266 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.266608]
+2022-09-05 09:30:51,280 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.280571]
+2022-09-05 09:30:51,290 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.290544]
+2022-09-05 09:30:51,298 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.298523]
+2022-09-05 09:30:51,342 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.342406]
+2022-09-05 09:30:51,362 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.362352]
+2022-09-05 09:30:51,398 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.397259]
+2022-09-05 09:30:51,398 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.398256]
+2022-09-05 09:30:51,400 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.400250]
+2022-09-05 09:30:51,408 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.408230]
+2022-09-05 09:30:51,440 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.440143]
+2022-09-05 09:30:51,443 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.443136]
+2022-09-05 09:30:51,472 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.472058]
+2022-09-05 09:30:51,476 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.476047]
+2022-09-05 09:30:51,525 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.525914]
+2022-09-05 09:30:51,527 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:30:51.527909]
+2022-09-05 09:30:52,497 - detect.py - line:121 - INFO| 
+2022-09-05 09:30:52,511 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:30:52.511278
+2022-09-05 09:30:52,531 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/6.JPG
+2022-09-05 09:30:53,089 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：7
+2022-09-05 09:30:53,375 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:53,973 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:30:54,338 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:30:54.338391
+2022-09-05 09:30:54,688 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:30:54.688454
+2022-09-05 09:30:54,689 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:30:54.689453
+2022-09-05 09:30:58,339 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:30:58.339855
+2022-09-05 09:30:58,354 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:30:58.354816
+2022-09-05 09:31:00,948 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:00.948877]
+2022-09-05 09:31:00,956 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:00.956855]
+2022-09-05 09:31:00,963 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:00.963837]
+2022-09-05 09:31:00,969 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:00.969822]
+2022-09-05 09:31:01,016 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.016695]
+2022-09-05 09:31:01,017 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.017693]
+2022-09-05 09:31:01,049 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.048609]
+2022-09-05 09:31:01,076 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.076535]
+2022-09-05 09:31:01,076 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.076535]
+2022-09-05 09:31:01,098 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.097479]
+2022-09-05 09:31:01,100 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.100472]
+2022-09-05 09:31:01,119 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.119421]
+2022-09-05 09:31:01,137 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.137373]
+2022-09-05 09:31:01,152 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.152332]
+2022-09-05 09:31:01,172 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.172278]
+2022-09-05 09:31:01,177 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:01.177265]
+2022-09-05 09:31:02,237 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:31:02.237458
+2022-09-05 09:31:02,248 - floder_analysis.py - line:58 - INFO| 无异物图片:D:/images/write_imgs/20220903105600_b/7.JPG
+2022-09-05 09:31:02,278 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：8
+2022-09-05 09:31:02,817 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:03,536 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:03,912 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:31:03.912949
+2022-09-05 09:31:04,276 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:31:04.276208
+2022-09-05 09:31:04,277 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:31:04.277211
+2022-09-05 09:31:07,915 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:31:07.915474
+2022-09-05 09:31:07,930 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:31:07.930406
+2022-09-05 09:31:10,422 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.422740]
+2022-09-05 09:31:10,532 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.532446]
+2022-09-05 09:31:10,592 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.592285]
+2022-09-05 09:31:10,598 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.598270]
+2022-09-05 09:31:10,650 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.650131]
+2022-09-05 09:31:10,664 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.664093]
+2022-09-05 09:31:10,702 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.702989]
+2022-09-05 09:31:10,766 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.766818]
+2022-09-05 09:31:10,784 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.784770]
+2022-09-05 09:31:10,785 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.785767]
+2022-09-05 09:31:10,801 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.801725]
+2022-09-05 09:31:10,832 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.832642]
+2022-09-05 09:31:10,863 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.863560]
+2022-09-05 09:31:10,873 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.873532]
+2022-09-05 09:31:10,896 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.896471]
+2022-09-05 09:31:10,985 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:10.985234]
+2022-09-05 09:31:11,845 - detect.py - line:121 - INFO| 
+2022-09-05 09:31:11,863 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:31:11.863913
+2022-09-05 09:31:11,871 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/8.JPG
+2022-09-05 09:31:12,398 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：9
+2022-09-05 09:31:12,711 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:13,391 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:13,770 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:31:13.770571
+2022-09-05 09:31:14,139 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:31:14.139584
+2022-09-05 09:31:14,140 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:31:14.140581
+2022-09-05 09:31:17,854 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:31:17.854647
+2022-09-05 09:31:17,868 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:31:17.868609
+2022-09-05 09:31:20,577 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.577364]
+2022-09-05 09:31:20,581 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.581353]
+2022-09-05 09:31:20,581 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.581353]
+2022-09-05 09:31:20,601 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.601300]
+2022-09-05 09:31:20,654 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.654159]
+2022-09-05 09:31:20,661 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.661140]
+2022-09-05 09:31:20,684 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.684079]
+2022-09-05 09:31:20,693 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.693055]
+2022-09-05 09:31:20,745 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.745914]
+2022-09-05 09:31:20,749 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.748905]
+2022-09-05 09:31:20,774 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.774837]
+2022-09-05 09:31:20,778 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.778826]
+2022-09-05 09:31:20,792 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.792787]
+2022-09-05 09:31:20,809 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.809741]
+2022-09-05 09:31:20,890 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.889529]
+2022-09-05 09:31:20,912 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:20.912467]
+2022-09-05 09:31:21,924 - detect.py - line:121 - INFO| 
+2022-09-05 09:31:21,937 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:31:21.937725
+2022-09-05 09:31:21,956 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/9.JPG
+2022-09-05 09:31:22,594 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：10
+2022-09-05 09:31:22,893 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:23,574 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:23,952 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:31:23.952056
+2022-09-05 09:31:24,320 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:31:24.319899
+2022-09-05 09:31:24,320 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:31:24.320897
+2022-09-05 09:31:28,047 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:31:28.047070
+2022-09-05 09:31:28,061 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:31:28.061032
+2022-09-05 09:31:31,101 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.101746]
+2022-09-05 09:31:31,121 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.121694]
+2022-09-05 09:31:31,145 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.145631]
+2022-09-05 09:31:31,152 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.152611]
+2022-09-05 09:31:31,168 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.168567]
+2022-09-05 09:31:31,174 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.174551]
+2022-09-05 09:31:31,189 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.188514]
+2022-09-05 09:31:31,202 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.202477]
+2022-09-05 09:31:31,217 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.217437]
+2022-09-05 09:31:31,217 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.217437]
+2022-09-05 09:31:31,288 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.288247]
+2022-09-05 09:31:31,300 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.300215]
+2022-09-05 09:31:31,309 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.309191]
+2022-09-05 09:31:31,381 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.381997]
+2022-09-05 09:31:31,402 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.402941]
+2022-09-05 09:31:31,409 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:31.409922]
+2022-09-05 09:31:32,371 - detect.py - line:121 - INFO| 
+2022-09-05 09:31:32,383 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:31:32.383318
+2022-09-05 09:31:32,395 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/10.JPG
+2022-09-05 09:31:32,893 - floder_analysis.py - line:32 - INFO| 开始执行当前文件：11
+2022-09-05 09:31:33,238 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:33,926 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-05 09:31:34,306 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-05 09:31:34.306473
+2022-09-05 09:31:34,690 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-05 09:31:34.690446
+2022-09-05 09:31:34,690 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-05 09:31:34.690446
+2022-09-05 09:31:38,425 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-05 09:31:38.425455
+2022-09-05 09:31:38,440 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-05 09:31:38.440415
+2022-09-05 09:31:41,135 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.135207]
+2022-09-05 09:31:41,146 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.146178]
+2022-09-05 09:31:41,149 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.149170]
+2022-09-05 09:31:41,185 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.185074]
+2022-09-05 09:31:41,196 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.196044]
+2022-09-05 09:31:41,215 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.215991]
+2022-09-05 09:31:41,251 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.251895]
+2022-09-05 09:31:41,256 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.255885]
+2022-09-05 09:31:41,265 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.265858]
+2022-09-05 09:31:41,290 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.290790]
+2022-09-05 09:31:41,315 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.315725]
+2022-09-05 09:31:41,331 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.331682]
+2022-09-05 09:31:41,358 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.358609]
+2022-09-05 09:31:41,358 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.358609]
+2022-09-05 09:31:41,445 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.445377]
+2022-09-05 09:31:41,445 - maincontroller.py - line:386 - INFO| [+] AGX API is running [2022-09-05 09:31:41.445377]
+2022-09-05 09:31:42,443 - detect.py - line:121 - INFO| 
+2022-09-05 09:31:42,458 - timeTools.py - line:6 - INFO| 结束时间 2022-09-05 09:31:42.458666
+2022-09-05 09:31:42,476 - floder_analysis.py - line:51 - INFO| 异物图片:D:/images/write_imgs/20220903105600_b/11.JPG
+2022-09-05 09:31:43,013 - floder_analysis.py - line:60 - INFO| done.
+2022-09-05 09:31:43,030 - maincontroller.py - line:248 - INFO| 文件夹图片对比分析成功...

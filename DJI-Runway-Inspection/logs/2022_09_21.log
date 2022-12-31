@@ -1,0 +1,79 @@
+2022-09-21 15:12:05,926 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-09-21 15:12:05.926673]
+2022-09-21 15:12:27,543 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-09-21 15:12:27.543361]
+2022-09-21 15:12:48,805 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-09-21 15:12:48.805808]
+2022-09-21 15:20:57,921 - maincontroller.py - line:362 - INFO| [+] AGX API is running [2022-09-21 15:20:57.921240]
+2022-09-22 15:20:17,450 - maincontroller.py - line:66 - INFO| 开始下载文件: DJI_20220922152006_0001_W.JPG
+2022-09-22 15:20:19,157 - maincontroller.py - line:68 - INFO| DJI_20220922152006_0001_W.JPG下载成功
+2022-09-22 15:20:19,176 - sql_operations.py - line:21 - INFO| 开始向航线表插入数据
+2022-09-22 15:20:19,197 - sql_operations.py - line:29 - INFO| 航线表数据插入成功
+2022-09-22 15:20:19,206 - sql_operations.py - line:42 - INFO| 开始向任务数据表插入数据
+2022-09-22 15:20:19,223 - sql_operations.py - line:51 - INFO| 任务数据插入成功
+2022-09-22 15:20:19,237 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:20:19,248 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:20:19,249 - maincontroller.py - line:76 - INFO| 开始执行自动对比功能
+2022-09-22 15:22:36,581 - maincontroller.py - line:66 - INFO| 开始下载文件: DJI_20220922152232_0002_Z.JPG
+2022-09-22 15:22:37,095 - maincontroller.py - line:68 - INFO| DJI_20220922152232_0002_Z.JPG下载成功
+2022-09-22 15:22:37,102 - sql_operations.py - line:31 - INFO| 航线数据已存在
+2022-09-22 15:22:37,107 - sql_operations.py - line:53 - INFO| 任务数据已存在
+2022-09-22 15:22:37,121 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:22:37,143 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:22:37,149 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:22:37,187 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:22:37,188 - maincontroller.py - line:76 - INFO| 开始执行自动对比功能
+2022-09-22 15:27:50,891 - maincontroller.py - line:66 - INFO| 开始下载文件: DJI_20220905161206_0005_Z_航点5.JPG
+2022-09-22 15:27:57,681 - maincontroller.py - line:68 - INFO| DJI_20220905161206_0005_Z_航点5.JPG下载成功
+2022-09-22 15:27:57,686 - sql_operations.py - line:21 - INFO| 开始向航线表插入数据
+2022-09-22 15:27:57,703 - sql_operations.py - line:29 - INFO| 航线表数据插入成功
+2022-09-22 15:27:57,711 - sql_operations.py - line:42 - INFO| 开始向任务数据表插入数据
+2022-09-22 15:27:57,717 - sql_operations.py - line:51 - INFO| 任务数据插入成功
+2022-09-22 15:27:57,730 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:27:57,735 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:27:57,736 - maincontroller.py - line:76 - INFO| 开始执行自动对比功能
+2022-09-22 15:28:00,441 - maincontroller.py - line:66 - INFO| 开始下载文件: DJI_20220905161146_0004_Z_航点4.JPG
+2022-09-22 15:28:06,249 - maincontroller.py - line:68 - INFO| DJI_20220905161146_0004_Z_航点4.JPG下载成功
+2022-09-22 15:28:06,255 - sql_operations.py - line:31 - INFO| 航线数据已存在
+2022-09-22 15:28:06,260 - sql_operations.py - line:53 - INFO| 任务数据已存在
+2022-09-22 15:28:06,274 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:06,280 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:06,285 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:06,291 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:06,291 - maincontroller.py - line:76 - INFO| 开始执行自动对比功能
+2022-09-22 15:28:08,909 - maincontroller.py - line:66 - INFO| 开始下载文件: DJI_20220905161132_0003_Z_航点3.JPG
+2022-09-22 15:28:17,410 - maincontroller.py - line:68 - INFO| DJI_20220905161132_0003_Z_航点3.JPG下载成功
+2022-09-22 15:28:17,414 - sql_operations.py - line:31 - INFO| 航线数据已存在
+2022-09-22 15:28:17,419 - sql_operations.py - line:53 - INFO| 任务数据已存在
+2022-09-22 15:28:17,430 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:17,435 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:17,439 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:17,444 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:17,448 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:17,453 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:17,453 - maincontroller.py - line:76 - INFO| 开始执行自动对比功能
+2022-09-22 15:28:20,805 - maincontroller.py - line:66 - INFO| 开始下载文件: DJI_20220905161117_0002_Z_航点2.JPG
+2022-09-22 15:28:27,685 - maincontroller.py - line:68 - INFO| DJI_20220905161117_0002_Z_航点2.JPG下载成功
+2022-09-22 15:28:27,687 - sql_operations.py - line:31 - INFO| 航线数据已存在
+2022-09-22 15:28:27,689 - sql_operations.py - line:53 - INFO| 任务数据已存在
+2022-09-22 15:28:27,695 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:27,698 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:27,700 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:27,703 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:27,704 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:27,718 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:27,720 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:27,722 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:27,723 - maincontroller.py - line:76 - INFO| 开始执行自动对比功能
+2022-09-22 15:28:30,311 - maincontroller.py - line:66 - INFO| 开始下载文件: DJI_20220905161104_0001_Z_航点1.JPG
+2022-09-22 15:28:36,983 - maincontroller.py - line:68 - INFO| DJI_20220905161104_0001_Z_航点1.JPG下载成功
+2022-09-22 15:28:36,988 - sql_operations.py - line:31 - INFO| 航线数据已存在
+2022-09-22 15:28:36,994 - sql_operations.py - line:53 - INFO| 任务数据已存在
+2022-09-22 15:28:37,008 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:37,014 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:37,019 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:37,025 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:37,031 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:37,036 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:37,041 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:37,047 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:37,052 - sql_operations.py - line:70 - INFO| 开始向图片表插入数据
+2022-09-22 15:28:37,059 - sql_operations.py - line:78 - INFO| 图片数据插入成功
+2022-09-22 15:28:37,059 - maincontroller.py - line:76 - INFO| 开始执行自动对比功能

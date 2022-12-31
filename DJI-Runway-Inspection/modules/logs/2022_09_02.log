@@ -1,0 +1,22 @@
+2022-09-02 15:01:59,950 - floder_analysis.py - line:39 - INFO| 开始执行当前文件：1
+2022-09-02 15:01:59,950 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-02 15:02:46,399 - floder_analysis.py - line:39 - INFO| 开始执行当前文件：1
+2022-09-02 15:02:46,400 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-02 15:06:26,424 - floder_analysis.py - line:39 - INFO| 开始执行当前文件：1
+2022-09-02 15:06:26,424 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-02 15:19:03,934 - floder_analysis.py - line:39 - INFO| 开始执行当前文件：1
+2022-09-02 15:19:03,934 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-02 15:23:27,927 - floder_analysis.py - line:39 - INFO| 开始执行当前文件：1
+2022-09-02 15:23:28,173 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-02 15:23:28,830 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-02 15:24:19,916 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-02 15:24:20,145 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-02 15:24:20,821 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-02 15:24:21,201 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-02 15:24:21.201609
+2022-09-02 15:24:21,637 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-02 15:24:21.637087
+2022-09-02 15:24:21,637 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-02 15:24:21.637087
+2022-09-02 15:24:25,614 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-02 15:24:25.614873
+2022-09-02 15:24:25,627 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-02 15:24:25.627795
+2022-09-02 15:24:29,535 - detect.py - line:121 - INFO| 
+2022-09-02 15:24:29,546 - timeTools.py - line:6 - INFO| 结束时间 2022-09-02 15:24:29.546336
+2022-09-02 15:24:29,561 - floder_analysis.py - line:59 - INFO| 异物图片:D:/images/img2/1.JPG

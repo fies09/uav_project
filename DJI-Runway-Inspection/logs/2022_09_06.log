@@ -1,0 +1,179 @@
+2022-09-06 18:30:07,476 - maincontroller.py - line:445 - INFO| [+] AGX API is running [2022-09-06 18:30:07.476265]
+2022-09-06 18:30:09,576 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-06 18:30:09,581 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 18:31:50,676 - maincontroller.py - line:447 - INFO| [+] AGX API is running [2022-09-06 18:31:50.676727]
+2022-09-06 18:31:55,222 - floder_analysis.py - line:19 - INFO| DJI_20220624202518_0041_Z_航点40.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:31:55,222 - floder_analysis.py - line:19 - INFO| DJI_20220624202533_0042_Z_航点41.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:31:55,223 - floder_analysis.py - line:19 - INFO| DJI_20220624202547_0043_Z_航点42.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:31:55,223 - floder_analysis.py - line:19 - INFO| DJI_20220623201802_0041_Z_航点40.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:31:55,224 - floder_analysis.py - line:19 - INFO| DJI_20220623201816_0042_Z_航点41.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:31:55,225 - floder_analysis.py - line:19 - INFO| DJI_20220623201830_0043_Z_航点42.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:31:55,225 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-06 18:31:55,230 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 18:50:09,580 - maincontroller.py - line:450 - INFO| [+] AGX API is running [2022-09-06 18:50:09.580291]
+2022-09-06 18:50:23,523 - maincontroller.py - line:240 - INFO| D:/images/write_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 18:50:23,523 - maincontroller.py - line:241 - INFO| D:/images/write_imgs/DJI_202206242002_049_机场灯光2由东至西
+2022-09-06 18:50:23,523 - maincontroller.py - line:242 - INFO| D:/images/out_imgs/20220906185023/
+2022-09-06 18:50:23,523 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:50:23,524 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:50:23,524 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:50:23,524 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:50:23,525 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:50:23,525 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:50:23,525 - floder_analysis.py - line:35 - INFO| 开始执行当前文件：1
+2022-09-06 18:50:23,529 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 18:50:55,499 - maincontroller.py - line:450 - INFO| [+] AGX API is running [2022-09-06 18:50:55.499941]
+2022-09-06 18:50:57,693 - maincontroller.py - line:240 - INFO| D:/images/write_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 18:50:57,693 - maincontroller.py - line:241 - INFO| D:/images/write_imgs/DJI_202206242002_049_机场灯光2由东至西
+2022-09-06 18:50:57,693 - maincontroller.py - line:242 - INFO| D:/images/out_imgs/20220906185057/
+2022-09-06 18:50:57,694 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:50:57,694 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:50:57,694 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:50:57,695 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:50:57,695 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:50:57,695 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:50:57,695 - floder_analysis.py - line:35 - INFO| 开始执行当前文件：1
+2022-09-06 18:50:57,700 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 18:55:40,632 - maincontroller.py - line:450 - INFO| [+] AGX API is running [2022-09-06 18:55:40.632024]
+2022-09-06 18:56:06,676 - maincontroller.py - line:450 - INFO| [+] AGX API is running [2022-09-06 18:56:06.676595]
+2022-09-06 18:56:11,814 - maincontroller.py - line:296 - INFO| 开始执行对比文件夹下的文件...
+2022-09-06 18:56:11,814 - maincontroller.py - line:304 - INFO| D:/images/write_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 18:56:11,815 - maincontroller.py - line:305 - INFO| D:/images/write_imgs/DJI_202206242002_049_机场灯光2由东至西
+2022-09-06 18:56:11,815 - maincontroller.py - line:306 - INFO| D:/images/out_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 18:56:11,815 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:56:11,815 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:56:11,816 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:56:11,816 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:56:11,816 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:56:11,817 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:56:11,817 - floder_analysis.py - line:35 - INFO| 开始执行当前文件：1
+2022-09-06 18:56:11,821 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 18:56:11,822 - maincontroller.py - line:312 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 309, in floder_analysis
+    contrast_floder(path1, path2, out_path)
+  File "D:\Code\DJI-Runway-Inspection(1)\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 38, in contrast_floder
+    img1_base64 = readImageTools.image_to_base64(path1 + "/" + str(index) + ".JPG")
+  File "D:\Code\DJI-Runway-Inspection(1)\DJI-Runway-Inspection\DJI-Runway-Inspection\tools\readImageTools.py", line 49, in image_to_base64
+    return img_64
+NameError: name 'img_64' is not defined
+行数:309
+2022-09-06 19:11:22,833 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:11:22.833714]
+2022-09-06 19:11:37,809 - maincontroller.py - line:303 - INFO| 开始执行对比文件夹下的文件...
+2022-09-06 19:11:37,809 - maincontroller.py - line:311 - INFO| D:/images/write_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 19:11:37,809 - maincontroller.py - line:312 - INFO| D:/images/write_imgs/DJI_202206242002_049_机场灯光2由东至西
+2022-09-06 19:11:37,809 - maincontroller.py - line:313 - INFO| D:/images/out_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 19:11:37,810 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 19:11:37,810 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 19:11:37,810 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 19:11:37,810 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 19:11:37,811 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 19:11:37,811 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 19:11:37,811 - floder_analysis.py - line:35 - INFO| 开始执行当前文件：1
+2022-09-06 19:11:37,816 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 19:11:37,817 - maincontroller.py - line:319 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 316, in floder_analysis
+    contrast_floder(path1, path2, out_path)
+  File "D:\Code\DJI-Runway-Inspection(1)\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 38, in contrast_floder
+    img1_base64 = readImageTools.image_to_base64(path1 + "/" + str(index) + ".JPG")
+  File "D:\Code\DJI-Runway-Inspection(1)\DJI-Runway-Inspection\DJI-Runway-Inspection\tools\readImageTools.py", line 49, in image_to_base64
+    return img_64
+NameError: name 'img_64' is not defined
+行数:316
+2022-09-06 19:15:34,325 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:15:34.324881]
+2022-09-06 19:15:39,861 - maincontroller.py - line:303 - INFO| 开始执行对比文件夹下的文件...
+2022-09-06 19:15:39,861 - maincontroller.py - line:311 - INFO| D:/images/write_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 19:15:39,861 - maincontroller.py - line:312 - INFO| D:/images/write_imgs/DJI_202206242002_049_机场灯光2由东至西
+2022-09-06 19:15:39,862 - maincontroller.py - line:313 - INFO| D:/images/out_imgs/DJI_202206231959_046_机场灯光2由东至西
+2022-09-06 19:15:39,862 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 19:15:39,862 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 19:15:39,862 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 19:15:39,863 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 19:15:39,863 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 19:15:39,863 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 19:15:39,864 - floder_analysis.py - line:35 - INFO| 开始执行当前文件：1
+2022-09-06 19:15:39,866 - readImageTools.py - line:49 - ERROR| Can't convert object to 'str' for 'filename'
+2022-09-06 19:15:39,867 - maincontroller.py - line:319 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 316, in floder_analysis
+    contrast_floder(path1, path2, out_path)
+  File "D:\Code\DJI-Runway-Inspection(1)\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 38, in contrast_floder
+    img1_base64 = readImageTools.image_to_base64(path1 + "/" + str(index) + ".JPG")
+  File "D:\Code\DJI-Runway-Inspection(1)\DJI-Runway-Inspection\DJI-Runway-Inspection\tools\readImageTools.py", line 50, in image_to_base64
+    return img_64
+NameError: name 'img_64' is not defined
+行数:316
+2022-09-06 19:18:26,452 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:26.452388]
+2022-09-06 19:18:31,151 - maincontroller.py - line:303 - INFO| 开始执行对比文件夹下的文件...
+2022-09-06 19:18:31,152 - maincontroller.py - line:311 - INFO| D:/images/write_imgs/DJI_202206231959_046
+2022-09-06 19:18:31,152 - maincontroller.py - line:312 - INFO| D:/images/write_imgs/DJI_202206242002_049
+2022-09-06 19:18:31,152 - maincontroller.py - line:313 - INFO| D:/images/out_imgs/DJI_202206231959_046
+2022-09-06 19:18:31,152 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 19:18:31,153 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 19:18:31,153 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 19:18:31,153 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 19:18:31,153 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 19:18:31,154 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 19:18:31,154 - floder_analysis.py - line:35 - INFO| 开始执行当前文件：1
+2022-09-06 19:18:31,382 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-06 19:18:32,040 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-06 19:18:32,414 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-06 19:18:32.414942
+2022-09-06 19:18:32,826 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-06 19:18:32.826337
+2022-09-06 19:18:32,827 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-06 19:18:32.827336
+2022-09-06 19:18:36,591 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-06 19:18:36.591268
+2022-09-06 19:18:36,602 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-06 19:18:36.602240
+2022-09-06 19:18:39,202 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.202287]
+2022-09-06 19:18:39,220 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.220239]
+2022-09-06 19:18:39,235 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.235199]
+2022-09-06 19:18:39,235 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.235199]
+2022-09-06 19:18:39,290 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.290053]
+2022-09-06 19:18:39,373 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.373828]
+2022-09-06 19:18:39,406 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.406740]
+2022-09-06 19:18:39,411 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.411727]
+2022-09-06 19:18:39,428 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.428681]
+2022-09-06 19:18:39,446 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.446634]
+2022-09-06 19:18:39,487 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.487524]
+2022-09-06 19:18:39,505 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.505476]
+2022-09-06 19:18:39,517 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.517444]
+2022-09-06 19:18:39,550 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.550356]
+2022-09-06 19:18:39,561 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.561326]
+2022-09-06 19:18:39,592 - maincontroller.py - line:457 - INFO| [+] AGX API is running [2022-09-06 19:18:39.592244]
+2022-09-06 19:18:40,421 - detect.py - line:121 - INFO| 
+2022-09-06 19:18:40,432 - timeTools.py - line:6 - INFO| 结束时间 2022-09-06 19:18:40.432997
+2022-09-06 19:18:40,446 - maincontroller.py - line:319 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 316, in floder_analysis
+    contrast_floder(path1, path2, out_path)
+  File "D:\Code\DJI-Runway-Inspection(1)\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 52, in contrast_floder
+    results = TbAnalysis(tag=tag, score=score, box=box, image_name=filename, img_url=url,
+  File "<string>", line 4, in __init__
+  File "D:\Python38\lib\site-packages\sqlalchemy\orm\state.py", line 482, in _initialize_instance
+    manager.dispatch.init_failure(self, args, kwargs)
+  File "D:\Python38\lib\site-packages\sqlalchemy\util\langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "D:\Python38\lib\site-packages\sqlalchemy\util\compat.py", line 208, in raise_
+    raise exception
+  File "D:\Python38\lib\site-packages\sqlalchemy\orm\state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "D:\Python38\lib\site-packages\sqlalchemy\orm\decl_base.py", line 1197, in _declarative_constructor
+    raise TypeError(
+TypeError: 'image_name' is an invalid keyword argument for TbAnalysis
+行数:316
+2022-09-06 19:24:56,241 - maincontroller.py - line:464 - INFO| [+] AGX API is running [2022-09-06 19:24:56.241044]
+2022-09-06 19:25:19,629 - maincontroller.py - line:308 - INFO| 开始执行对比文件夹下的文件...
+2022-09-06 19:25:19,629 - maincontroller.py - line:326 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 313, in floder_analysis
+    path1 = cv2.imdecode(np.fromfile(path1,dtype=np.uint8),-1)
+PermissionError: [Errno 13] Permission denied: 'D:/images/write_imgs/DJI_202206231959_046'
+行数:313
+2022-09-06 19:26:30,574 - maincontroller.py - line:464 - INFO| [+] AGX API is running [2022-09-06 19:26:30.574421]
+2022-09-06 19:26:49,250 - maincontroller.py - line:308 - INFO| 开始执行对比文件夹下的文件...
+2022-09-06 19:26:49,251 - maincontroller.py - line:326 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 313, in floder_analysis
+    path1 = cv2.imdecode(np.fromfile(path1,dtype=np.uint8),-1)
+PermissionError: [Errno 13] Permission denied: 'D:/images/write_imgs/DJI_202206231959_046_你'
+行数:313
+2022-09-06 19:27:56,149 - maincontroller.py - line:464 - INFO| [+] AGX API is running [2022-09-06 19:27:56.149871]
+2022-09-06 19:27:59,829 - maincontroller.py - line:308 - INFO| 开始执行对比文件夹下的文件...
+2022-09-06 19:27:59,830 - maincontroller.py - line:326 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 313, in floder_analysis
+    path1 = cv2.imdecode(np.fromfile(path1,dtype=np.uint8),-1, 755)
+PermissionError: [Errno 13] Permission denied: 'D:/images/write_imgs/DJI_202206231959_046_你'
+行数:313

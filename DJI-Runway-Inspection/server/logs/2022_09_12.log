@@ -1,0 +1,22 @@
+2022-09-12 14:15:34,686 - maincontroller.py - line:249 - INFO| [+] AGX API is running [2022-09-12 14:15:34.686768]
+2022-09-12 14:26:37,369 - maincontroller.py - line:248 - INFO| [+] AGX API is running [2022-09-12 14:26:37.369555]
+2022-09-12 14:28:58,099 - maincontroller.py - line:250 - INFO| [+] AGX API is running [2022-09-12 14:28:58.099200]
+2022-09-12 14:29:22,626 - maincontroller.py - line:249 - INFO| [+] AGX API is running [2022-09-12 14:29:22.626247]
+2022-09-12 14:29:36,223 - maincontroller.py - line:249 - INFO| [+] AGX API is running [2022-09-12 14:29:36.223409]
+2022-09-12 14:30:15,968 - maincontroller.py - line:250 - INFO| [+] AGX API is running [2022-09-12 14:30:15.967315]
+2022-09-12 14:30:41,246 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 14:30:41.246198]
+2022-09-12 14:31:35,487 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 14:31:35.487058]
+2022-09-12 14:34:30,722 - maincontroller.py - line:254 - INFO| [+] AGX API is running [2022-09-12 14:34:30.722373]
+2022-09-12 14:47:12,244 - maincontroller.py - line:259 - INFO| [+] AGX API is running [2022-09-12 14:47:12.244453]
+2022-09-12 14:47:40,087 - maincontroller.py - line:259 - INFO| [+] AGX API is running [2022-09-12 14:47:40.087953]
+2022-09-12 16:40:03,860 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:40:03.859355]
+2022-09-12 16:40:18,945 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:40:18.945090]
+2022-09-12 16:40:50,930 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:40:50.930739]
+2022-09-12 16:40:58,742 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:40:58.742437]
+2022-09-12 16:41:34,667 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_id.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:42:25,413 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:42:25.413670]
+2022-09-12 16:42:31,713 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:42:31.713723]

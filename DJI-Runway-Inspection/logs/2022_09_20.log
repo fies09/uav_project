@@ -1,0 +1,235 @@
+2022-09-20 14:56:00,543 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 14:56:00.542167]
+2022-09-20 14:59:31,059 - maincontroller.py - line:149 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 1 (char 3)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 93, in download_file
+    get_data = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 131, in on_json_loading_failed
+    raise BadRequest()
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+行数:93
+2022-09-20 15:01:01,100 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 15:01:01.100014]
+2022-09-20 15:01:03,516 - maincontroller.py - line:149 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 1 (char 3)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 93, in download_file
+    get_data = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 131, in on_json_loading_failed
+    raise BadRequest()
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+行数:93
+2022-09-20 15:02:18,068 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 15:02:18.068024]
+2022-09-20 15:02:20,767 - maincontroller.py - line:149 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 1 (char 3)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 93, in download_file
+    get_data = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 131, in on_json_loading_failed
+    raise BadRequest()
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+行数:93
+2022-09-20 15:03:18,683 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 15:03:18.683443]
+2022-09-20 15:03:19,631 - maincontroller.py - line:149 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 1 (char 3)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 93, in download_file
+    get_data = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 131, in on_json_loading_failed
+    raise BadRequest()
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+行数:93
+2022-09-20 15:04:01,364 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 15:04:01.364781]
+2022-09-20 15:04:04,159 - maincontroller.py - line:108 - INFO| 开始下载文件: DJI_20220905161646_0002_Z_航点2.JPG
+2022-09-20 15:04:13,569 - maincontroller.py - line:110 - INFO| DJI_20220905161646_0002_Z_航点2.JPG下载成功
+2022-09-20 15:04:13,583 - sql_operations.py - line:21 - INFO| 开始向航线表插入数据
+2022-09-20 15:04:13,601 - sql_operations.py - line:25 - INFO| 航线表数据插入成功
+2022-09-20 15:04:13,614 - sql_operations.py - line:39 - INFO| 开始向任务数据表插入数据
+2022-09-20 15:04:13,627 - sql_operations.py - line:44 - INFO| 任务数据插入成功
+2022-09-20 15:04:13,647 - sql_operations.py - line:64 - INFO| 开始向图片表插入数据
+2022-09-20 15:04:13,662 - sql_operations.py - line:69 - INFO| 图片数据插入成功
+2022-09-20 15:04:13,668 - sql_operations.py - line:64 - INFO| 开始向图片表插入数据
+2022-09-20 15:04:13,675 - sql_operations.py - line:69 - INFO| 图片数据插入成功
+2022-09-20 15:04:13,683 - sql_operations.py - line:64 - INFO| 开始向图片表插入数据
+2022-09-20 15:04:13,695 - sql_operations.py - line:69 - INFO| 图片数据插入成功
+2022-09-20 15:04:13,696 - maincontroller.py - line:118 - INFO| 开始执行自动对比功能
+2022-09-20 15:04:13,702 - maincontroller.py - line:146 - INFO| 自动对比执行完成
+2022-09-20 15:10:04,206 - maincontroller.py - line:377 - INFO| [+] AGX API is running [2022-09-20 15:10:04.206477]
+2022-09-20 15:10:04,721 - maincontroller.py - line:108 - INFO| 开始下载文件: DJI_20220905161646_0002_Z_航点2.JPG
+2022-09-20 15:10:13,916 - maincontroller.py - line:110 - INFO| DJI_20220905161646_0002_Z_航点2.JPG下载成功
+2022-09-20 15:10:13,921 - sql_operations.py - line:27 - INFO| 航线数据已存在
+2022-09-20 15:10:13,923 - sql_operations.py - line:46 - INFO| 任务数据已存在
+2022-09-20 15:10:13,931 - sql_operations.py - line:64 - INFO| 开始向图片表插入数据
+2022-09-20 15:10:13,945 - sql_operations.py - line:69 - INFO| 图片数据插入成功
+2022-09-20 15:11:25,134 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 15:11:25.134946]
+2022-09-20 15:12:10,795 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 15:12:10.795622]
+2022-09-20 15:12:16,135 - maincontroller.py - line:109 - INFO| 开始下载文件: DJI_20220905161646_0002_Z_航点2.JPG
+2022-09-20 15:12:25,690 - maincontroller.py - line:111 - INFO| DJI_20220905161646_0002_Z_航点2.JPG下载成功
+2022-09-20 15:12:25,697 - sql_operations.py - line:27 - INFO| 航线数据已存在
+2022-09-20 15:12:25,703 - sql_operations.py - line:46 - INFO| 任务数据已存在
+2022-09-20 15:12:25,712 - sql_operations.py - line:71 - INFO| 图片数据已存在
+2022-09-20 15:14:11,175 - maincontroller.py - line:378 - INFO| [+] AGX API is running [2022-09-20 15:14:11.175345]
+2022-09-20 15:14:15,700 - maincontroller.py - line:109 - INFO| 开始下载文件: DJI_20220905161646_0002_Z_航点2.JPG
+2022-09-20 15:14:25,264 - maincontroller.py - line:111 - INFO| DJI_20220905161646_0002_Z_航点2.JPG下载成功
+2022-09-20 15:14:25,272 - sql_operations.py - line:27 - INFO| 航线数据已存在
+2022-09-20 15:14:25,278 - sql_operations.py - line:46 - INFO| 任务数据已存在
+2022-09-20 15:14:25,287 - sql_operations.py - line:71 - INFO| 图片数据已存在
+2022-09-20 15:22:46,084 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:22:46,093 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:22:54,206 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:22:54,212 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:22:57,923 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:22:57,929 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:22:58,187 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:22:58,193 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:22:58,442 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:22:58,449 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:22:58,641 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:22:58,647 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:22:58,817 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:22:58,824 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:00,450 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:00,456 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:00,876 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:00,883 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:00,909 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:00,915 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:01,342 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:01,349 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:01,376 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:01,382 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:03,311 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:03,317 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:28,160 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:28,168 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:28,876 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:28,882 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:29,208 - maincontroller.py - line:194 - INFO| obj_task
+2022-09-20 15:23:29,214 - maincontroller.py - line:206 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 201, in img_for_task
+    'is_analysis': re_i.is_analysis,
+AttributeError: 'TbImg' object has no attribute 'ceate_time'
+行数:201
+2022-09-20 15:23:38,533 - maincontroller.py - line:379 - INFO| [+] AGX API is running [2022-09-20 15:23:38.533224]
+2022-09-20 15:23:40,914 - maincontroller.py - line:195 - INFO| obj_task
+2022-09-20 15:24:06,804 - maincontroller.py - line:195 - INFO| obj_task
+2022-09-20 16:06:11,514 - maincontroller.py - line:195 - INFO| obj_task

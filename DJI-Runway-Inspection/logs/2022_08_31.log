@@ -1,0 +1,658 @@
+2022-08-31 08:37:16,331 - maincontroller.py - line:341 - INFO| [+] AGX API is running [2022-08-31 08:37:16.331613]
+2022-08-31 09:01:25,675 - maincontroller.py - line:341 - INFO| [+] AGX API is running [2022-08-31 09:01:25.675078]
+2022-08-31 09:23:35,715 - maincontroller.py - line:316 - INFO| 将上传文件添加到列表当中C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\images\img1\20220831092335_11.JPG
+2022-08-31 09:23:35,715 - maincontroller.py - line:332 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 318, in upload
+    logger.info("开始保存文件{}".format(filename1.save(file1_path)))
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 3021, in save
+    dst = open(dst, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection\\images\\img1\\20220831092335_11.JPG'
+行数:318
+2022-08-31 09:24:21,716 - maincontroller.py - line:341 - INFO| [+] AGX API is running [2022-08-31 09:24:21.716197]
+2022-08-31 09:24:25,888 - maincontroller.py - line:316 - INFO| 将上传文件添加到列表当中C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\images\img1\20220831092425_11.JPG
+2022-08-31 09:24:25,888 - maincontroller.py - line:332 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 319, in upload
+    filename1.save(file1_path)
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 3021, in save
+    dst = open(dst, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection\\images\\img1\\20220831092425_11.JPG'
+行数:319
+2022-08-31 09:38:29,187 - maincontroller.py - line:341 - INFO| [+] AGX API is running [2022-08-31 09:38:29.187399]
+2022-08-31 09:39:40,204 - maincontroller.py - line:316 - INFO| 将上传文件添加到列表当中C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\images\img1\20220831093940_11.JPG
+2022-08-31 09:39:40,220 - maincontroller.py - line:332 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 318, in upload
+    logger.info("开始保存文件{}".format(filename1.save(file1_path)))
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 3021, in save
+    dst = open(dst, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection\\images\\img1\\20220831093940_11.JPG'
+行数:318
+2022-08-31 09:41:47,082 - maincontroller.py - line:341 - INFO| [+] AGX API is running [2022-08-31 09:41:47.082001]
+2022-08-31 09:41:55,863 - maincontroller.py - line:316 - INFO| 将上传文件添加到列表当中C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\images\img1\20220831094155_11.JPG
+2022-08-31 09:41:55,863 - maincontroller.py - line:332 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 318, in upload
+    logger.info("开始保存文件{}".format(filename1.save(file1_path)))
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 3021, in save
+    dst = open(dst, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection\\images\\img1\\20220831094155_11.JPG'
+行数:318
+2022-08-31 09:44:01,991 - maincontroller.py - line:341 - INFO| [+] AGX API is running [2022-08-31 09:44:01.991082]
+2022-08-31 09:44:08,929 - maincontroller.py - line:316 - INFO| 将上传文件添加到列表当中C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\images\img1\20220831094408_11.JPG
+2022-08-31 09:44:08,944 - maincontroller.py - line:332 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 319, in upload
+    filename1.save(file1_path)
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 3021, in save
+    dst = open(dst, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection\\images\\img1\\20220831094408_11.JPG'
+行数:319
+2022-08-31 09:48:26,619 - maincontroller.py - line:341 - INFO| [+] AGX API is running [2022-08-31 09:48:26.619710]
+2022-08-31 09:48:32,635 - maincontroller.py - line:318 - INFO| 将上传文件添加到列表当中C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection/images/img1/20220831094832_11.JPG
+2022-08-31 09:48:32,698 - maincontroller.py - line:332 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 325, in upload
+    filename2.save(file2_path)
+  File "D:\Python38\lib\site-packages\werkzeug\datastructures.py", line 3021, in save
+    dst = open(dst, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img2/20220831094832_21.JPG'
+行数:325
+2022-08-31 09:53:19,449 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 09:53:19.449696]
+2022-08-31 09:53:25,949 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 09:53:26,027 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 09:53:26,027 - maincontroller.py - line:334 - INFO| 源文件保存成功
+2022-08-31 09:54:15,137 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 09:54:15.137146]
+2022-08-31 09:54:28,402 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 09:54:28,402 - maincontroller.py - line:334 - INFO| 源文件保存成功
+2022-08-31 09:55:05,762 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 09:55:05,856 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 09:55:05,934 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 09:55:05,934 - maincontroller.py - line:334 - INFO| 源文件保存成功
+2022-08-31 10:05:44,031 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:05:44.031242]
+2022-08-31 10:06:02,874 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:06:02.874718]
+2022-08-31 10:06:55,187 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 10:06:55.187486
+2022-08-31 10:06:55,187 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 10:06:55.187486
+2022-08-31 10:06:55,390 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 10:06:55.390839
+2022-08-31 10:06:55,390 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 10:06:55.390839
+2022-08-31 10:06:55,390 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 10:06:55.390839
+2022-08-31 10:06:57,500 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 10:06:57.500457
+2022-08-31 10:06:57,500 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 10:06:57.500457
+2022-08-31 10:07:21,312 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 10:07:21.312625
+2022-08-31 10:07:21,328 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 10:07:21.328365
+2022-08-31 10:07:25,535 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.535937]
+2022-08-31 10:07:25,536 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.536938]
+2022-08-31 10:07:25,538 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.538937]
+2022-08-31 10:07:25,544 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.544937]
+2022-08-31 10:07:25,576 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.576937]
+2022-08-31 10:07:25,651 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.651935]
+2022-08-31 10:07:25,762 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.762939]
+2022-08-31 10:07:25,851 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.851939]
+2022-08-31 10:07:25,854 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.854939]
+2022-08-31 10:07:25,856 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:25.856939]
+2022-08-31 10:07:26,031 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:26.031578]
+2022-08-31 10:07:26,031 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:26.031578]
+2022-08-31 10:07:26,031 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:26.031578]
+2022-08-31 10:07:26,312 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:26.312574]
+2022-08-31 10:07:26,421 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:26.421955]
+2022-08-31 10:07:27,359 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:27.359454]
+2022-08-31 10:07:28,109 - detect.py - line:121 - INFO| 
+2022-08-31 10:07:28,125 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 10:07:28.125085
+2022-08-31 10:07:28,234 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 10:07:28.234959
+2022-08-31 10:07:29,172 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 10:07:29.172258
+2022-08-31 10:07:29,203 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 10:07:29.203492
+2022-08-31 10:07:29,203 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 10:07:52,875 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:52.875203]
+2022-08-31 10:07:52,890 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:52.890823]
+2022-08-31 10:07:53,078 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.078331]
+2022-08-31 10:07:53,187 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.187714]
+2022-08-31 10:07:53,203 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.203323]
+2022-08-31 10:07:53,281 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.281472]
+2022-08-31 10:07:53,406 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.406475]
+2022-08-31 10:07:53,515 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.515831]
+2022-08-31 10:07:53,562 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.562702]
+2022-08-31 10:07:53,593 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.593963]
+2022-08-31 10:07:53,640 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.640825]
+2022-08-31 10:07:53,687 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.687701]
+2022-08-31 10:07:53,750 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.750200]
+2022-08-31 10:07:53,781 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.781445]
+2022-08-31 10:07:53,812 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.812700]
+2022-08-31 10:07:53,906 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:07:53.906440]
+2022-08-31 10:07:56,016 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 10:10:19,563 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:19.563848]
+2022-08-31 10:10:28,063 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 10:10:28.063456
+2022-08-31 10:10:28,063 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 10:10:28.063456
+2022-08-31 10:10:28,266 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 10:10:28.266732
+2022-08-31 10:10:28,266 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 10:10:28.266732
+2022-08-31 10:10:28,266 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 10:10:28.266732
+2022-08-31 10:10:30,329 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 10:10:30.329310
+2022-08-31 10:10:30,329 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 10:10:30.329310
+2022-08-31 10:10:52,056 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 10:10:52.056335
+2022-08-31 10:10:52,079 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 10:10:52.079623
+2022-08-31 10:10:56,157 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.157326]
+2022-08-31 10:10:56,204 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.204207]
+2022-08-31 10:10:56,313 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.313584]
+2022-08-31 10:10:56,329 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.329238]
+2022-08-31 10:10:56,376 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.376088]
+2022-08-31 10:10:56,376 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.376088]
+2022-08-31 10:10:56,407 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.407339]
+2022-08-31 10:10:56,407 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.407339]
+2022-08-31 10:10:56,407 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.407339]
+2022-08-31 10:10:56,563 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.563551]
+2022-08-31 10:10:56,672 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.672946]
+2022-08-31 10:10:56,719 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.719824]
+2022-08-31 10:10:56,751 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.751081]
+2022-08-31 10:10:56,782 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.782322]
+2022-08-31 10:10:56,938 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:56.938560]
+2022-08-31 10:10:57,001 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:10:57.001070]
+2022-08-31 10:10:58,532 - detect.py - line:121 - INFO| 
+2022-08-31 10:10:58,547 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 10:10:58.547922
+2022-08-31 10:10:58,547 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 10:10:58.547922
+2022-08-31 10:10:59,548 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 10:10:59.548357
+2022-08-31 10:10:59,563 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 10:10:59.563883
+2022-08-31 10:10:59,579 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 10:11:25,469 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:25.469982]
+2022-08-31 10:11:25,688 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:25.688760]
+2022-08-31 10:11:25,704 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:25.704421]
+2022-08-31 10:11:25,735 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:25.735635]
+2022-08-31 10:11:25,969 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:25.969962]
+2022-08-31 10:11:25,969 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:25.969962]
+2022-08-31 10:11:25,985 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:25.985584]
+2022-08-31 10:11:26,235 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:26.235576]
+2022-08-31 10:11:26,282 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:26.282465]
+2022-08-31 10:11:26,298 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:26.298102]
+2022-08-31 10:11:26,391 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:26.391846]
+2022-08-31 10:11:26,438 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:26.438721]
+2022-08-31 10:11:26,548 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:26.548083]
+2022-08-31 10:11:26,594 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:26.594963]
+2022-08-31 10:11:27,032 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:27.032453]
+2022-08-31 10:11:27,079 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:11:27.079342]
+2022-08-31 10:11:28,782 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 10:12:40,173 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 10:12:40.173664
+2022-08-31 10:12:40,189 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 10:12:40.189213
+2022-08-31 10:12:40,376 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 10:12:40.376950
+2022-08-31 10:12:40,376 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 10:12:40.376950
+2022-08-31 10:12:40,376 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 10:12:40.376950
+2022-08-31 10:12:42,236 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 10:12:42.236181
+2022-08-31 10:12:42,236 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 10:12:42.236181
+2022-08-31 10:13:03,236 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 10:13:03.236475
+2022-08-31 10:13:03,267 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 10:13:03.267856
+2022-08-31 10:13:07,470 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.470453]
+2022-08-31 10:13:07,470 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.470453]
+2022-08-31 10:13:07,502 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.502112]
+2022-08-31 10:13:07,517 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.517781]
+2022-08-31 10:13:07,658 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.658322]
+2022-08-31 10:13:07,658 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.658322]
+2022-08-31 10:13:07,705 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.705232]
+2022-08-31 10:13:07,736 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.736433]
+2022-08-31 10:13:07,751 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.751982]
+2022-08-31 10:13:07,876 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.876957]
+2022-08-31 10:13:07,955 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:07.955033]
+2022-08-31 10:13:08,111 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:08.111083]
+2022-08-31 10:13:08,111 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:08.111083]
+2022-08-31 10:13:08,423 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:08.423568]
+2022-08-31 10:13:08,470 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:08.470452]
+2022-08-31 10:13:08,501 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:08.501706]
+2022-08-31 10:13:09,689 - detect.py - line:121 - INFO| 
+2022-08-31 10:13:09,689 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 10:13:09.689246
+2022-08-31 10:13:09,783 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 10:13:09.783368
+2022-08-31 10:13:10,611 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 10:13:10.611254
+2022-08-31 10:13:10,642 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 10:13:10.642445
+2022-08-31 10:13:10,642 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 10:13:34,814 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.814321]
+2022-08-31 10:13:34,814 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.814321]
+2022-08-31 10:13:34,814 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.814321]
+2022-08-31 10:13:34,829 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.829948]
+2022-08-31 10:13:34,845 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.845946]
+2022-08-31 10:13:34,924 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.924094]
+2022-08-31 10:13:34,924 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.924094]
+2022-08-31 10:13:34,970 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.970912]
+2022-08-31 10:13:34,986 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:34.986601]
+2022-08-31 10:13:35,002 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:35.002178]
+2022-08-31 10:13:35,126 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:35.126858]
+2022-08-31 10:13:35,158 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:35.158093]
+2022-08-31 10:13:35,345 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:35.345586]
+2022-08-31 10:13:35,376 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:35.376844]
+2022-08-31 10:13:35,376 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:35.376844]
+2022-08-31 10:13:35,376 - maincontroller.py - line:344 - INFO| [+] AGX API is running [2022-08-31 10:13:35.376844]
+2022-08-31 10:13:37,783 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 10:20:22,472 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:20:22.472749]
+2022-08-31 10:21:42,597 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 10:21:42.597922
+2022-08-31 10:21:42,597 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 10:21:42.597922
+2022-08-31 10:21:42,785 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 10:21:42.785402
+2022-08-31 10:21:42,785 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 10:21:42.785402
+2022-08-31 10:21:42,785 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 10:21:42.785402
+2022-08-31 10:21:44,723 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 10:21:44.723002
+2022-08-31 10:21:44,723 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 10:21:44.723002
+2022-08-31 10:22:02,989 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 10:22:02.989049
+2022-08-31 10:22:03,004 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 10:22:03.004712
+2022-08-31 10:22:07,051 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.051114]
+2022-08-31 10:22:07,051 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.051114]
+2022-08-31 10:22:07,098 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.098000]
+2022-08-31 10:22:07,113 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.113616]
+2022-08-31 10:22:07,394 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.394874]
+2022-08-31 10:22:07,410 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.410496]
+2022-08-31 10:22:07,410 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.410496]
+2022-08-31 10:22:07,473 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.473005]
+2022-08-31 10:22:07,847 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.847984]
+2022-08-31 10:22:07,941 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.941736]
+2022-08-31 10:22:07,957 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:07.957364]
+2022-08-31 10:22:08,160 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:08.160486]
+2022-08-31 10:22:08,441 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:08.441734]
+2022-08-31 10:22:08,566 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:08.566734]
+2022-08-31 10:22:08,676 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:08.676116]
+2022-08-31 10:22:08,847 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:08.847987]
+2022-08-31 10:22:09,535 - detect.py - line:121 - INFO| 
+2022-08-31 10:22:09,551 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 10:22:09.551211
+2022-08-31 10:22:09,629 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 10:22:09.629653
+2022-08-31 10:22:10,629 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 10:22:10.629281
+2022-08-31 10:22:10,660 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 10:22:10.660540
+2022-08-31 10:22:10,660 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 10:22:32,941 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:32.941850]
+2022-08-31 10:22:33,035 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.035616]
+2022-08-31 10:22:33,145 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.145011]
+2022-08-31 10:22:33,254 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.254362]
+2022-08-31 10:22:33,301 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.301241]
+2022-08-31 10:22:33,332 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.332490]
+2022-08-31 10:22:33,426 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.426272]
+2022-08-31 10:22:33,551 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.551270]
+2022-08-31 10:22:33,770 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:33.770009]
+2022-08-31 10:22:34,301 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:34.301254]
+2022-08-31 10:22:34,457 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:34.457699]
+2022-08-31 10:22:34,551 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:34.551232]
+2022-08-31 10:22:34,957 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:34.957477]
+2022-08-31 10:22:35,019 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:35.019993]
+2022-08-31 10:22:35,019 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:22:35.019993]
+2022-08-31 10:22:36,301 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 10:22:36,316 - maincontroller.py - line:220 - INFO| 文件保存到数据库成功
+2022-08-31 10:24:10,926 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:24:10.926840]
+2022-08-31 10:34:55,750 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:34:55.750481]
+2022-08-31 10:38:24,376 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:38:24.376461]
+2022-08-31 10:41:03,540 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:03.540794]
+2022-08-31 10:41:22,900 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 10:41:22.900563
+2022-08-31 10:41:22,900 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 10:41:22.900563
+2022-08-31 10:41:23,088 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 10:41:23.088321
+2022-08-31 10:41:23,088 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 10:41:23.088321
+2022-08-31 10:41:23,088 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 10:41:23.088321
+2022-08-31 10:41:25,197 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 10:41:25.197354
+2022-08-31 10:41:25,197 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 10:41:25.197354
+2022-08-31 10:41:47,228 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 10:41:47.228748
+2022-08-31 10:41:47,260 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 10:41:47.260072
+2022-08-31 10:41:51,587 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:51.587903]
+2022-08-31 10:41:51,587 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:51.587903]
+2022-08-31 10:41:51,634 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:51.634790]
+2022-08-31 10:41:51,916 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:51.916033]
+2022-08-31 10:41:52,009 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:52.009826]
+2022-08-31 10:41:52,025 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:52.025416]
+2022-08-31 10:41:52,041 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:52.041033]
+2022-08-31 10:41:52,056 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:52.056663]
+2022-08-31 10:41:52,072 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:52.072287]
+2022-08-31 10:41:52,306 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:52.306665]
+2022-08-31 10:41:52,400 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:52.400416]
+2022-08-31 10:41:53,087 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:53.087964]
+2022-08-31 10:41:53,275 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:53.275419]
+2022-08-31 10:41:53,416 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:53.416045]
+2022-08-31 10:41:53,462 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:53.462929]
+2022-08-31 10:41:53,462 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:41:53.462929]
+2022-08-31 10:41:54,150 - detect.py - line:121 - INFO| 
+2022-08-31 10:41:54,259 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 10:41:54.259965
+2022-08-31 10:41:54,400 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 10:41:54.400879
+2022-08-31 10:41:55,306 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 10:41:55.306827
+2022-08-31 10:41:55,338 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 10:41:55.338038
+2022-08-31 10:41:55,338 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 10:42:22,447 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:22.447440]
+2022-08-31 10:42:23,041 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.041192]
+2022-08-31 10:42:23,150 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.150571]
+2022-08-31 10:42:23,259 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.259958]
+2022-08-31 10:42:23,400 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.400568]
+2022-08-31 10:42:23,416 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.416192]
+2022-08-31 10:42:23,478 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.478695]
+2022-08-31 10:42:23,556 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.556822]
+2022-08-31 10:42:23,572 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.572449]
+2022-08-31 10:42:23,666 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:23.666196]
+2022-08-31 10:42:24,213 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:24.213067]
+2022-08-31 10:42:24,213 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:24.213067]
+2022-08-31 10:42:24,494 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:24.494335]
+2022-08-31 10:42:24,791 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:24.791190]
+2022-08-31 10:42:24,838 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:24.838073]
+2022-08-31 10:42:24,838 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:42:24.838073]
+2022-08-31 10:42:26,619 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 10:42:26,650 - maincontroller.py - line:220 - INFO| 文件保存到数据库成功
+2022-08-31 10:44:46,854 - maincontroller.py - line:345 - INFO| [+] AGX API is running [2022-08-31 10:44:46.854586]
+2022-08-31 10:47:39,699 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:47:39.699228]
+2022-08-31 10:48:00,527 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 10:48:00.527472
+2022-08-31 10:48:00,527 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 10:48:00.527472
+2022-08-31 10:48:00,730 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 10:48:00.730177
+2022-08-31 10:48:00,730 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 10:48:00.730177
+2022-08-31 10:48:00,730 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 10:48:00.730177
+2022-08-31 10:48:02,855 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 10:48:02.855565
+2022-08-31 10:48:02,855 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 10:48:02.855565
+2022-08-31 10:48:24,480 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 10:48:24.480475
+2022-08-31 10:48:24,511 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 10:48:24.511601
+2022-08-31 10:48:28,355 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.355223]
+2022-08-31 10:48:28,558 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.558312]
+2022-08-31 10:48:28,589 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.589576]
+2022-08-31 10:48:28,605 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.605206]
+2022-08-31 10:48:28,620 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.620828]
+2022-08-31 10:48:28,761 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.761468]
+2022-08-31 10:48:28,886 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.886461]
+2022-08-31 10:48:28,995 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:28.995844]
+2022-08-31 10:48:29,011 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:29.011498]
+2022-08-31 10:48:29,027 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:29.027111]
+2022-08-31 10:48:29,152 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:29.152084]
+2022-08-31 10:48:29,261 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:29.261439]
+2022-08-31 10:48:29,308 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:29.308322]
+2022-08-31 10:48:29,339 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:29.339570]
+2022-08-31 10:48:29,402 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:29.402066]
+2022-08-31 10:48:31,011 - detect.py - line:121 - INFO| 
+2022-08-31 10:48:31,027 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 10:48:31.027205
+2022-08-31 10:48:31,027 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 10:48:31.027205
+2022-08-31 10:48:31,902 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 10:48:31.902438
+2022-08-31 10:48:31,933 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 10:48:31.933653
+2022-08-31 10:48:31,949 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 10:48:57,620 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:57.620910]
+2022-08-31 10:48:57,761 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:57.761535]
+2022-08-31 10:48:57,964 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:57.964638]
+2022-08-31 10:48:57,995 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:57.995888]
+2022-08-31 10:48:58,011 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:58.011522]
+2022-08-31 10:48:58,152 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:58.152137]
+2022-08-31 10:48:58,183 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:58.183410]
+2022-08-31 10:48:58,339 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:58.339661]
+2022-08-31 10:48:58,355 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:58.355286]
+2022-08-31 10:48:58,417 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:58.417764]
+2022-08-31 10:48:59,667 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:59.667916]
+2022-08-31 10:48:59,886 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:59.886541]
+2022-08-31 10:48:59,902 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:59.902164]
+2022-08-31 10:48:59,933 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:59.933429]
+2022-08-31 10:48:59,964 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:48:59.964688]
+2022-08-31 10:49:01,402 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 10:49:01,417 - maincontroller.py - line:220 - INFO| 文件保存到数据库成功
+2022-08-31 10:58:46,122 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:58:46.122746]
+2022-08-31 10:59:20,310 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 10:59:20.310362
+2022-08-31 10:59:20,310 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 10:59:20.310362
+2022-08-31 10:59:20,466 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 10:59:20.466923
+2022-08-31 10:59:20,466 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 10:59:20.466923
+2022-08-31 10:59:20,466 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 10:59:20.466923
+2022-08-31 10:59:22,263 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 10:59:22.263310
+2022-08-31 10:59:22,263 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 10:59:22.263310
+2022-08-31 10:59:43,857 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 10:59:43.857279
+2022-08-31 10:59:43,873 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 10:59:43.873002
+2022-08-31 10:59:47,935 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:47.935248]
+2022-08-31 10:59:47,950 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:47.950888]
+2022-08-31 10:59:48,029 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.029021]
+2022-08-31 10:59:48,075 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.075907]
+2022-08-31 10:59:48,107 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.107171]
+2022-08-31 10:59:48,310 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.310236]
+2022-08-31 10:59:48,325 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.325863]
+2022-08-31 10:59:48,325 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.325863]
+2022-08-31 10:59:48,357 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.357140]
+2022-08-31 10:59:48,497 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.497755]
+2022-08-31 10:59:48,528 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.528994]
+2022-08-31 10:59:48,544 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.544642]
+2022-08-31 10:59:48,544 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.544642]
+2022-08-31 10:59:48,544 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.544642]
+2022-08-31 10:59:48,560 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:48.560279]
+2022-08-31 10:59:49,560 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 10:59:49.560224]
+2022-08-31 10:59:50,341 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 10:59:50.341487
+2022-08-31 10:59:50,341 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 10:59:50.341487
+2022-08-31 10:59:50,560 - maincontroller.py - line:223 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 187, in detectio_img
+    results = mainManager.receive_image(origin_image, current_image)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\mainManager.py", line 47, in receive_image
+    scdata["imgOut"] = readImageTools.img_to_base64(imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\tools\readImageTools.py", line 11, in img_to_base64
+    img_array = cv2.cvtColor(img_array, cv2.COLOR_RGB2BGR)#RGB2BGR，⽤于cv2编码
+cv2.error: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+行数:187
+2022-08-31 11:00:23,794 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:00:23.794758]
+2022-08-31 11:00:38,857 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 11:00:38.857362
+2022-08-31 11:00:38,857 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 11:00:38.857362
+2022-08-31 11:00:39,013 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 11:00:39.013866
+2022-08-31 11:00:39,013 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 11:00:39.013866
+2022-08-31 11:00:39,029 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 11:00:39.029567
+2022-08-31 11:00:40,841 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 11:00:40.841731
+2022-08-31 11:00:40,841 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 11:00:40.841731
+2022-08-31 11:01:02,310 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 11:01:02.310939
+2022-08-31 11:01:02,326 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 11:01:02.326586
+2022-08-31 11:01:06,013 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.013607]
+2022-08-31 11:01:06,404 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.388609]
+2022-08-31 11:01:06,544 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.544858]
+2022-08-31 11:01:06,607 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.607379]
+2022-08-31 11:01:06,638 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.638679]
+2022-08-31 11:01:06,654 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.654255]
+2022-08-31 11:01:06,654 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.654255]
+2022-08-31 11:01:06,701 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:06.701142]
+2022-08-31 11:01:07,029 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.029236]
+2022-08-31 11:01:07,122 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.122969]
+2022-08-31 11:01:07,404 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.404208]
+2022-08-31 11:01:07,622 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.622968]
+2022-08-31 11:01:07,622 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.622968]
+2022-08-31 11:01:07,669 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.669839]
+2022-08-31 11:01:07,669 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.669839]
+2022-08-31 11:01:07,763 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:07.763599]
+2022-08-31 11:01:08,826 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 11:01:08.826089
+2022-08-31 11:01:08,826 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 11:01:08.826089
+2022-08-31 11:01:08,841 - maincontroller.py - line:223 - ERROR| 图片分析异常:Traceback (most recent call last):
+  File ".\maincontroller.py", line 187, in detectio_img
+    results = mainManager.receive_image(origin_image, current_image)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\mainManager.py", line 47, in receive_image
+    scdata["imgOut"] = readImageTools.img_to_base64(imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\tools\readImageTools.py", line 11, in img_to_base64
+    img_array = cv2.cvtColor(img_array, cv2.COLOR_RGB2BGR)#RGB2BGR，⽤于cv2编码
+cv2.error: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+行数:187
+2022-08-31 11:01:48,451 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:01:48.451213]
+2022-08-31 11:02:13,513 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 11:02:13.513967
+2022-08-31 11:02:13,513 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 11:02:13.513967
+2022-08-31 11:02:13,717 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 11:02:13.717370
+2022-08-31 11:02:13,717 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 11:02:13.717370
+2022-08-31 11:02:13,717 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 11:02:13.717370
+2022-08-31 11:02:15,857 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 11:02:15.857867
+2022-08-31 11:02:15,857 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 11:02:15.857867
+2022-08-31 11:02:37,467 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 11:02:37.467557
+2022-08-31 11:02:37,498 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 11:02:37.498572
+2022-08-31 11:02:41,623 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:41.623261]
+2022-08-31 11:02:41,810 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:41.810773]
+2022-08-31 11:02:41,810 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:41.810773]
+2022-08-31 11:02:41,842 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:41.842046]
+2022-08-31 11:02:41,951 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:41.951343]
+2022-08-31 11:02:42,185 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.185734]
+2022-08-31 11:02:42,201 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.201365]
+2022-08-31 11:02:42,216 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.216991]
+2022-08-31 11:02:42,216 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.216991]
+2022-08-31 11:02:42,248 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.248271]
+2022-08-31 11:02:42,295 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.295163]
+2022-08-31 11:02:42,295 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.295163]
+2022-08-31 11:02:42,310 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.310751]
+2022-08-31 11:02:42,310 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.310751]
+2022-08-31 11:02:42,701 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:42.701352]
+2022-08-31 11:02:43,357 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:02:43.357601]
+2022-08-31 11:02:44,107 - detect.py - line:121 - INFO| 
+2022-08-31 11:02:44,107 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 11:02:44.107636
+2022-08-31 11:02:44,107 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 11:02:44.107636
+2022-08-31 11:02:45,123 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 11:02:45.123301
+2022-08-31 11:02:45,138 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 11:02:45.138825
+2022-08-31 11:02:45,154 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 11:03:07,388 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:07.388973]
+2022-08-31 11:03:07,420 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:07.420230]
+2022-08-31 11:03:07,545 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:07.545238]
+2022-08-31 11:03:07,717 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:07.717072]
+2022-08-31 11:03:07,967 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:07.967071]
+2022-08-31 11:03:07,982 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:07.982698]
+2022-08-31 11:03:07,982 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:07.982698]
+2022-08-31 11:03:08,029 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.029583]
+2022-08-31 11:03:08,092 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.092159]
+2022-08-31 11:03:08,201 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.185837]
+2022-08-31 11:03:08,342 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.342078]
+2022-08-31 11:03:08,373 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.373328]
+2022-08-31 11:03:08,404 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.404582]
+2022-08-31 11:03:08,545 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.545202]
+2022-08-31 11:03:08,545 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.545202]
+2022-08-31 11:03:08,701 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:03:08.701446]
+2022-08-31 11:03:10,920 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 11:03:10,939 - maincontroller.py - line:220 - INFO| 文件保存到数据库成功
+2022-08-31 11:04:53,561 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:04:53.561306]
+2022-08-31 11:05:17,264 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 11:05:17.264340
+2022-08-31 11:05:17,264 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 11:05:17.264340
+2022-08-31 11:05:17,452 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 11:05:17.452085
+2022-08-31 11:05:17,452 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 11:05:17.452085
+2022-08-31 11:05:17,452 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 11:05:17.452085
+2022-08-31 11:05:19,577 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 11:05:19.577036
+2022-08-31 11:05:19,577 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 11:05:19.577036
+2022-08-31 11:05:41,280 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 11:05:41.280611
+2022-08-31 11:05:41,295 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 11:05:41.295755
+2022-08-31 11:05:45,233 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.233142]
+2022-08-31 11:05:45,264 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.264398]
+2022-08-31 11:05:45,420 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.420652]
+2022-08-31 11:05:45,420 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.420652]
+2022-08-31 11:05:45,545 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.545696]
+2022-08-31 11:05:45,826 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.826891]
+2022-08-31 11:05:45,873 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.873768]
+2022-08-31 11:05:45,905 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.905044]
+2022-08-31 11:05:45,920 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.920646]
+2022-08-31 11:05:45,983 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:45.983144]
+2022-08-31 11:05:46,264 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:46.264383]
+2022-08-31 11:05:46,498 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:46.498757]
+2022-08-31 11:05:46,545 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:46.545648]
+2022-08-31 11:05:46,545 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:46.545648]
+2022-08-31 11:05:46,826 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:46.826886]
+2022-08-31 11:05:47,030 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:05:47.030008]
+2022-08-31 11:05:47,748 - detect.py - line:121 - INFO| 
+2022-08-31 11:05:47,764 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 11:05:47.764389
+2022-08-31 11:05:47,764 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 11:05:47.764389
+2022-08-31 11:05:48,686 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 11:05:48.686567
+2022-08-31 11:05:48,717 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 11:05:48.717759
+2022-08-31 11:05:48,717 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 11:06:15,405 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.405135]
+2022-08-31 11:06:15,561 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.561395]
+2022-08-31 11:06:15,623 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.623892]
+2022-08-31 11:06:15,686 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.686438]
+2022-08-31 11:06:15,686 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.686438]
+2022-08-31 11:06:15,717 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.717658]
+2022-08-31 11:06:15,748 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.748960]
+2022-08-31 11:06:15,920 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.920827]
+2022-08-31 11:06:15,920 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.920827]
+2022-08-31 11:06:15,920 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.920827]
+2022-08-31 11:06:15,952 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.952034]
+2022-08-31 11:06:15,998 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.998988]
+2022-08-31 11:06:15,998 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:15.998988]
+2022-08-31 11:06:16,358 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:16.358264]
+2022-08-31 11:06:16,436 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:16.436387]
+2022-08-31 11:06:16,577 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 11:06:16.577013]
+2022-08-31 11:06:18,686 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 11:06:18,702 - maincontroller.py - line:220 - INFO| 文件保存到数据库成功
+2022-08-31 14:16:12,279 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 14:16:12.279466]
+2022-08-31 14:27:43,515 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 14:27:43.515538]
+2022-08-31 14:29:52,719 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 14:29:52.719069]
+2022-08-31 14:30:33,476 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 14:30:33.476925]
+2022-08-31 14:53:26,441 - maincontroller.py - line:347 - INFO| [+] AGX API is running [2022-08-31 14:53:26.441448]
+2022-08-31 14:55:24,676 - maincontroller.py - line:347 - INFO| [+] AGX API is running [2022-08-31 14:55:24.676431]
+2022-08-31 14:59:13,067 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 14:59:13.067437]
+2022-08-31 15:25:30,618 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:25:30.618613]
+2022-08-31 15:26:02,821 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:02.821991]
+2022-08-31 15:26:09,259 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 15:26:09.259225
+2022-08-31 15:26:09,259 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 15:26:09.259225
+2022-08-31 15:26:09,477 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 15:26:09.477953
+2022-08-31 15:26:09,477 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 15:26:09.477953
+2022-08-31 15:26:09,477 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 15:26:09.477953
+2022-08-31 15:26:11,608 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 15:26:11.608398
+2022-08-31 15:26:11,608 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 15:26:11.608398
+2022-08-31 15:26:34,962 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 15:26:34.962688
+2022-08-31 15:26:34,993 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 15:26:34.993621
+2022-08-31 15:26:38,728 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:38.728113]
+2022-08-31 15:26:38,915 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:38.915342]
+2022-08-31 15:26:39,040 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.040345]
+2022-08-31 15:26:39,243 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.243480]
+2022-08-31 15:26:39,290 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.290355]
+2022-08-31 15:26:39,290 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.290355]
+2022-08-31 15:26:39,290 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.290355]
+2022-08-31 15:26:39,321 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.321629]
+2022-08-31 15:26:39,384 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.384111]
+2022-08-31 15:26:39,399 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.399756]
+2022-08-31 15:26:39,493 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:39.493497]
+2022-08-31 15:26:40,103 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:40.103159]
+2022-08-31 15:26:40,274 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:40.274725]
+2022-08-31 15:26:40,290 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:40.290353]
+2022-08-31 15:26:40,321 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:40.321600]
+2022-08-31 15:26:40,384 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:26:40.384108]
+2022-08-31 15:26:41,290 - detect.py - line:121 - INFO| 
+2022-08-31 15:26:41,290 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 15:26:41.290387
+2022-08-31 15:26:41,431 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 15:26:41.431410
+2022-08-31 15:26:42,368 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 15:26:42.368605
+2022-08-31 15:26:42,399 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 15:26:42.399819
+2022-08-31 15:26:42,415 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 15:27:09,931 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:09.931097]
+2022-08-31 15:27:10,071 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.071934]
+2022-08-31 15:27:10,071 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.071934]
+2022-08-31 15:27:10,103 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.103127]
+2022-08-31 15:27:10,134 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.134344]
+2022-08-31 15:27:10,259 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.259285]
+2022-08-31 15:27:10,259 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.259285]
+2022-08-31 15:27:10,274 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.274849]
+2022-08-31 15:27:10,446 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.446711]
+2022-08-31 15:27:10,446 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.446711]
+2022-08-31 15:27:10,477 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.477965]
+2022-08-31 15:27:10,634 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.634225]
+2022-08-31 15:27:10,743 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.743541]
+2022-08-31 15:27:10,790 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.790429]
+2022-08-31 15:27:10,993 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:10.993539]
+2022-08-31 15:27:11,274 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 15:27:11.274790]
+2022-08-31 15:27:13,259 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 15:27:13,274 - maincontroller.py - line:220 - INFO| 文件保存到数据库成功
+2022-08-31 16:18:07,141 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:18:07.141146]
+2022-08-31 16:19:41,219 - maincontroller.py - line:320 - INFO| upload1_path['C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img1/20220831161941_11.JPG']
+2022-08-31 16:19:41,282 - maincontroller.py - line:330 - INFO| upload2_path['C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img2/20220831161941_21.JPG']
+2022-08-31 16:19:41,329 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 16:19:41,329 - maincontroller.py - line:320 - INFO| upload1_path['C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img1/20220831161941_11.JPG', 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img1/20220831161941_12.JPG']
+2022-08-31 16:19:41,375 - maincontroller.py - line:330 - INFO| upload2_path['C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img2/20220831161941_21.JPG', 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img2/20220831161941_22.JPG']
+2022-08-31 16:19:41,424 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 16:19:41,424 - maincontroller.py - line:320 - INFO| upload1_path['C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img1/20220831161941_11.JPG', 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img1/20220831161941_12.JPG', 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img1/20220831161941_13.JPG']
+2022-08-31 16:19:41,469 - maincontroller.py - line:330 - INFO| upload2_path['C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img2/20220831161941_21.JPG', 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img2/20220831161941_22.JPG', 'C:\\Users\\Administrator\\Desktop\\DJI-Runway-Inspection\\DJI-Runway-Inspection/images/img2/20220831161941_23.JPG']
+2022-08-31 16:19:41,500 - maincontroller.py - line:332 - INFO| 文件上传成功
+2022-08-31 16:19:41,500 - maincontroller.py - line:334 - INFO| 源文件保存成功
+2022-08-31 16:29:28,970 - timeTools.py - line:6 - INFO| 收到消息 2022-08-31 16:29:28.970537
+2022-08-31 16:29:28,970 - timeTools.py - line:6 - INFO| 开始转图片转base64 2022-08-31 16:29:28.970537
+2022-08-31 16:29:29,158 - timeTools.py - line:6 - INFO| 图片转base64 完成 2022-08-31 16:29:29.158220
+2022-08-31 16:29:29,158 - timeTools.py - line:6 - INFO| 开始执行图爿分析 2022-08-31 16:29:29.158220
+2022-08-31 16:29:29,158 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-08-31 16:29:29.158220
+2022-08-31 16:29:31,236 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-08-31 16:29:31.236571
+2022-08-31 16:29:31,236 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-08-31 16:29:31.236571
+2022-08-31 16:29:53,549 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-08-31 16:29:53.549321
+2022-08-31 16:29:53,564 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-08-31 16:29:53.564508
+2022-08-31 16:29:57,314 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:57.314423]
+2022-08-31 16:29:57,439 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:57.439423]
+2022-08-31 16:29:57,501 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:57.501914]
+2022-08-31 16:29:57,564 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:57.564417]
+2022-08-31 16:29:57,751 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:57.751920]
+2022-08-31 16:29:57,908 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:57.908155]
+2022-08-31 16:29:57,923 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:57.923780]
+2022-08-31 16:29:58,205 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.205029]
+2022-08-31 16:29:58,236 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.236291]
+2022-08-31 16:29:58,298 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.298817]
+2022-08-31 16:29:58,376 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.376928]
+2022-08-31 16:29:58,470 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.470662]
+2022-08-31 16:29:58,501 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.501909]
+2022-08-31 16:29:58,658 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.658167]
+2022-08-31 16:29:58,986 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.986293]
+2022-08-31 16:29:58,986 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:29:58.986293]
+2022-08-31 16:29:59,955 - detect.py - line:121 - INFO| 
+2022-08-31 16:29:59,970 - timeTools.py - line:6 - INFO| 结束时间 2022-08-31 16:29:59.970681
+2022-08-31 16:29:59,970 - timeTools.py - line:6 - INFO| 图片分析结束 2022-08-31 16:29:59.970681
+2022-08-31 16:30:00,892 - timeTools.py - line:6 - INFO| 返回参数包装完成 2022-08-31 16:30:00.892933
+2022-08-31 16:30:00,908 - timeTools.py - line:6 - INFO| 返回参数json化完成，开始返回参数 2022-08-31 16:30:00.908473
+2022-08-31 16:30:00,924 - maincontroller.py - line:188 - INFO| 图片分析成功
+2022-08-31 16:30:26,517 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.517588]
+2022-08-31 16:30:26,533 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.533213]
+2022-08-31 16:30:26,548 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.548846]
+2022-08-31 16:30:26,580 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.580104]
+2022-08-31 16:30:26,611 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.611363]
+2022-08-31 16:30:26,736 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.736358]
+2022-08-31 16:30:26,845 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.845709]
+2022-08-31 16:30:26,845 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.845709]
+2022-08-31 16:30:26,877 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:26.877026]
+2022-08-31 16:30:27,033 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:27.033247]
+2022-08-31 16:30:27,080 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:27.080123]
+2022-08-31 16:30:27,189 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:27.189507]
+2022-08-31 16:30:27,486 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:27.486369]
+2022-08-31 16:30:27,486 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:27.486369]
+2022-08-31 16:30:27,533 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:27.533241]
+2022-08-31 16:30:27,564 - maincontroller.py - line:346 - INFO| [+] AGX API is running [2022-08-31 16:30:27.564499]
+2022-08-31 16:30:29,720 - maincontroller.py - line:204 - INFO| 图片保存成功
+2022-08-31 16:30:29,751 - maincontroller.py - line:220 - INFO| 文件保存到数据库成功

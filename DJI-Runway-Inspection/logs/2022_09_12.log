@@ -1,0 +1,1882 @@
+2022-09-12 10:27:12,942 - maincontroller.py - line:215 - INFO| [+] AGX API is running [2022-09-12 10:27:12.942849]
+2022-09-12 10:33:19,399 - maincontroller.py - line:215 - INFO| [+] AGX API is running [2022-09-12 10:33:19.399724]
+2022-09-12 11:40:04,416 - maincontroller.py - line:217 - INFO| [+] AGX API is running [2022-09-12 11:40:04.416459]
+2022-09-12 11:56:47,939 - maincontroller.py - line:226 - INFO| [+] AGX API is running [2022-09-12 11:56:47.939948]
+2022-09-12 11:57:32,604 - maincontroller.py - line:228 - INFO| [+] AGX API is running [2022-09-12 11:57:32.604165]
+2022-09-12 11:59:07,512 - maincontroller.py - line:229 - INFO| [+] AGX API is running [2022-09-12 11:59:07.512298]
+2022-09-12 12:00:09,740 - maincontroller.py - line:229 - INFO| [+] AGX API is running [2022-09-12 12:00:09.740118]
+2022-09-12 12:00:28,244 - maincontroller.py - line:229 - INFO| [+] AGX API is running [2022-09-12 12:00:28.244396]
+2022-09-12 12:02:46,360 - maincontroller.py - line:229 - INFO| [+] AGX API is running [2022-09-12 12:02:46.360300]
+2022-09-12 13:33:00,516 - maincontroller.py - line:229 - INFO| [+] AGX API is running [2022-09-12 13:33:00.516747]
+2022-09-12 13:34:09,731 - maincontroller.py - line:230 - INFO| [+] AGX API is running [2022-09-12 13:34:09.731944]
+2022-09-12 13:35:21,437 - maincontroller.py - line:229 - INFO| [+] AGX API is running [2022-09-12 13:35:21.437691]
+2022-09-12 13:37:37,947 - maincontroller.py - line:231 - INFO| [+] AGX API is running [2022-09-12 13:37:37.947818]
+2022-09-12 13:38:24,849 - maincontroller.py - line:231 - INFO| [+] AGX API is running [2022-09-12 13:38:24.848110]
+2022-09-12 13:47:27,635 - maincontroller.py - line:233 - INFO| [+] AGX API is running [2022-09-12 13:47:27.635920]
+2022-09-12 13:47:53,219 - maincontroller.py - line:234 - INFO| [+] AGX API is running [2022-09-12 13:47:53.219379]
+2022-09-12 13:55:35,306 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 13:55:35.306857]
+2022-09-12 13:59:57,604 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 13:59:57.604738]
+2022-09-12 14:57:56,926 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 14:57:56.925169]
+2022-09-12 15:00:33,098 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:00:34,709 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:00:35,630 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 15:00:35.630314
+2022-09-12 15:00:37,335 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 15:00:37.335326
+2022-09-12 15:00:37,337 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 15:00:37.337328
+2022-09-12 15:00:46,331 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 15:00:46.331432
+2022-09-12 15:00:46,349 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 15:00:46.349431
+2022-09-12 15:00:50,954 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:50.954470]
+2022-09-12 15:00:50,991 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:50.991469]
+2022-09-12 15:00:51,049 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.049471]
+2022-09-12 15:00:51,077 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.077470]
+2022-09-12 15:00:51,105 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.105471]
+2022-09-12 15:00:51,156 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.156472]
+2022-09-12 15:00:51,157 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.157472]
+2022-09-12 15:00:51,293 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.293473]
+2022-09-12 15:00:51,296 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.296474]
+2022-09-12 15:00:51,363 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.363473]
+2022-09-12 15:00:51,367 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.367473]
+2022-09-12 15:00:51,377 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.377474]
+2022-09-12 15:00:51,452 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.452475]
+2022-09-12 15:00:51,565 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.565476]
+2022-09-12 15:00:51,777 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.777477]
+2022-09-12 15:00:51,930 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:00:51.930479]
+2022-09-12 15:00:53,533 - detect.py - line:121 - INFO| 
+2022-09-12 15:00:53,543 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 15:00:53.543497
+2022-09-12 15:00:54,754 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:00:55,491 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:00:55,885 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 15:00:55.885540
+2022-09-12 15:00:56,460 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 15:00:56.460529
+2022-09-12 15:00:56,461 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 15:00:56.461530
+2022-09-12 15:01:04,129 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 15:01:04.129618
+2022-09-12 15:01:04,140 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 15:01:04.140622
+2022-09-12 15:01:09,001 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:09.001674]
+2022-09-12 15:01:09,068 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:09.068677]
+2022-09-12 15:01:09,096 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:09.096673]
+2022-09-12 15:01:09,417 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:09.417679]
+2022-09-12 15:01:09,492 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:09.492680]
+2022-09-12 15:01:09,589 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:09.589682]
+2022-09-12 15:01:09,865 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:09.865685]
+2022-09-12 15:01:10,143 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.143688]
+2022-09-12 15:01:10,182 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.182689]
+2022-09-12 15:01:10,183 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.183688]
+2022-09-12 15:01:10,223 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.223686]
+2022-09-12 15:01:10,233 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.233689]
+2022-09-12 15:01:10,342 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.342690]
+2022-09-12 15:01:10,541 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.541692]
+2022-09-12 15:01:10,613 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.613693]
+2022-09-12 15:01:10,762 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:10.762695]
+2022-09-12 15:01:12,342 - detect.py - line:121 - INFO| 
+2022-09-12 15:01:12,349 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 15:01:12.349712
+2022-09-12 15:01:13,648 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:01:14,249 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:01:14,719 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 15:01:14.719755
+2022-09-12 15:01:15,611 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 15:01:15.611774
+2022-09-12 15:01:15,612 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 15:01:15.612774
+2022-09-12 15:01:27,113 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 15:01:27.113898
+2022-09-12 15:01:27,129 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 15:01:27.129898
+2022-09-12 15:01:31,619 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:31.619933]
+2022-09-12 15:01:31,620 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:31.620932]
+2022-09-12 15:01:31,695 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:31.695933]
+2022-09-12 15:01:32,029 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.029938]
+2022-09-12 15:01:32,125 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.125939]
+2022-09-12 15:01:32,153 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.153939]
+2022-09-12 15:01:32,170 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.170938]
+2022-09-12 15:01:32,268 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.268940]
+2022-09-12 15:01:32,283 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.283940]
+2022-09-12 15:01:32,286 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.286939]
+2022-09-12 15:01:32,351 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.351940]
+2022-09-12 15:01:32,389 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.389941]
+2022-09-12 15:01:32,525 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.524944]
+2022-09-12 15:01:32,550 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.550943]
+2022-09-12 15:01:32,577 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.577944]
+2022-09-12 15:01:32,769 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:32.769945]
+2022-09-12 15:01:34,452 - detect.py - line:121 - INFO| 
+2022-09-12 15:01:34,457 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 15:01:34.457969
+2022-09-12 15:01:35,632 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:01:36,263 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:01:36,794 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 15:01:36.794017
+2022-09-12 15:01:37,757 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 15:01:37.757038
+2022-09-12 15:01:37,758 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 15:01:37.758047
+2022-09-12 15:01:48,119 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 15:01:48.119144
+2022-09-12 15:01:48,134 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 15:01:48.134141
+2022-09-12 15:01:52,778 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:52.777172]
+2022-09-12 15:01:52,778 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:52.778172]
+2022-09-12 15:01:52,882 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:52.882176]
+2022-09-12 15:01:53,000 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.000176]
+2022-09-12 15:01:53,134 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.134178]
+2022-09-12 15:01:53,155 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.155178]
+2022-09-12 15:01:53,170 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.170178]
+2022-09-12 15:01:53,240 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.240179]
+2022-09-12 15:01:53,242 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.242180]
+2022-09-12 15:01:53,249 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.249180]
+2022-09-12 15:01:53,271 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.271180]
+2022-09-12 15:01:53,295 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.295180]
+2022-09-12 15:01:53,305 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.305179]
+2022-09-12 15:01:53,628 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.628183]
+2022-09-12 15:01:53,660 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:53.660182]
+2022-09-12 15:01:54,098 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:01:54.098189]
+2022-09-12 15:01:55,572 - detect.py - line:121 - INFO| 
+2022-09-12 15:01:55,582 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 15:01:55.582203
+2022-09-12 15:01:56,551 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:01:57,245 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 15:01:57,606 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 15:01:57.606227
+2022-09-12 15:01:58,214 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 15:01:58.214255
+2022-09-12 15:01:58,216 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 15:01:58.216255
+2022-09-12 15:02:09,922 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 15:02:09.922384
+2022-09-12 15:02:09,938 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 15:02:09.938387
+2022-09-12 15:02:14,676 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:14.676424]
+2022-09-12 15:02:14,796 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:14.795425]
+2022-09-12 15:02:14,828 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:14.828424]
+2022-09-12 15:02:14,906 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:14.905426]
+2022-09-12 15:02:14,939 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:14.939427]
+2022-09-12 15:02:14,971 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:14.971427]
+2022-09-12 15:02:14,982 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:14.982428]
+2022-09-12 15:02:15,010 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.009428]
+2022-09-12 15:02:15,091 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.091428]
+2022-09-12 15:02:15,100 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.100427]
+2022-09-12 15:02:15,122 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.122429]
+2022-09-12 15:02:15,138 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.138428]
+2022-09-12 15:02:15,244 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.244429]
+2022-09-12 15:02:15,285 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.285430]
+2022-09-12 15:02:15,445 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.444431]
+2022-09-12 15:02:15,791 - maincontroller.py - line:241 - INFO| [+] AGX API is running [2022-09-12 15:02:15.791437]
+2022-09-12 15:02:17,266 - detect.py - line:121 - INFO| 
+2022-09-12 15:02:17,274 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 15:02:17.274452
+2022-09-12 15:02:17,910 - maincontroller.py - line:207 - INFO| 文件图对比成功
+2022-09-12 15:02:17,931 - maincontroller.py - line:208 - INFO| 开始修改任务对比状态
+2022-09-12 15:02:17,948 - maincontroller.py - line:212 - INFO| 对比状态修改成功
+2022-09-12 15:36:53,067 - maincontroller.py - line:240 - INFO| [+] AGX API is running [2022-09-12 15:36:53.067594]
+2022-09-12 15:41:18,306 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 15:41:18.306963]
+2022-09-12 15:41:20,984 - maincontroller.py - line:181 - INFO| 指定任务TbTask.id为模板成功!
+2022-09-12 15:41:55,661 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 15:41:55.661925]
+2022-09-12 15:41:59,316 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:42:09,760 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:42:21,651 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:45:03,934 - maincontroller.py - line:190 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 15:45:13,690 - maincontroller.py - line:190 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 15:45:41,538 - maincontroller.py - line:190 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 15:46:32,323 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 15:46:32.323013]
+2022-09-12 15:47:17,887 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:47:28,163 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:47:32,135 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:48:40,138 - maincontroller.py - line:190 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 15:56:56,605 - maincontroller.py - line:242 - INFO| [+] AGX API is running [2022-09-12 15:56:56.605001]
+2022-09-12 15:57:06,724 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:57:13,609 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 15:57:19,507 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 16:01:35,611 - maincontroller.py - line:242 - INFO| [+] AGX API is running [2022-09-12 16:01:35.611413]
+2022-09-12 16:01:45,959 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 16:02:01,170 - maincontroller.py - line:187 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:02:04,879 - maincontroller.py - line:187 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:02:08,084 - maincontroller.py - line:187 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:02:15,262 - maincontroller.py - line:187 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:02:32,903 - maincontroller.py - line:187 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:03:25,552 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 16:03:46,015 - maincontroller.py - line:181 - INFO| 指定任务为模板成功!
+2022-09-12 16:04:21,272 - maincontroller.py - line:187 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:05:07,462 - maincontroller.py - line:187 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:06:33,140 - maincontroller.py - line:243 - INFO| [+] AGX API is running [2022-09-12 16:06:33.140454]
+2022-09-12 16:07:12,132 - maincontroller.py - line:188 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 166, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:166
+2022-09-12 16:09:24,945 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:09:24.945159]
+2022-09-12 16:09:48,392 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:09:48.392028]
+2022-09-12 16:11:42,951 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:11:42.951839]
+2022-09-12 16:12:18,906 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:12:38,147 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:13:00,446 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_data.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:13:09,387 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:13:09.386106]
+2022-09-12 16:13:15,798 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_id.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:13:44,555 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_id.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:15:38,834 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:15:38.834390]
+2022-09-12 16:15:41,794 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.json.get()
+TypeError: get expected at least 1 argument, got 0
+行数:165
+2022-09-12 16:15:55,881 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:15:55.881564]
+2022-09-12 16:15:58,358 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_id.get("tid")
+AttributeError: 'str' object has no attribute 'get'
+行数:167
+2022-09-12 16:16:24,466 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:16:24.466877]
+2022-09-12 16:16:25,635 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:16:55,841 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:19:34,774 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    db_task = TbTask.query.filter(TbTask.id == specifyId)
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:19:36,792 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    db_task = TbTask.query.filter(TbTask.id == specifyId)
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:20:24,931 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:20:24.931071]
+2022-09-12 16:20:31,642 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:21:02,366 - maincontroller.py - line:189 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 167, in specify_original
+    specifyId = get_id.get("tid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:167
+2022-09-12 16:23:58,361 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:33,316 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:33,921 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:36,113 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:36,550 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:36,774 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:36,924 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:37,144 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:37,313 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:42,546 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:24:58,894 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 196, in contrast_data
+    route_id = get_data.get("rid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:196
+2022-09-12 16:25:24,696 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 196, in contrast_data
+    route_id = get_data.get("rid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:196
+2022-09-12 16:25:26,234 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 196, in contrast_data
+    route_id = get_data.get("rid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:196
+2022-09-12 16:25:27,202 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 196, in contrast_data
+    route_id = get_data.get("rid")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:196
+2022-09-12 16:25:33,440 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:25:34,938 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:25:42,337 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:43,552 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:44,244 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:25:44.244606
+2022-09-12 16:25:45,482 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:45,540 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:25:45.540615
+2022-09-12 16:25:45,542 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:25:45.542631
+2022-09-12 16:25:46,795 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:47,024 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:47,758 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:25:47.758649
+2022-09-12 16:25:48,228 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:48,799 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:25:48.799651
+2022-09-12 16:25:48,800 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:25:48.800660
+2022-09-12 16:25:49,083 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:25:49.083662
+2022-09-12 16:25:50,142 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:25:50.142674
+2022-09-12 16:25:50,143 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:25:50.143670
+2022-09-12 16:25:51,599 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:25:52,777 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:53,511 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:25:53,913 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:25:53.913705
+2022-09-12 16:25:54,665 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:25:54.665704
+2022-09-12 16:25:54,666 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:25:54.666712
+2022-09-12 16:25:56,639 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:25:56.639752
+2022-09-12 16:25:56,659 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:25:56.659731
+2022-09-12 16:26:00,333 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:26:00.333075
+2022-09-12 16:26:00,418 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:26:00.418076
+2022-09-12 16:26:01,430 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:26:01.430089
+2022-09-12 16:26:01,515 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:26:01.515088
+2022-09-12 16:26:03,922 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 209, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 110, in detection_2
+    err, imgOut, score = registration_orb(img_current, img_origin)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 31, in registration_orb
+    score = ssim(cv.cvtColor(img1, cv.COLOR_RGB2GRAY), cv.cvtColor(imgOut, cv.COLOR_RGB2GRAY))
+  File "D:\Python38\lib\site-packages\skimage\_shared\utils.py", line 348, in fixed_func
+    return func(*args, **kwargs)
+  File "D:\Python38\lib\site-packages\skimage\metrics\_structural_similarity.py", line 225, in structural_similarity
+    A1, A2, B1, B2 = ((2 * ux * uy + C1,
+MemoryError: Unable to allocate 91.6 MiB for an array with shape (3000, 4000) and data type float64
+行数:209
+2022-09-12 16:26:04,234 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 209, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:209
+2022-09-12 16:26:04,235 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 209, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:209
+2022-09-12 16:26:04,305 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:26:04.305119]
+2022-09-12 16:26:04,666 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:26:04.666122]
+2022-09-12 16:26:04,803 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:26:04.803126]
+2022-09-12 16:26:04,965 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:26:04.964128]
+2022-09-12 16:26:04,969 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:26:04.969127]
+2022-09-12 16:26:04,975 - maincontroller.py - line:235 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 209, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:209
+2022-09-12 16:27:25,977 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:27:37,970 - maincontroller.py - line:183 - INFO| 指定任务为模板成功!
+2022-09-12 16:47:08,901 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:47:08.901370]
+2022-09-12 16:47:13,091 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:47:13.091974]
+2022-09-12 16:51:38,282 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 16:51:38.282562]
+2022-09-12 16:51:43,322 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 16:51:43.322617]
+2022-09-12 16:52:16,082 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 16:52:16.082570]
+2022-09-12 16:52:18,730 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 16:52:18.730597]
+2022-09-12 16:52:24,895 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:24.895680]
+2022-09-12 16:52:27,061 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:52:28,655 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:52:29,512 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:52:29.512327
+2022-09-12 16:52:30,791 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:52:30.791341
+2022-09-12 16:52:30,792 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:52:30.792342
+2022-09-12 16:52:43,846 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:52:43.846533
+2022-09-12 16:52:43,862 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:52:43.862531
+2022-09-12 16:52:48,915 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:48.915574]
+2022-09-12 16:52:48,971 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:48.970575]
+2022-09-12 16:52:48,971 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:48.971575]
+2022-09-12 16:52:48,976 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:48.976575]
+2022-09-12 16:52:49,004 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.003576]
+2022-09-12 16:52:49,010 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.010575]
+2022-09-12 16:52:49,057 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.056577]
+2022-09-12 16:52:49,062 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.062576]
+2022-09-12 16:52:49,156 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.156576]
+2022-09-12 16:52:49,156 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.156576]
+2022-09-12 16:52:49,217 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.217578]
+2022-09-12 16:52:49,331 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.330579]
+2022-09-12 16:52:49,347 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.347579]
+2022-09-12 16:52:49,352 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.352580]
+2022-09-12 16:52:49,409 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.409580]
+2022-09-12 16:52:49,467 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:52:49.467581]
+2022-09-12 16:52:51,490 - detect.py - line:121 - INFO| 
+2022-09-12 16:52:51,499 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 16:52:51.498602
+2022-09-12 16:52:52,854 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:52:53,587 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:52:53,983 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:52:53.983630
+2022-09-12 16:52:54,567 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:52:54.567635
+2022-09-12 16:52:54,568 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:52:54.568637
+2022-09-12 16:53:07,620 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:53:07.620810
+2022-09-12 16:53:07,636 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:53:07.636797
+2022-09-12 16:53:12,862 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:12.862843]
+2022-09-12 16:53:12,957 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:12.957843]
+2022-09-12 16:53:12,957 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:12.957843]
+2022-09-12 16:53:12,989 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:12.989844]
+2022-09-12 16:53:12,990 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:12.990845]
+2022-09-12 16:53:13,007 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.007844]
+2022-09-12 16:53:13,025 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.025845]
+2022-09-12 16:53:13,044 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.044845]
+2022-09-12 16:53:13,076 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.076845]
+2022-09-12 16:53:13,141 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.141845]
+2022-09-12 16:53:13,289 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.289848]
+2022-09-12 16:53:13,305 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.305844]
+2022-09-12 16:53:13,459 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.459849]
+2022-09-12 16:53:13,656 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.656852]
+2022-09-12 16:53:13,874 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:13.874853]
+2022-09-12 16:53:14,150 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:14.150857]
+2022-09-12 16:53:16,279 - detect.py - line:121 - INFO| 
+2022-09-12 16:53:16,286 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 16:53:16.286879
+2022-09-12 16:53:17,577 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:53:18,153 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:53:18,474 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:53:18.474902
+2022-09-12 16:53:18,849 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:53:18.849907
+2022-09-12 16:53:18,850 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:53:18.850907
+2022-09-12 16:53:30,899 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:53:30.899062
+2022-09-12 16:53:30,915 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:53:30.915063
+2022-09-12 16:53:35,546 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:35.546095]
+2022-09-12 16:53:35,629 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:35.629096]
+2022-09-12 16:53:35,690 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:35.690099]
+2022-09-12 16:53:35,849 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:35.848102]
+2022-09-12 16:53:35,849 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:35.849101]
+2022-09-12 16:53:35,898 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:35.898101]
+2022-09-12 16:53:35,975 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:35.975101]
+2022-09-12 16:53:36,085 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.085102]
+2022-09-12 16:53:36,206 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.206104]
+2022-09-12 16:53:36,258 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.258103]
+2022-09-12 16:53:36,298 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.298104]
+2022-09-12 16:53:36,340 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.340106]
+2022-09-12 16:53:36,456 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.456107]
+2022-09-12 16:53:36,478 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.478107]
+2022-09-12 16:53:36,667 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.667109]
+2022-09-12 16:53:36,740 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:36.740110]
+2022-09-12 16:53:38,664 - detect.py - line:121 - INFO| 
+2022-09-12 16:53:38,770 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 16:53:38.770134
+2022-09-12 16:53:40,101 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:53:40,715 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:53:41,414 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:53:41.414172
+2022-09-12 16:53:42,241 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:53:42.241179
+2022-09-12 16:53:42,242 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:53:42.242194
+2022-09-12 16:53:50,969 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:53:50.969272
+2022-09-12 16:53:50,979 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:53:50.979274
+2022-09-12 16:53:55,448 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.448319]
+2022-09-12 16:53:55,502 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.502316]
+2022-09-12 16:53:55,562 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.562321]
+2022-09-12 16:53:55,562 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.562321]
+2022-09-12 16:53:55,563 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.563320]
+2022-09-12 16:53:55,583 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.583320]
+2022-09-12 16:53:55,655 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.655321]
+2022-09-12 16:53:55,767 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.767323]
+2022-09-12 16:53:55,794 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.794324]
+2022-09-12 16:53:55,847 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:55.847325]
+2022-09-12 16:53:56,042 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:56.042327]
+2022-09-12 16:53:56,071 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:56.071327]
+2022-09-12 16:53:56,348 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:56.348329]
+2022-09-12 16:53:56,358 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:56.358330]
+2022-09-12 16:53:56,396 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:56.396330]
+2022-09-12 16:53:56,460 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:53:56.460330]
+2022-09-12 16:53:58,156 - detect.py - line:121 - INFO| 
+2022-09-12 16:53:58,164 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 16:53:58.164847
+2022-09-12 16:53:59,438 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:54:00,112 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 16:54:00,756 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 16:54:00.756265
+2022-09-12 16:54:01,837 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 16:54:01.837239
+2022-09-12 16:54:01,838 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 16:54:01.838239
+2022-09-12 16:54:14,644 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 16:54:14.644383
+2022-09-12 16:54:14,660 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 16:54:14.660377
+2022-09-12 16:54:19,554 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.554425]
+2022-09-12 16:54:19,555 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.555424]
+2022-09-12 16:54:19,593 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.593425]
+2022-09-12 16:54:19,595 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.595424]
+2022-09-12 16:54:19,672 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.672425]
+2022-09-12 16:54:19,733 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.733426]
+2022-09-12 16:54:19,773 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.773426]
+2022-09-12 16:54:19,773 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.773426]
+2022-09-12 16:54:19,786 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.786427]
+2022-09-12 16:54:19,868 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.868427]
+2022-09-12 16:54:19,900 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.900427]
+2022-09-12 16:54:19,943 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.943428]
+2022-09-12 16:54:19,965 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:19.965427]
+2022-09-12 16:54:20,035 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:20.035428]
+2022-09-12 16:54:20,061 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:20.061431]
+2022-09-12 16:54:20,296 - maincontroller.py - line:244 - INFO| [+] AGX API is running [2022-09-12 16:54:20.296431]
+2022-09-12 16:54:22,108 - detect.py - line:121 - INFO| 
+2022-09-12 16:54:22,116 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 16:54:22.116450
+2022-09-12 16:54:22,877 - maincontroller.py - line:210 - INFO| 文件图对比成功
+2022-09-12 16:54:22,975 - maincontroller.py - line:211 - INFO| 开始修改任务对比状态
+2022-09-12 16:54:23,101 - maincontroller.py - line:215 - INFO| 对比状态修改成功
+2022-09-12 16:58:19,319 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:58:19.319569]
+2022-09-12 16:58:22,424 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:58:22.424617]
+2022-09-12 16:58:28,987 - maincontroller.py - line:190 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 170, in specify_original
+    db_task = TbTask.query.filter(TbTask.id == int(specifyId))
+ValueError: invalid literal for int() with base 10: '}'
+行数:170
+2022-09-12 16:58:54,140 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:58:54.140751]
+2022-09-12 16:58:58,279 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:58:58.279777]
+2022-09-12 16:59:16,620 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:59:16.620037]
+2022-09-12 16:59:20,518 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:59:20.518038]
+2022-09-12 16:59:40,864 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:59:40.864878]
+2022-09-12 16:59:45,510 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 16:59:45.510914]
+2022-09-12 17:00:04,510 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:00:04.510621]
+2022-09-12 17:00:07,743 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:00:07.743653]
+2022-09-12 17:00:15,175 - maincontroller.py - line:190 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 170, in specify_original
+    db_task = TbTask.query.filter(TbTask.id == int(specifyId))
+ValueError: invalid literal for int() with base 10: '='
+行数:170
+2022-09-12 17:00:28,874 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:00:28.874783]
+2022-09-12 17:00:35,723 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:00:35.723492]
+2022-09-12 17:00:41,862 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:00:41.862562]
+2022-09-12 17:00:48,706 - maincontroller.py - line:184 - INFO| 指定任务为模板成功!
+2022-09-12 17:01:01,723 - maincontroller.py - line:184 - INFO| 指定任务为模板成功!
+2022-09-12 17:01:25,754 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:26,712 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:27,466 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:27.466184
+2022-09-12 17:01:28,664 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:28.664187
+2022-09-12 17:01:28,665 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:28.665187
+2022-09-12 17:01:41,416 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:01:41.416628
+2022-09-12 17:01:41,433 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:01:41.432626
+2022-09-12 17:01:42,635 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:43,687 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:44,256 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:44.256646
+2022-09-12 17:01:45,066 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:45.066652
+2022-09-12 17:01:45,079 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:45.079655
+2022-09-12 17:01:46,437 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.437668]
+2022-09-12 17:01:46,574 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.574670]
+2022-09-12 17:01:46,662 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.662672]
+2022-09-12 17:01:46,697 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.697672]
+2022-09-12 17:01:46,707 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.707672]
+2022-09-12 17:01:46,749 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.749673]
+2022-09-12 17:01:46,776 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.776673]
+2022-09-12 17:01:46,875 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.875674]
+2022-09-12 17:01:46,923 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.923675]
+2022-09-12 17:01:46,926 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.926675]
+2022-09-12 17:01:46,996 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:46.996676]
+2022-09-12 17:01:47,079 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:47.079676]
+2022-09-12 17:01:47,191 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:47.191678]
+2022-09-12 17:01:47,511 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:47.511678]
+2022-09-12 17:01:47,555 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:47.555682]
+2022-09-12 17:01:47,588 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:01:47.588680]
+2022-09-12 17:01:49,531 - detect.py - line:121 - INFO| 
+2022-09-12 17:01:49,707 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 17:01:49.707705
+2022-09-12 17:01:50,975 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:51,714 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:52,569 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:52.568750
+2022-09-12 17:01:53,408 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:53,875 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:53,886 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:53.886767
+2022-09-12 17:01:53,888 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:53.888765
+2022-09-12 17:01:54,179 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:54,571 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:54,630 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:54,894 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:01:54.894787
+2022-09-12 17:01:54,905 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:54,911 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:01:54.911762
+2022-09-12 17:01:55,031 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:55.031765
+2022-09-12 17:01:55,317 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:55,605 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:55.605772
+2022-09-12 17:01:55,647 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:55,676 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:55,961 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:55.961775
+2022-09-12 17:01:56,460 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:56.460782
+2022-09-12 17:01:56,508 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:56.508778
+2022-09-12 17:01:56,511 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:56.511778
+2022-09-12 17:01:57,137 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:57.137789
+2022-09-12 17:01:57,150 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:01:57,228 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:57.228789
+2022-09-12 17:01:57,748 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:57.748796
+2022-09-12 17:01:57,749 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:57.749796
+2022-09-12 17:01:58,127 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:01:58.127800
+2022-09-12 17:01:58,210 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:58.210802
+2022-09-12 17:01:58,239 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:58.239802
+2022-09-12 17:01:59,530 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:01:59.530816
+2022-09-12 17:01:59,591 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:01:59.591817
+2022-09-12 17:02:01,843 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:01.843838]
+2022-09-12 17:02:02,201 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:02.201846]
+2022-09-12 17:02:02,484 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:02.484846]
+2022-09-12 17:02:03,115 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:03.115856]
+2022-09-12 17:02:03,373 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:03.373858]
+2022-09-12 17:02:03,686 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:03.686863]
+2022-09-12 17:02:03,733 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:03.733860]
+2022-09-12 17:02:04,024 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:04.024865]
+2022-09-12 17:02:05,475 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:05.475883]
+2022-09-12 17:02:05,583 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:05.583884]
+2022-09-12 17:02:06,237 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:06.237891]
+2022-09-12 17:02:06,650 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:06.650892]
+2022-09-12 17:02:07,641 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:07.641905]
+2022-09-12 17:02:07,846 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:07.846910]
+2022-09-12 17:02:07,928 - detect.py - line:121 - INFO| 
+2022-09-12 17:02:08,179 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:08.179914]
+2022-09-12 17:02:08,234 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:08.234912]
+2022-09-12 17:02:08,497 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 17:02:08.497916
+2022-09-12 17:02:08,554 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:02:08.553919
+2022-09-12 17:02:08,754 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:02:08.754919
+2022-09-12 17:02:09,903 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:02:12,219 - maincontroller.py - line:236 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 210, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 110, in detection_2
+    err, imgOut, score = registration_orb(img_current, img_origin)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 31, in registration_orb
+    score = ssim(cv.cvtColor(img1, cv.COLOR_RGB2GRAY), cv.cvtColor(imgOut, cv.COLOR_RGB2GRAY))
+  File "D:\Python38\lib\site-packages\skimage\_shared\utils.py", line 348, in fixed_func
+    return func(*args, **kwargs)
+  File "D:\Python38\lib\site-packages\skimage\metrics\_structural_similarity.py", line 219, in structural_similarity
+    vxy = cov_norm * (uxy - ux * uy)
+MemoryError: Unable to allocate 91.6 MiB for an array with shape (3000, 4000) and data type float64
+行数:210
+2022-09-12 17:02:12,430 - readImageTools.py - line:48 - ERROR| OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 36000000 bytes in function 'cv::OutOfMemoryError'
+
+2022-09-12 17:02:12,759 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:02:12.759962
+2022-09-12 17:02:14,547 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:02:14.547983
+2022-09-12 17:02:14,706 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:02:14.706990
+2022-09-12 17:02:14,807 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:02:14.807987
+2022-09-12 17:02:14,913 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:02:14.913991
+2022-09-12 17:02:15,445 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:02:15.445992
+2022-09-12 17:02:15,534 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:02:15.534993
+2022-09-12 17:02:17,294 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:02:17.294544
+2022-09-12 17:02:17,484 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:02:17.484549
+2022-09-12 17:02:17,861 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:17.861552]
+2022-09-12 17:02:18,599 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:02:18.599257
+2022-09-12 17:02:18,692 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:02:18.692259
+2022-09-12 17:02:18,808 - maincontroller.py - line:236 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 210, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 110, in detection_2
+    err, imgOut, score = registration_orb(img_current, img_origin)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 31, in registration_orb
+    score = ssim(cv.cvtColor(img1, cv.COLOR_RGB2GRAY), cv.cvtColor(imgOut, cv.COLOR_RGB2GRAY))
+  File "D:\Python38\lib\site-packages\skimage\_shared\utils.py", line 348, in fixed_func
+    return func(*args, **kwargs)
+  File "D:\Python38\lib\site-packages\skimage\metrics\_structural_similarity.py", line 199, in structural_similarity
+    im2 = im2.astype(float_type, copy=False)
+MemoryError: Unable to allocate 91.6 MiB for an array with shape (3000, 4000) and data type float64
+行数:210
+2022-09-12 17:02:18,813 - maincontroller.py - line:236 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 210, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 117, in detection_2
+    erode_dilate_img = erode_dilate(threh_img, size)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 49, in erode_dilate
+    dst = cv.erode(img, kernel)  # 腐蚀
+cv2.error: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 9720000 bytes in function 'cv::OutOfMemoryError'
+
+行数:210
+2022-09-12 17:02:18,873 - maincontroller.py - line:236 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 210, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:210
+2022-09-12 17:02:18,910 - maincontroller.py - line:236 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 210, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:210
+2022-09-12 17:02:19,007 - maincontroller.py - line:236 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 210, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:210
+2022-09-12 17:02:19,202 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:02:19.202265]
+2022-09-12 17:02:19,340 - maincontroller.py - line:236 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 210, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:210
+2022-09-12 17:04:37,798 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:04:37.798612]
+2022-09-12 17:04:40,488 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:04:40.488638]
+2022-09-12 17:04:47,065 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:04:48,618 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:04:49,320 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:04:49.320344
+2022-09-12 17:04:50,300 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:04:50.300341
+2022-09-12 17:04:50,301 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:04:50.301341
+2022-09-12 17:05:02,815 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:05:02.815499
+2022-09-12 17:05:02,831 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:05:02.830508
+2022-09-12 17:05:07,473 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.472536]
+2022-09-12 17:05:07,612 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.612538]
+2022-09-12 17:05:07,736 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.736540]
+2022-09-12 17:05:07,741 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.740539]
+2022-09-12 17:05:07,777 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.777539]
+2022-09-12 17:05:07,777 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.777539]
+2022-09-12 17:05:07,799 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.799540]
+2022-09-12 17:05:07,850 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:07.850539]
+2022-09-12 17:05:08,071 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.071543]
+2022-09-12 17:05:08,131 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.131543]
+2022-09-12 17:05:08,139 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.139544]
+2022-09-12 17:05:08,144 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.144544]
+2022-09-12 17:05:08,191 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.191543]
+2022-09-12 17:05:08,426 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.426547]
+2022-09-12 17:05:08,458 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.458547]
+2022-09-12 17:05:08,720 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:08.720550]
+2022-09-12 17:05:10,507 - detect.py - line:121 - INFO| 
+2022-09-12 17:05:10,514 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 17:05:10.514568
+2022-09-12 17:05:11,839 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:05:12,566 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:05:12,971 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:05:12.971597
+2022-09-12 17:05:13,854 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:05:13.853616
+2022-09-12 17:05:13,855 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:05:13.855616
+2022-09-12 17:05:25,594 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:05:25.594628
+2022-09-12 17:05:25,609 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:05:25.609631
+2022-09-12 17:05:30,437 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.437666]
+2022-09-12 17:05:30,522 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.522668]
+2022-09-12 17:05:30,575 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.575668]
+2022-09-12 17:05:30,589 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.589668]
+2022-09-12 17:05:30,619 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.619668]
+2022-09-12 17:05:30,700 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.700669]
+2022-09-12 17:05:30,720 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.720668]
+2022-09-12 17:05:30,731 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.731669]
+2022-09-12 17:05:30,863 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.863670]
+2022-09-12 17:05:30,874 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.874671]
+2022-09-12 17:05:30,925 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:30.924671]
+2022-09-12 17:05:31,034 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:31.034672]
+2022-09-12 17:05:31,050 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:31.050673]
+2022-09-12 17:05:31,104 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:31.104673]
+2022-09-12 17:05:31,249 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:31.249675]
+2022-09-12 17:05:31,690 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:31.690679]
+2022-09-12 17:05:33,201 - detect.py - line:121 - INFO| 
+2022-09-12 17:05:33,403 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 17:05:33.403698
+2022-09-12 17:05:34,573 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:05:35,171 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:05:35,792 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:05:35.792726
+2022-09-12 17:05:36,185 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:05:36.185727
+2022-09-12 17:05:36,186 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:05:36.186727
+2022-09-12 17:05:47,734 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:05:47.734988
+2022-09-12 17:05:47,750 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:05:47.750998
+2022-09-12 17:05:52,522 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:52.522024]
+2022-09-12 17:05:52,548 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:52.547023]
+2022-09-12 17:05:52,720 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:52.720026]
+2022-09-12 17:05:52,819 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:52.819027]
+2022-09-12 17:05:52,826 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:52.826027]
+2022-09-12 17:05:52,953 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:52.953028]
+2022-09-12 17:05:53,029 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.029029]
+2022-09-12 17:05:53,040 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.040027]
+2022-09-12 17:05:53,177 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.177030]
+2022-09-12 17:05:53,186 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.186031]
+2022-09-12 17:05:53,212 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.212031]
+2022-09-12 17:05:53,258 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.258032]
+2022-09-12 17:05:53,314 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.314032]
+2022-09-12 17:05:53,397 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.397033]
+2022-09-12 17:05:53,475 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.475034]
+2022-09-12 17:05:53,856 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:05:53.856037]
+2022-09-12 17:05:55,659 - detect.py - line:121 - INFO| 
+2022-09-12 17:05:55,665 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 17:05:55.665055
+2022-09-12 17:05:56,866 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:05:57,493 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:05:57,909 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:05:57.909097
+2022-09-12 17:05:58,872 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:05:58.872111
+2022-09-12 17:05:58,874 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:05:58.874104
+2022-09-12 17:06:11,854 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:06:11.854259
+2022-09-12 17:06:11,868 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:06:11.868255
+2022-09-12 17:06:16,557 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:16.557293]
+2022-09-12 17:06:16,618 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:16.618293]
+2022-09-12 17:06:16,619 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:16.618293]
+2022-09-12 17:06:16,685 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:16.685301]
+2022-09-12 17:06:16,727 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:16.727295]
+2022-09-12 17:06:16,782 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:16.782295]
+2022-09-12 17:06:16,910 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:16.910296]
+2022-09-12 17:06:17,003 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.003297]
+2022-09-12 17:06:17,024 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.024298]
+2022-09-12 17:06:17,031 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.030298]
+2022-09-12 17:06:17,099 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.099298]
+2022-09-12 17:06:17,157 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.157298]
+2022-09-12 17:06:17,158 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.158297]
+2022-09-12 17:06:17,205 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.205299]
+2022-09-12 17:06:17,380 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.380301]
+2022-09-12 17:06:17,641 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:17.641305]
+2022-09-12 17:06:19,279 - detect.py - line:121 - INFO| 
+2022-09-12 17:06:19,287 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 17:06:19.287332
+2022-09-12 17:06:20,475 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:06:21,151 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-12 17:06:21,877 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-12 17:06:21.877366
+2022-09-12 17:06:22,924 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-12 17:06:22.924374
+2022-09-12 17:06:22,925 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-12 17:06:22.925373
+2022-09-12 17:06:36,178 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-12 17:06:36.178031
+2022-09-12 17:06:36,193 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-12 17:06:36.192530
+2022-09-12 17:06:40,754 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:40.754564]
+2022-09-12 17:06:40,771 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:40.771566]
+2022-09-12 17:06:40,786 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:40.786564]
+2022-09-12 17:06:40,829 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:40.829564]
+2022-09-12 17:06:41,034 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.034567]
+2022-09-12 17:06:41,049 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.049567]
+2022-09-12 17:06:41,081 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.081567]
+2022-09-12 17:06:41,082 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.082567]
+2022-09-12 17:06:41,119 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.119567]
+2022-09-12 17:06:41,132 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.132568]
+2022-09-12 17:06:41,152 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.151567]
+2022-09-12 17:06:41,170 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.170569]
+2022-09-12 17:06:41,195 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.195569]
+2022-09-12 17:06:41,585 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.585572]
+2022-09-12 17:06:41,661 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.661574]
+2022-09-12 17:06:41,775 - maincontroller.py - line:245 - INFO| [+] AGX API is running [2022-09-12 17:06:41.775576]
+2022-09-12 17:06:43,480 - detect.py - line:121 - INFO| 
+2022-09-12 17:06:43,488 - timeTools.py - line:6 - INFO| 结束时间 2022-09-12 17:06:43.488594
+2022-09-12 17:06:44,236 - maincontroller.py - line:211 - INFO| 文件图对比成功
+2022-09-12 17:06:44,343 - maincontroller.py - line:212 - INFO| 开始修改任务对比状态
+2022-09-12 17:06:44,493 - maincontroller.py - line:216 - INFO| 对比状态修改成功
+2022-09-12 17:12:46,928 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 17:12:46.928409]
+2022-09-12 17:12:55,042 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 17:12:55.042087]
+2022-09-12 17:12:59,869 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 17:12:59.869144]
+2022-09-12 17:13:28,023 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:15:03,163 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:15:09,313 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:15:10,120 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:17:22,419 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:17:40,513 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:18:07,274 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:18:53,666 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:19:07,713 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:20:04,109 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 17:20:04.109820]
+2022-09-12 17:20:09,479 - maincontroller.py - line:247 - INFO| [+] AGX API is running [2022-09-12 17:20:09.479885]
+2022-09-12 17:20:15,718 - maincontroller.py - line:192 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 165, in specify_original
+    get_id = request.json
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 553, in json
+    return self.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:165
+2022-09-12 17:21:22,434 - maincontroller.py - line:250 - INFO| [+] AGX API is running [2022-09-12 17:21:22.434940]
+2022-09-12 17:21:28,045 - maincontroller.py - line:250 - INFO| [+] AGX API is running [2022-09-12 17:21:28.045598]
+2022-09-12 17:22:34,336 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:22:34.336111]
+2022-09-12 17:22:38,687 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:22:38.687165]
+2022-09-12 17:23:45,425 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:23:45.425713]
+2022-09-12 17:23:48,413 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:23:48.413758]
+2022-09-12 17:26:03,250 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:26:03.250613]
+2022-09-12 17:26:05,730 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:26:05.730640]
+2022-09-12 17:26:10,889 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 168, in specify_original
+    get_id = request.json
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 553, in json
+    return self.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:168
+2022-09-12 17:26:46,788 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:26:46.788701]
+2022-09-12 17:26:51,083 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:26:51.083739]
+2022-09-12 17:26:57,300 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 168, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:168
+2022-09-12 17:28:23,181 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:28:23.181789]
+2022-09-12 17:28:27,718 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:28:27.718832]
+2022-09-12 17:28:30,749 - maincontroller.py - line:197 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 170, in specify_original
+    ss = json.loads(get_id)
+  File "D:\Python38\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+行数:170
+2022-09-12 17:29:33,957 - maincontroller.py - line:197 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 170, in specify_original
+    ss = json.loads(get_id)
+  File "D:\Python38\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+行数:170
+2022-09-12 17:31:07,631 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:31:07.631480]
+2022-09-12 17:31:10,821 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:31:10.821559]
+2022-09-12 17:31:16,604 - maincontroller.py - line:197 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 171, in specify_original
+    ss = json.loads(get_id)
+  File "D:\Python38\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+行数:171
+2022-09-12 17:31:46,638 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:31:46.638128]
+2022-09-12 17:31:52,790 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:31:52.790185]
+2022-09-12 17:31:56,520 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:31:56.520782]
+2022-09-12 17:32:22,968 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:32:22.968675]
+2022-09-12 17:32:28,497 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:32:28.497734]
+2022-09-12 17:33:14,204 - maincontroller.py - line:250 - INFO| [+] AGX API is running [2022-09-12 17:33:14.204406]
+2022-09-12 17:33:18,215 - maincontroller.py - line:250 - INFO| [+] AGX API is running [2022-09-12 17:33:18.215463]
+2022-09-12 17:33:21,868 - maincontroller.py - line:189 - INFO| 指定任务为模板成功!
+2022-09-12 17:33:26,730 - maincontroller.py - line:189 - INFO| 指定任务为模板成功!
+2022-09-12 17:33:29,987 - maincontroller.py - line:189 - INFO| 指定任务为模板成功!
+2022-09-12 17:34:42,543 - maincontroller.py - line:189 - INFO| 指定任务为模板成功!
+2022-09-12 17:35:51,258 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:35:51.258750]
+2022-09-12 17:35:56,797 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:35:56.797812]
+2022-09-12 17:36:33,369 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:37:01,604 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:37:04,249 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:37:07,878 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_id = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:37:45,465 - maincontroller.py - line:248 - INFO| [+] AGX API is running [2022-09-12 17:37:45.465178]
+2022-09-12 17:37:48,654 - maincontroller.py - line:248 - INFO| [+] AGX API is running [2022-09-12 17:37:48.654211]
+2022-09-12 17:40:10,965 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:40:10.965222]
+2022-09-12 17:40:16,667 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:40:16.667887]
+2022-09-12 17:40:20,883 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_data = request.get_json(force=True)
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:40:23,209 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_data = request.get_json(force=True)
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:42:55,378 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:42:55.378304]
+2022-09-12 17:42:59,611 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:42:59.611355]
+2022-09-12 17:43:29,736 - maincontroller.py - line:196 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_data = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:45:48,984 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:45:48.984082]
+2022-09-12 17:45:53,844 - maincontroller.py - line:251 - INFO| [+] AGX API is running [2022-09-12 17:45:53.844134]
+2022-09-12 17:46:12,890 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:46:12.890495]
+2022-09-12 17:46:15,413 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:46:15.413523]
+2022-09-12 17:46:23,085 - maincontroller.py - line:197 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_data = request.json
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 553, in json
+    return self.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:47:13,310 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:47:13.310563]
+2022-09-12 17:47:16,267 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:47:16.267591]
+2022-09-12 17:47:35,906 - maincontroller.py - line:191 - INFO| 指定任务为模板成功!
+2022-09-12 17:49:21,952 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:49:21.952770]
+2022-09-12 17:49:24,391 - maincontroller.py - line:252 - INFO| [+] AGX API is running [2022-09-12 17:49:24.391795]
+2022-09-12 17:49:57,785 - maincontroller.py - line:197 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 171, in specify_original
+    gg = get_data.get('tid')
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:171
+2022-09-12 17:50:09,573 - maincontroller.py - line:197 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 171, in specify_original
+    gg = get_data.get('tid')
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:171
+2022-09-12 17:50:19,818 - maincontroller.py - line:197 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 586, in get_json
+    rv = self.json_module.loads(data)
+  File "D:\Python38\lib\site-packages\flask\json\__init__.py", line 220, in loads
+    return _json.loads(s, **kwargs)
+  File "D:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "D:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python38\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 169, in specify_original
+    get_data = request.get_json()
+  File "D:\Python38\lib\site-packages\werkzeug\wrappers\request.py", line 595, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "D:\Python38\lib\site-packages\flask\wrappers.py", line 129, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+行数:169
+2022-09-12 17:56:30,650 - maincontroller.py - line:246 - INFO| [+] AGX API is running [2022-09-12 17:56:30.650851]
+2022-09-12 17:56:34,624 - maincontroller.py - line:246 - INFO| [+] AGX API is running [2022-09-12 17:56:34.624880]
+2022-09-12 17:56:43,710 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-12 17:56:47,590 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-12 17:56:50,129 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-12 17:56:52,645 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-12 17:56:54,962 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-13 08:52:27,879 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-13 08:53:09,658 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-13 08:53:26,243 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:27,251 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:27,601 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 08:53:27.601609
+2022-09-13 08:53:28,606 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 08:53:28.606619
+2022-09-13 08:53:28,607 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 08:53:28.607622
+2022-09-13 08:53:37,148 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 08:53:37.148707
+2022-09-13 08:53:37,159 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 08:53:37.159700
+2022-09-13 08:53:52,501 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:53,405 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:54,118 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 08:53:54.118882
+2022-09-13 08:53:54,238 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:54,834 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 08:53:54.834882
+2022-09-13 08:53:54,850 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 08:53:54.850885
+2022-09-13 08:53:55,070 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:55,566 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 08:53:55.566893
+2022-09-13 08:53:55,709 - timeTools.py - line:6 - INFO| 结束时间 2022-09-13 08:53:55.709894
+2022-09-13 08:53:56,960 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 08:53:56.960908
+2022-09-13 08:53:56,974 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 08:53:56.974910
+2022-09-13 08:53:56,978 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:57,788 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:53:58,200 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 08:53:58.200924
+2022-09-13 08:53:58,777 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 08:53:58.776926
+2022-09-13 08:53:58,777 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 08:53:58.777928
+2022-09-13 08:54:02,719 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 08:54:02.719984
+2022-09-13 08:54:02,735 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 08:54:02.735975
+2022-09-13 08:54:04,681 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 08:54:04.681996
+2022-09-13 08:54:04,735 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 08:54:04.735995
+2022-09-13 08:54:08,524 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 08:54:08.523035
+2022-09-13 08:54:08,584 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 113, in detection_2
+    err = cv.cvtColor(err, cv.COLOR_RGB2GRAY)
+cv2.error: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 9720000 bytes in function 'cv::OutOfMemoryError'
+
+行数:211
+2022-09-13 08:54:23,606 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:211
+2022-09-13 08:54:24,954 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:211
+2022-09-13 08:55:00,430 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:55:01,369 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 08:55:01,712 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 08:55:01.712603
+2022-09-13 08:55:02,161 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 08:55:02.161607
+2022-09-13 08:55:02,161 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 08:55:02.161607
+2022-09-13 08:55:08,425 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 08:55:08.425704
+2022-09-13 08:55:08,441 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 08:55:08.441690
+2022-09-13 08:55:08,681 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:211
+2022-09-13 09:05:47,067 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:05:48,610 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:05:49,340 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 09:05:49.340990
+2022-09-13 09:05:50,146 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 09:05:50.146988
+2022-09-13 09:05:50,147 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 09:05:50.147988
+2022-09-13 09:05:59,888 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 09:05:59.888102
+2022-09-13 09:05:59,904 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 09:05:59.904104
+2022-09-13 09:06:00,117 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:211
+2022-09-13 09:07:03,360 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:07:04,569 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:07:05,029 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 09:07:05.029810
+2022-09-13 09:07:05,649 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 09:07:05.649797
+2022-09-13 09:07:05,649 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 09:07:05.649797
+2022-09-13 09:07:13,628 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 09:07:13.628908
+2022-09-13 09:07:13,644 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 09:07:13.644893
+2022-09-13 09:07:13,839 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:211
+2022-09-13 09:08:05,235 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:08:06,716 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:08:07,648 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 09:08:07.648083
+2022-09-13 09:08:08,712 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 09:08:08.712093
+2022-09-13 09:08:08,713 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 09:08:08.713093
+2022-09-13 09:08:19,056 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 09:08:19.055207
+2022-09-13 09:08:19,071 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 09:08:19.071203
+2022-09-13 09:08:19,292 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:211
+2022-09-13 09:09:55,443 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:09:56,932 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 09:09:57,719 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 09:09:57.719465
+2022-09-13 09:09:58,758 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 09:09:58.758515
+2022-09-13 09:09:58,759 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 09:09:58.759520
+2022-09-13 09:10:11,890 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 09:10:11.890617
+2022-09-13 09:10:11,904 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 09:10:11.904619
+2022-09-13 09:10:12,077 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    contrast_floder(path1, path2, out_path)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 52, in draw_rectangle
+    tag = t.result()[0]
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 444, in result
+    return self.__get_result()
+  File "D:\Python38\lib\concurrent\futures\_base.py", line 389, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+行数:211
+2022-09-13 09:21:59,064 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 1>
+2022-09-13 09:21:59,065 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,065 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 2>
+2022-09-13 09:21:59,066 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,067 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 3>
+2022-09-13 09:21:59,067 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,068 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 4>
+2022-09-13 09:21:59,068 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,069 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 5>
+2022-09-13 09:21:59,070 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,070 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 6>
+2022-09-13 09:21:59,071 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,071 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 7>
+2022-09-13 09:21:59,072 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,073 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 8>
+2022-09-13 09:21:59,073 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,074 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 9>
+2022-09-13 09:21:59,074 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,075 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 10>
+2022-09-13 09:21:59,075 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,076 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 11>
+2022-09-13 09:21:59,077 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,077 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 12>
+2022-09-13 09:21:59,078 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,078 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 13>
+2022-09-13 09:21:59,079 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,080 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 14>
+2022-09-13 09:21:59,080 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,081 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 15>
+2022-09-13 09:21:59,081 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,082 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 16>
+2022-09-13 09:21:59,082 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,083 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 17>
+2022-09-13 09:21:59,084 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,084 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 18>
+2022-09-13 09:21:59,085 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,085 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 19>
+2022-09-13 09:21:59,086 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,086 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 20>
+2022-09-13 09:21:59,087 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,088 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 21>
+2022-09-13 09:21:59,088 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,089 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 22>
+2022-09-13 09:21:59,089 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:21:59,090 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 23>
+2022-09-13 09:21:59,091 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,350 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 1>
+2022-09-13 09:23:58,351 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,352 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 2>
+2022-09-13 09:23:58,352 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,353 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 3>
+2022-09-13 09:23:58,354 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,354 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 4>
+2022-09-13 09:23:58,355 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,356 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 5>
+2022-09-13 09:23:58,356 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,357 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 6>
+2022-09-13 09:23:58,357 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,358 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 7>
+2022-09-13 09:23:58,358 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,359 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 8>
+2022-09-13 09:23:58,360 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,360 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 9>
+2022-09-13 09:23:58,361 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,361 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 10>
+2022-09-13 09:23:58,362 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,362 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 11>
+2022-09-13 09:23:58,363 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,364 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 12>
+2022-09-13 09:23:58,364 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,365 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 13>
+2022-09-13 09:23:58,365 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,366 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 14>
+2022-09-13 09:23:58,366 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,367 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 15>
+2022-09-13 09:23:58,368 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,368 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 16>
+2022-09-13 09:23:58,369 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,369 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 17>
+2022-09-13 09:23:58,370 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,371 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 18>
+2022-09-13 09:23:58,371 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,372 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 19>
+2022-09-13 09:23:58,372 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,373 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 20>
+2022-09-13 09:23:58,373 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,374 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 21>
+2022-09-13 09:23:58,374 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,375 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 22>
+2022-09-13 09:23:58,376 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:23:58,376 - maincontroller.py - line:115 - INFO| 图片分析结果为<TbAnalysis 23>
+2022-09-13 09:23:58,377 - maincontroller.py - line:116 - INFO| 图片结果分析成功
+2022-09-13 09:24:11,415 - maincontroller.py - line:134 - INFO| 图片分析结果为<TbAnalysis 1>
+2022-09-13 09:24:11,416 - maincontroller.py - line:135 - INFO| 图片结果分析成功
+2022-09-13 09:40:16,880 - maincontroller.py - line:185 - INFO| 指定任务为模板成功!
+2022-09-13 10:11:41,020 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 198, in contrast_data
+    #     # 判断该任务的is_orimg字段值是否为1
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:198
+2022-09-13 10:21:26,168 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 198, in contrast_data
+    # # 如果该条任务存在
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:198
+2022-09-13 10:21:53,649 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 10:21:54,964 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 10:21:55,688 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 10:21:55.688974
+2022-09-13 10:21:56,719 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 10:21:56.719987
+2022-09-13 10:21:56,720 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 10:21:56.720987
+2022-09-13 10:22:08,363 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 10:22:08.363110
+2022-09-13 10:22:08,378 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 10:22:08.378119
+2022-09-13 10:22:08,467 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    else:
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 50, in draw_rectangle
+    tasks = [pool.submit(foreign_body, img, x, y, x_step, y_step) for x, y in start_point]
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 50, in <listcomp>
+    tasks = [pool.submit(foreign_body, img, x, y, x_step, y_step) for x, y in start_point]
+  File "D:\Python38\lib\concurrent\futures\process.py", line 633, in submit
+    raise RuntimeError('cannot schedule new futures after '
+RuntimeError: cannot schedule new futures after interpreter shutdown
+行数:211
+2022-09-13 10:22:28,617 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 10:22:29,336 - readImageTools.py - line:45 - INFO| (3000, 4000, 3)
+2022-09-13 10:22:29,678 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-13 10:22:29.678330
+2022-09-13 10:22:30,124 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-13 10:22:30.124328
+2022-09-13 10:22:30,124 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-13 10:22:30.124328
+2022-09-13 10:22:39,311 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-13 10:22:39.311446
+2022-09-13 10:22:39,326 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-13 10:22:39.326446
+2022-09-13 10:22:39,370 - maincontroller.py - line:237 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 211, in contrast_data
+    else:
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\floder_analysis.py", line 39, in contrast_floder
+    tag, score, box, rectangle_img = detect.mainfundo(img2_base64, img1_base64)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 129, in mainfundo
+    tag, score, box, rectangle_img = detection_2(image_current, image_origin,
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\detect.py", line 119, in detection_2
+    tag, box, rectangle_img = rectangle.draw_rectangle(erode_dilate_img, imgOut)
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 50, in draw_rectangle
+    tasks = [pool.submit(foreign_body, img, x, y, x_step, y_step) for x, y in start_point]
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\modules\rectangle.py", line 50, in <listcomp>
+    tasks = [pool.submit(foreign_body, img, x, y, x_step, y_step) for x, y in start_point]
+  File "D:\Python38\lib\concurrent\futures\process.py", line 633, in submit
+    raise RuntimeError('cannot schedule new futures after '
+RuntimeError: cannot schedule new futures after interpreter shutdown
+行数:211

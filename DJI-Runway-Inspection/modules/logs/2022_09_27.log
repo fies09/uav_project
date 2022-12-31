@@ -1,0 +1,91 @@
+2022-09-27 15:57:16,946 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 15:57:18,790 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 15:57:19,879 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-27 15:57:19.879932
+2022-09-27 15:57:21,135 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-27 15:57:21.135026
+2022-09-27 15:57:21,136 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-27 15:57:21.136024
+2022-09-27 15:57:34,986 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-27 15:57:34.986114
+2022-09-27 15:57:35,003 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-27 15:57:35.003118
+2022-09-27 15:57:41,743 - detect.py - line:121 - INFO| 
+2022-09-27 15:57:41,750 - timeTools.py - line:6 - INFO| 结束时间 2022-09-27 15:57:41.750828
+2022-09-27 15:57:41,777 - floder_analysis.py - line:45 - INFO| 开始写入数据库
+2022-09-27 15:57:41,818 - floder_analysis.py - line:50 - INFO| 数据库写入成功
+2022-09-27 15:59:33,568 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 15:59:35,378 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 15:59:36,454 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-27 15:59:36.454350
+2022-09-27 15:59:37,727 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-27 15:59:37.727492
+2022-09-27 15:59:37,728 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-27 15:59:37.728505
+2022-09-27 15:59:51,311 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-27 15:59:51.311994
+2022-09-27 15:59:51,327 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-27 15:59:51.326960
+2022-09-27 15:59:57,800 - detect.py - line:121 - INFO| 
+2022-09-27 15:59:57,807 - timeTools.py - line:6 - INFO| 结束时间 2022-09-27 15:59:57.807631
+2022-09-27 15:59:57,849 - floder_analysis.py - line:45 - INFO| 开始写入数据库
+2022-09-27 15:59:57,869 - floder_analysis.py - line:50 - INFO| 数据库写入成功
+2022-09-27 15:59:58,627 - floder_analysis.py - line:55 - INFO| 异物框选图保存成功
+2022-09-27 15:59:58,628 - floder_analysis.py - line:59 - INFO| 开始修改任务对比状态
+2022-09-27 15:59:58,640 - floder_analysis.py - line:62 - INFO| 任务对比状态修改成功
+2022-09-27 15:59:58,641 - floder_analysis.py - line:63 - INFO| 开始修改任务进度
+2022-09-27 15:59:58,673 - floder_analysis.py - line:70 - INFO| 任务进度修改成功
+2022-09-27 15:59:59,110 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:00:01,030 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:00:02,304 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-27 16:00:02.304167
+2022-09-27 16:00:03,591 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-27 16:00:03.591275
+2022-09-27 16:00:03,592 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-27 16:00:03.592272
+2022-09-27 16:00:17,897 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-27 16:00:17.896819
+2022-09-27 16:00:17,912 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-27 16:00:17.912818
+2022-09-27 16:00:24,254 - detect.py - line:121 - INFO| 
+2022-09-27 16:00:24,259 - timeTools.py - line:6 - INFO| 结束时间 2022-09-27 16:00:24.259646
+2022-09-27 16:00:24,271 - floder_analysis.py - line:45 - INFO| 开始写入数据库
+2022-09-27 16:00:24,278 - floder_analysis.py - line:50 - INFO| 数据库写入成功
+2022-09-27 16:00:25,078 - floder_analysis.py - line:55 - INFO| 异物框选图保存成功
+2022-09-27 16:00:25,079 - floder_analysis.py - line:59 - INFO| 开始修改任务对比状态
+2022-09-27 16:00:25,089 - floder_analysis.py - line:62 - INFO| 任务对比状态修改成功
+2022-09-27 16:00:25,090 - floder_analysis.py - line:63 - INFO| 开始修改任务进度
+2022-09-27 16:00:25,117 - floder_analysis.py - line:70 - INFO| 任务进度修改成功
+2022-09-27 16:00:25,464 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:00:26,139 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:00:26,995 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-27 16:00:26.995996
+2022-09-27 16:00:27,841 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-27 16:00:27.840047
+2022-09-27 16:00:27,841 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-27 16:00:27.841046
+2022-09-27 16:00:40,863 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-27 16:00:40.863033
+2022-09-27 16:00:40,880 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-27 16:00:40.879042
+2022-09-27 16:00:47,197 - detect.py - line:121 - INFO| 
+2022-09-27 16:00:47,204 - timeTools.py - line:6 - INFO| 结束时间 2022-09-27 16:00:47.204700
+2022-09-27 16:00:47,221 - floder_analysis.py - line:45 - INFO| 开始写入数据库
+2022-09-27 16:00:47,241 - floder_analysis.py - line:50 - INFO| 数据库写入成功
+2022-09-27 16:00:47,872 - floder_analysis.py - line:55 - INFO| 异物框选图保存成功
+2022-09-27 16:00:47,873 - floder_analysis.py - line:59 - INFO| 开始修改任务对比状态
+2022-09-27 16:00:47,883 - floder_analysis.py - line:62 - INFO| 任务对比状态修改成功
+2022-09-27 16:00:47,884 - floder_analysis.py - line:63 - INFO| 开始修改任务进度
+2022-09-27 16:00:47,901 - floder_analysis.py - line:70 - INFO| 任务进度修改成功
+2022-09-27 16:00:48,412 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:00:49,156 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:00:50,122 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-27 16:00:50.122029
+2022-09-27 16:00:51,061 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-27 16:00:51.061131
+2022-09-27 16:00:51,062 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-27 16:00:51.062131
+2022-09-27 16:01:04,260 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-27 16:01:04.260749
+2022-09-27 16:01:04,275 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-27 16:01:04.275747
+2022-09-27 16:01:11,187 - detect.py - line:121 - INFO| 
+2022-09-27 16:01:11,192 - timeTools.py - line:6 - INFO| 结束时间 2022-09-27 16:01:11.192470
+2022-09-27 16:01:11,205 - floder_analysis.py - line:45 - INFO| 开始写入数据库
+2022-09-27 16:01:11,211 - floder_analysis.py - line:50 - INFO| 数据库写入成功
+2022-09-27 16:01:11,908 - floder_analysis.py - line:55 - INFO| 异物框选图保存成功
+2022-09-27 16:01:11,908 - floder_analysis.py - line:59 - INFO| 开始修改任务对比状态
+2022-09-27 16:01:11,950 - floder_analysis.py - line:62 - INFO| 任务对比状态修改成功
+2022-09-27 16:01:11,951 - floder_analysis.py - line:63 - INFO| 开始修改任务进度
+2022-09-27 16:01:11,962 - floder_analysis.py - line:70 - INFO| 任务进度修改成功
+2022-09-27 16:01:12,355 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:01:13,726 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-09-27 16:01:14,845 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-27 16:01:14.845880
+2022-09-27 16:01:16,006 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-27 16:01:16.006000
+2022-09-27 16:01:16,008 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-27 16:01:16.008003
+2022-09-27 16:01:28,916 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-27 16:01:28.916523
+2022-09-27 16:01:28,929 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-27 16:01:28.929541
+2022-09-27 16:01:35,568 - detect.py - line:121 - INFO| 
+2022-09-27 16:01:35,575 - timeTools.py - line:6 - INFO| 结束时间 2022-09-27 16:01:35.575754
+2022-09-27 16:01:35,610 - floder_analysis.py - line:45 - INFO| 开始写入数据库
+2022-09-27 16:01:35,642 - floder_analysis.py - line:50 - INFO| 数据库写入成功
+2022-09-27 16:01:36,278 - floder_analysis.py - line:55 - INFO| 异物框选图保存成功
+2022-09-27 16:01:36,278 - floder_analysis.py - line:59 - INFO| 开始修改任务对比状态
+2022-09-27 16:01:36,289 - floder_analysis.py - line:62 - INFO| 任务对比状态修改成功
+2022-09-27 16:01:36,290 - floder_analysis.py - line:63 - INFO| 开始修改任务进度
+2022-09-27 16:01:36,301 - floder_analysis.py - line:70 - INFO| 任务进度修改成功

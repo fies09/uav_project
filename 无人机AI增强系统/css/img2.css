@@ -1,0 +1,231 @@
+.board{
+left:19%;
+width:80%;
+height:100%;
+top:1%;
+display: inline-block;
+}
+
+
+.thumbnail {
+  display: block;
+  padding: 0;
+  width:18%;
+  height:90%;
+  margin: 0.5% auto 0;
+  position: relative;
+  top:1%;
+  left:-80%;
+  display: inline-block;
+}
+.ul {
+  position: absolute;
+  /* left:0; */
+  /* height: 100px; */
+  width:100%;
+  height:100%;
+  overflow: auto;
+  /* overflow-x: scroll; */
+  overflow-x: hidden;
+  /* overflow-y: hidden; */
+  overflow-y: scroll;
+  white-space: nowrap;
+  /* margin-left:0px; */
+  /* margin-right:0px */
+  /* animation: ul 10s infinite 2s running; */
+  text-align: center;
+}
+.thumbnail li {
+  /* width: calc(10% - 14px); */
+  width: 43%;
+  box-sizing: border-box;
+  /* display: inline-block; */
+  height: auto;
+  margin:3% 3%;
+  float:left;
+
+}
+.jssora05l {
+  background-position: -10px -40px;
+}
+.jssora05l,
+.jssora05r {
+  display: block;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  background: url(../images/a17.png) no-repeat;
+  overflow: hidden;
+}
+.jssora05r {
+  background-position: -10px -40px;
+}
+.jssora05l {
+  background-position: -10px -40px;
+}
+.jssora05r {
+  background-position: -70px -40px;
+}
+.jssora05l:hover {
+  background-position: -130px -40px;
+}
+.jssora05r:hover {
+  background-position: -190px -40px;
+}
+.jssora05l.jssora05ldn {
+  background-position: -250px -40px;
+}
+.jssora05r.jssora05rdn {
+  background-position: -310px -40px;
+}
+
+.wrapper {
+  z-index: 12;
+  position: absolute;
+  top: 6%;
+  left: 6%;
+  width: 88%;
+  height: 5%;
+  padding: 5px;
+  box-sizing: border-box;
+  background: linear-gradient(135deg, transparent 5px, var(--decoration) 0) top
+      left,
+    linear-gradient(-135deg, transparent 5px, var(--decoration) 0) top right,
+    linear-gradient(-45deg, transparent 5px, var(--decoration) 0) bottom right,
+    linear-gradient(45deg, transparent 5px, var(--decoration) 0) bottom left;
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
+  /* top: 50%; */
+  /* left: 50%; */
+  /* transform: translate(-50%,-50%); */
+  overflow: hidden;
+  line-height: 35px;
+}
+.wrapper a {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  font-size: 13px;
+  margin-left: 8px;
+  background-color: #ffffff45;
+  /* border: 1px solid #ffffff7a; */
+  padding: 5px 8px;
+  border-radius: 5px;
+}
+.wrapper .iconfont {
+  width: 16px;
+  height: 16px;
+}
+.board-img1 {
+  width: 92%;
+  height: 84%;
+  padding: 15px;
+  box-sizing: border-box;
+  background: 
+      linear-gradient(135deg, transparent 15px, var(--decoration) 0) top left,
+      linear-gradient(-135deg, transparent 15px, var(--decoration) 0) top right,
+      linear-gradient(-45deg, transparent 15px, var(--decoration) 0) bottom right,
+      linear-gradient(45deg, transparent 15px, var(--decoration) 0) bottom left;
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  overflow: hidden;
+}
+.board-img1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  -webkit-clip-path: polygon(0 14px, 14px 0, calc(100% - 14px) 0, 100% 14px, 100% calc(100% - 14px), calc(100% - 14px) 100%, 14px 100%, 0 calc(100% - 14px));
+}
+.board-img1 div {
+  position: absolute;
+  left: 50%;
+  bottom: 30px;
+  background: var(--textBlack);
+  color: var(--bright);
+  padding: 5px 10px;
+  box-shadow: 0 0 0 5px rgba(0,0,0,0.1);
+  border-radius: 50px;
+  white-space: nowrap;
+  animation: board-text-ani 1 4000ms ease;
+  animation-fill-mode: both;
+  transition: all 200ms linear;
+}
+.board-img1:hover div {
+  box-shadow: 0 0 0 5px rgba(0,0,0,0.3);
+}
+.board-img,.board-img1 {
+  top: 52%;
+}
+.wrapper .haighlight{
+    background-color: #ffffff75;
+    border: 1px solid aqua;
+    color:aqua
+}
+.tableView{
+display: block;
+/* display: none; */
+}
+.grad{
+/* display: block; */
+display: none;
+}
+.board-img a{
+  display: block
+}
+.tableView .board{
+  left:1%;
+  width:98%;
+
+}
+.board-img1 .taskList tr td img{
+  width:50px;
+  height:auto;
+  clip-path: none;
+  }
+
+  .taskList{
+    overflow: auto;
+    display:block;
+    height:530px;
+    overflow-y: scroll;
+    /* -webkit-overflow-scrolling: touch;  为了滚动顺畅 */
+  }
+  table thead { 
+    width: calc( 100% - 1em)
+    }
+  table thead,
+    tbody tr,
+    tfoot tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    text-align:center;
+ } 
+   /* 隐藏滚动条 */
+   .ul::-webkit-scrollbar,table tbody::-webkit-scrollbar {
+    /* display: none;  */
+    width:15px;
+}
+/* 设置滚动条的样式 */
+.ul::-webkit-scrollbar,table tbody::-webkit-scrollbar {
+  width:12px;
+  }
+  /* 滚动槽 */
+  .ul::-webkit-scrollbar, table tbody::-webkit-scrollbar-track {
+  -webkit-box-shadow:inset006pxrgba(0,0,0,0.3);
+  border-radius:10px;
+  }
+  /* 滚动条滑块 */
+  .ul::-webkit-scrollbar,table tbody::-webkit-scrollbar-thumb {
+  border-radius:10px;
+  background:rgba(185, 179, 179, 0.5);
+  -webkit-box-shadow:inset006pxrgba(0,0,0,0.5);
+  }
+  .ul::-webkit-scrollbar, table tbody::-webkit-scrollbar-thumb:window-inactive {
+  background:rgba(20, 92, 160, 0.4);
+  }

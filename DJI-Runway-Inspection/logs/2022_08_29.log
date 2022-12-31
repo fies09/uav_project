@@ -1,0 +1,125 @@
+2022-08-29 09:26:29,466 - maincontroller.py - line:172 - INFO| [+] AGX API is running [2022-08-29 09:26:29.466776]
+2022-08-29 15:44:15,452 - maincontroller.py - line:300 - INFO| [+] AGX API is running [2022-08-29 15:44:15.452558]
+2022-08-29 15:47:19,934 - maincontroller.py - line:301 - INFO| [+] AGX API is running [2022-08-29 15:47:19.934941]
+2022-08-29 15:49:12,189 - maincontroller.py - line:300 - INFO| [+] AGX API is running [2022-08-29 15:49:12.189963]
+2022-08-29 15:49:50,047 - maincontroller.py - line:300 - INFO| [+] AGX API is running [2022-08-29 15:49:50.047903]
+2022-08-29 15:51:27,909 - maincontroller.py - line:301 - INFO| [+] AGX API is running [2022-08-29 15:51:27.909632]
+2022-08-29 15:51:54,035 - maincontroller.py - line:301 - INFO| [+] AGX API is running [2022-08-29 15:51:54.035109]
+2022-08-29 15:52:23,503 - maincontroller.py - line:301 - INFO| [+] AGX API is running [2022-08-29 15:52:23.503042]
+2022-08-29 15:52:44,774 - maincontroller.py - line:301 - INFO| [+] AGX API is running [2022-08-29 15:52:44.774752]
+2022-08-29 15:54:50,581 - maincontroller.py - line:301 - INFO| [+] AGX API is running [2022-08-29 15:54:50.581265]
+2022-08-29 15:55:23,966 - maincontroller.py - line:301 - INFO| [+] AGX API is running [2022-08-29 15:55:23.966630]
+2022-08-29 15:56:28,680 - maincontroller.py - line:303 - INFO| [+] AGX API is running [2022-08-29 15:56:28.680560]
+2022-08-29 15:57:21,288 - maincontroller.py - line:303 - INFO| [+] AGX API is running [2022-08-29 15:57:21.288018]
+2022-08-29 16:52:35,411 - maincontroller.py - line:313 - INFO| [+] AGX API is running [2022-08-29 16:52:35.411088]
+2022-08-29 16:52:51,884 - maincontroller.py - line:303 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 285, in upload
+    file_type = get_date.get("file_type")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:285
+2022-08-29 16:55:05,490 - maincontroller.py - line:303 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 285, in upload
+    file_type = get_date.get("file_type")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:285
+2022-08-29 16:57:59,030 - maincontroller.py - line:303 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 285, in upload
+    # 获取安全的文件名, 正常的文件名
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:285
+2022-08-29 17:05:58,727 - maincontroller.py - line:313 - INFO| [+] AGX API is running [2022-08-29 17:05:58.727526]
+2022-08-29 17:06:13,975 - maincontroller.py - line:303 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 285, in upload
+    file_type = get_date.get("file_type")
+AttributeError: 'NoneType' object has no attribute 'get'
+行数:285
+2022-08-29 17:13:39,114 - maincontroller.py - line:314 - INFO| [+] AGX API is running [2022-08-29 17:13:39.114254]
+2022-08-29 17:19:26,353 - maincontroller.py - line:316 - INFO| [+] AGX API is running [2022-08-29 17:19:26.353517]
+2022-08-29 17:20:01,787 - maincontroller.py - line:316 - INFO| [+] AGX API is running [2022-08-29 17:20:01.787040]
+2022-08-29 17:20:07,249 - maincontroller.py - line:301 - INFO| 要对比的文件:D:\Code\DJI-Runway-Inspection/images/20220829172007_1.JPG
+2022-08-29 17:20:49,410 - maincontroller.py - line:301 - INFO| 要对比的文件:D:\Code\DJI-Runway-Inspection/images/20220829172049_1.JPG
+2022-08-29 17:22:04,011 - maincontroller.py - line:316 - INFO| [+] AGX API is running [2022-08-29 17:22:04.011444]
+2022-08-29 17:22:29,382 - maincontroller.py - line:296 - INFO| 源文件:D:\Code\DJI-Runway-Inspection/images/20220829172229_1.JPG
+2022-08-29 17:22:29,382 - maincontroller.py - line:300 - INFO| 要对比的文件:D:\Code\DJI-Runway-Inspection/images/20220829172229_1.JPG
+2022-08-29 17:23:40,150 - maincontroller.py - line:307 - INFO| [+] AGX API is running [2022-08-29 17:23:40.150127]
+2022-08-29 17:23:43,149 - maincontroller.py - line:294 - INFO| index3
+2022-08-29 17:23:58,818 - maincontroller.py - line:294 - INFO| index3
+2022-08-29 17:24:09,209 - maincontroller.py - line:307 - INFO| [+] AGX API is running [2022-08-29 17:24:09.209908]
+2022-08-29 17:24:14,262 - maincontroller.py - line:294 - INFO| index2
+2022-08-29 17:24:14,263 - maincontroller.py - line:294 - INFO| index3
+2022-08-29 17:24:53,857 - maincontroller.py - line:307 - INFO| [+] AGX API is running [2022-08-29 17:24:53.857583]
+2022-08-29 17:24:57,517 - maincontroller.py - line:294 - INFO| index2
+2022-08-29 17:24:57,517 - maincontroller.py - line:294 - INFO| index3
+2022-08-29 17:25:30,936 - maincontroller.py - line:307 - INFO| [+] AGX API is running [2022-08-29 17:25:30.936211]
+2022-08-29 17:25:32,963 - maincontroller.py - line:294 - INFO| index2
+2022-08-29 17:25:38,009 - maincontroller.py - line:294 - INFO| index2
+2022-08-29 17:33:44,938 - maincontroller.py - line:312 - INFO| [+] AGX API is running [2022-08-29 17:33:44.937414]
+2022-08-29 17:33:51,824 - maincontroller.py - line:292 - INFO| filename20220829173351_1.JPG
+2022-08-29 17:33:51,834 - maincontroller.py - line:299 - INFO| index2
+2022-08-29 17:33:51,834 - maincontroller.py - line:292 - INFO| filename20220829173351_1.JPG
+2022-08-29 17:33:51,834 - maincontroller.py - line:299 - INFO| index3
+2022-08-29 17:46:12,472 - maincontroller.py - line:307 - INFO| [+] AGX API is running [2022-08-29 17:46:12.472575]
+2022-08-29 17:46:54,737 - maincontroller.py - line:297 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 286, in upload
+    file_name1 = datetime.now().strftime("%Y%m%d%H%M%S") + "_1" + "." + filename1.rsplit('.', 1)[1]
+AttributeError: module 'datetime' has no attribute 'now'
+行数:286
+2022-08-29 17:48:13,952 - maincontroller.py - line:307 - INFO| [+] AGX API is running [2022-08-29 17:48:13.952048]
+2022-08-29 17:50:14,118 - maincontroller.py - line:309 - INFO| [+] AGX API is running [2022-08-29 17:50:14.118294]
+2022-08-29 17:51:21,275 - maincontroller.py - line:308 - INFO| [+] AGX API is running [2022-08-29 17:51:21.275549]
+2022-08-29 17:52:46,206 - maincontroller.py - line:308 - INFO| [+] AGX API is running [2022-08-29 17:52:46.206277]
+2022-08-29 17:53:25,472 - maincontroller.py - line:308 - INFO| [+] AGX API is running [2022-08-29 17:53:25.472377]
+2022-08-29 17:54:25,440 - maincontroller.py - line:308 - INFO| [+] AGX API is running [2022-08-29 17:54:25.440459]
+2022-08-29 17:55:15,169 - maincontroller.py - line:309 - INFO| [+] AGX API is running [2022-08-29 17:55:15.169464]
+2022-08-29 17:55:19,702 - maincontroller.py - line:299 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 286, in upload
+    for i in len(filename1.files):
+AttributeError: 'str' object has no attribute 'files'
+行数:286
+2022-08-29 17:55:30,552 - maincontroller.py - line:309 - INFO| [+] AGX API is running [2022-08-29 17:55:30.552363]
+2022-08-29 17:55:33,478 - maincontroller.py - line:299 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 286, in upload
+    for i in len(filename1):
+TypeError: 'int' object is not iterable
+行数:286
+2022-08-29 17:56:17,534 - maincontroller.py - line:299 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 286, in upload
+    file_name1 = datetime.datetime.now().strftime("%Y%m%d%H%M%S") + "_1" + "." + filename1.rsplit('.', 1)[1]
+TypeError: 'int' object is not iterable
+行数:286
+2022-08-29 17:56:28,874 - maincontroller.py - line:308 - INFO| [+] AGX API is running [2022-08-29 17:56:28.874262]
+2022-08-29 18:04:05,448 - maincontroller.py - line:309 - INFO| [+] AGX API is running [2022-08-29 18:04:05.448002]
+2022-08-29 18:04:10,278 - maincontroller.py - line:299 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 287, in upload
+    filename1 = secure_filename(file1.filename)
+AttributeError: 'list' object has no attribute 'filename'
+行数:287
+2022-08-29 18:06:25,265 - maincontroller.py - line:314 - INFO| [+] AGX API is running [2022-08-29 18:06:25.265593]
+2022-08-29 18:06:54,494 - maincontroller.py - line:314 - INFO| [+] AGX API is running [2022-08-29 18:06:54.493340]
+2022-08-29 18:07:32,184 - maincontroller.py - line:311 - INFO| [+] AGX API is running [2022-08-29 18:07:32.184915]
+2022-08-29 18:12:33,059 - maincontroller.py - line:311 - INFO| [+] AGX API is running [2022-08-29 18:12:33.059644]
+2022-08-29 18:12:41,166 - maincontroller.py - line:301 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 297, in upload
+    file1.save(file_path + '/image1/' + file_name1)
+AttributeError: 'list' object has no attribute 'save'
+行数:297
+2022-08-29 18:15:00,980 - maincontroller.py - line:313 - INFO| [+] AGX API is running [2022-08-29 18:15:00.980219]
+2022-08-29 18:15:04,695 - maincontroller.py - line:303 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 297, in upload
+    filename1.save(file_path + '/image1/' + file_name1)
+AttributeError: 'str' object has no attribute 'save'
+行数:297
+2022-08-29 18:20:21,918 - maincontroller.py - line:319 - INFO| [+] AGX API is running [2022-08-29 18:20:21.918743]
+2022-08-29 18:20:39,395 - maincontroller.py - line:309 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 300, in upload
+    filename1.save(upload1_path)
+AttributeError: 'str' object has no attribute 'save'
+行数:300
+2022-08-29 18:21:31,232 - maincontroller.py - line:319 - INFO| [+] AGX API is running [2022-08-29 18:21:31.232910]
+2022-08-29 18:21:42,203 - maincontroller.py - line:309 - ERROR| 文件上传异常异常:Traceback (most recent call last):
+  File "maincontroller.py", line 300, in upload
+    filename1.save(file1_path)
+AttributeError: 'str' object has no attribute 'save'
+行数:300
+2022-08-29 18:24:25,226 - maincontroller.py - line:319 - INFO| [+] AGX API is running [2022-08-29 18:24:25.226619]
+2022-08-29 18:24:30,855 - maincontroller.py - line:306 - INFO| 文件上传成功

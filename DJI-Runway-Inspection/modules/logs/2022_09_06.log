@@ -1,0 +1,14 @@
+2022-09-06 18:39:03,196 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-06 18:39:03,448 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-06 18:39:04,114 - readImageTools.py - line:45 - INFO| (3888, 5184, 3)
+2022-09-06 18:39:04,487 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-09-06 18:39:04.487283
+2022-09-06 18:39:04,943 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-09-06 18:39:04.943274
+2022-09-06 18:39:04,943 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-09-06 18:39:04.943274
+2022-09-06 18:39:08,896 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-09-06 18:39:08.896874
+2022-09-06 18:39:08,911 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-09-06 18:39:08.911833
+2022-09-06 18:39:12,818 - detect.py - line:121 - INFO| 
+2022-09-06 18:39:12,829 - timeTools.py - line:6 - INFO| 结束时间 2022-09-06 18:39:12.829359
+2022-09-06 18:42:13,226 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-06 18:42:13,226 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 18:45:28,829 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-06 18:45:28,830 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'

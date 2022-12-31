@@ -1,0 +1,504 @@
+2022-10-08 08:54:53,462 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 08:54:53.461678]
+2022-10-08 08:58:37,847 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008085837/
+2022-10-08 08:58:37,849 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 08:58:37,871 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 08:58:37,872 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 08:58:37,875 - maincontroller.py - line:353 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 310, in contrast_data
+    Thread(target=contrast_floder, args=(path1, path2, out_path)).start()
+NameError: name 'contrast_floder' is not defined
+行数:310
+2022-10-08 08:58:53,118 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008085853/
+2022-10-08 08:58:53,119 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 08:58:53,127 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 08:58:53,129 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 08:58:53,130 - maincontroller.py - line:353 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 310, in contrast_data
+    Thread(target=contrast_floder, args=(path1, path2, out_path)).start()
+NameError: name 'contrast_floder' is not defined
+行数:310
+2022-10-08 08:59:09,143 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 08:59:09.143335]
+2022-10-08 08:59:14,237 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008085914/
+2022-10-08 08:59:14,238 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 08:59:14,246 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 08:59:14,247 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 08:59:14,250 - maincontroller.py - line:353 - ERROR| 文件夹图片分析异常:Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\DJI-Runway-Inspection\DJI-Runway-Inspection\server\maincontroller.py", line 310, in contrast_data
+    Thread(target=contrast_floder, args=(path1, path2, out_path)).start()
+NameError: name 'contrast_floder' is not defined
+行数:310
+2022-10-08 09:00:27,521 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:00:27.521349]
+2022-10-08 09:00:30,219 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008090030/
+2022-10-08 09:00:30,220 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 09:00:30,227 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 09:00:30,228 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 09:00:30,230 - floder_analysis.py - line:72 - INFO| >>>>>>>>>>>>>>>>开始执行对比功能>>>>>>>>>>>>>>>>
+2022-10-08 09:00:30,231 - maincontroller.py - line:311 - INFO| 对比成功
+2022-10-08 09:00:30,253 - maincontroller.py - line:319 - INFO| 异物状态修改成功
+2022-10-08 09:00:30,261 - maincontroller.py - line:327 - INFO| 图片对比状态修改成功
+2022-10-08 09:00:33,897 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:00:38,163 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:00:39,322 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 09:00:39.321677
+2022-10-08 09:00:51,359 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 09:00:51.358982
+2022-10-08 09:00:51,360 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 09:00:51.360980
+2022-10-08 09:03:36,121 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:03:36.121426]
+2022-10-08 09:04:12,160 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008090412/
+2022-10-08 09:04:12,162 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 09:04:12,170 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 09:04:12,171 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 09:04:12,173 - floder_analysis.py - line:72 - INFO| >>>>>>>>>>>>>>>>开始执行对比功能>>>>>>>>>>>>>>>>
+2022-10-08 09:04:12,173 - maincontroller.py - line:311 - INFO| 对比成功
+2022-10-08 09:04:12,197 - maincontroller.py - line:319 - INFO| 异物状态修改成功
+2022-10-08 09:04:12,204 - maincontroller.py - line:327 - INFO| 图片对比状态修改成功
+2022-10-08 09:04:12,961 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:04:14,837 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:04:15,910 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 09:04:15.910500
+2022-10-08 09:04:17,269 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 09:04:17.269525
+2022-10-08 09:04:17,270 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 09:04:17.270527
+2022-10-08 09:04:59,683 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 09:04:59.683010
+2022-10-08 09:04:59,727 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 09:04:59.727999
+2022-10-08 09:05:06,810 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:06.810226]
+2022-10-08 09:05:06,987 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:06.987225]
+2022-10-08 09:05:07,076 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:07.076227]
+2022-10-08 09:05:07,300 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:07.300229]
+2022-10-08 09:05:07,754 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:07.754235]
+2022-10-08 09:05:07,755 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:07.755236]
+2022-10-08 09:05:07,770 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:07.770236]
+2022-10-08 09:05:07,967 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:07.967238]
+2022-10-08 09:05:08,052 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.052240]
+2022-10-08 09:05:08,092 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.092240]
+2022-10-08 09:05:08,187 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.187240]
+2022-10-08 09:05:08,258 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.258239]
+2022-10-08 09:05:08,617 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.617241]
+2022-10-08 09:05:08,686 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.686243]
+2022-10-08 09:05:08,875 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.875245]
+2022-10-08 09:05:08,925 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:08.925247]
+2022-10-08 09:05:09,439 - detect.py - line:121 - INFO| 
+2022-10-08 09:05:09,446 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 09:05:09.446258
+2022-10-08 09:05:09,455 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 09:05:09,528 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 09:05:10,358 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 09:05:10,464 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 09:05:10,531 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 09:05:10,550 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 09:05:10,582 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 09:05:11,619 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:05:13,230 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:05:14,238 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 09:05:14.238335
+2022-10-08 09:05:15,212 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 09:05:15.212973
+2022-10-08 09:05:15,214 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 09:05:15.214971
+2022-10-08 09:05:36,481 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 09:05:36.480232
+2022-10-08 09:05:36,608 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 09:05:36.608293
+2022-10-08 09:05:42,996 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:42.995290]
+2022-10-08 09:05:43,187 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:43.187290]
+2022-10-08 09:05:43,366 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:43.366292]
+2022-10-08 09:05:43,680 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:43.680297]
+2022-10-08 09:05:43,886 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:43.886304]
+2022-10-08 09:05:43,888 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:43.888305]
+2022-10-08 09:05:44,081 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:44.081302]
+2022-10-08 09:05:44,123 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:44.123301]
+2022-10-08 09:05:44,147 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:44.147301]
+2022-10-08 09:05:44,158 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:44.158303]
+2022-10-08 09:05:44,341 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:44.341305]
+2022-10-08 09:05:44,864 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:44.864312]
+2022-10-08 09:05:44,891 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:44.891308]
+2022-10-08 09:05:45,006 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:45.006309]
+2022-10-08 09:05:45,128 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:45.128311]
+2022-10-08 09:05:45,634 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:05:45.634321]
+2022-10-08 09:05:45,688 - detect.py - line:121 - INFO| 
+2022-10-08 09:05:45,697 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 09:05:45.697321
+2022-10-08 09:05:45,762 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 09:05:45,951 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 09:05:46,654 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 09:05:46,751 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 09:05:46,850 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 09:05:46,884 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 09:05:47,045 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 09:05:48,144 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:05:50,251 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:05:51,380 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 09:05:51.379413
+2022-10-08 09:05:52,371 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 09:05:52.371427
+2022-10-08 09:05:52,372 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 09:05:52.372428
+2022-10-08 09:06:09,070 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 09:06:09.069668
+2022-10-08 09:06:09,109 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 09:06:09.109625
+2022-10-08 09:06:15,787 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:15.787692]
+2022-10-08 09:06:16,055 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.055695]
+2022-10-08 09:06:16,056 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.056695]
+2022-10-08 09:06:16,077 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.077695]
+2022-10-08 09:06:16,314 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.314699]
+2022-10-08 09:06:16,362 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.362699]
+2022-10-08 09:06:16,725 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.725709]
+2022-10-08 09:06:16,777 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.777704]
+2022-10-08 09:06:16,888 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.888702]
+2022-10-08 09:06:16,888 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:16.888702]
+2022-10-08 09:06:17,054 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:17.054710]
+2022-10-08 09:06:17,215 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:17.215712]
+2022-10-08 09:06:17,232 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:17.232710]
+2022-10-08 09:06:17,233 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:17.233708]
+2022-10-08 09:06:17,882 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:17.882718]
+2022-10-08 09:06:17,904 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:17.904714]
+2022-10-08 09:06:18,241 - detect.py - line:121 - INFO| 
+2022-10-08 09:06:18,248 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 09:06:18.248723
+2022-10-08 09:06:18,332 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 09:06:18,396 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 09:06:19,092 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 09:06:19,193 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 09:06:19,306 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 09:06:19,343 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 09:06:19,442 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 09:06:19,870 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:06:21,398 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 09:06:22,550 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 09:06:22.550790
+2022-10-08 09:06:23,682 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 09:06:23.682848
+2022-10-08 09:06:23,684 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 09:06:23.684819
+2022-10-08 09:06:43,088 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 09:06:43.087926
+2022-10-08 09:06:43,115 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 09:06:43.115910
+2022-10-08 09:06:49,588 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:49.588968]
+2022-10-08 09:06:49,668 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:49.668969]
+2022-10-08 09:06:49,815 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:49.815977]
+2022-10-08 09:06:49,928 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:49.928976]
+2022-10-08 09:06:50,276 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:50.276985]
+2022-10-08 09:06:50,809 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:50.809983]
+2022-10-08 09:06:50,809 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:50.809983]
+2022-10-08 09:06:50,821 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:50.821979]
+2022-10-08 09:06:50,828 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:50.828980]
+2022-10-08 09:06:50,853 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:50.853979]
+2022-10-08 09:06:50,918 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:50.918985]
+2022-10-08 09:06:51,182 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:51.182984]
+2022-10-08 09:06:51,241 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:51.241988]
+2022-10-08 09:06:51,321 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:51.321989]
+2022-10-08 09:06:51,823 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:51.823991]
+2022-10-08 09:06:51,824 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:06:51.824992]
+2022-10-08 09:06:52,069 - detect.py - line:121 - INFO| 
+2022-10-08 09:06:52,077 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 09:06:52.077000
+2022-10-08 09:06:52,122 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 09:06:52,163 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 09:06:52,894 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 09:06:52,963 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 09:06:53,057 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 09:06:53,084 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 09:06:53,143 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 09:06:53,170 - floder_analysis.py - line:116 - INFO| >>>>>>>>>>>>>>>对比功能执行成功>>>>>>>>>>>>>
+2022-10-08 09:29:35,354 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 09:29:35.354712]
+2022-10-08 10:56:48,689 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008105648/
+2022-10-08 10:56:48,690 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 10:56:48,698 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 10:56:48,698 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 10:56:48,700 - floder_analysis.py - line:72 - INFO| >>>>>>>>>>>>>>>>开始执行对比功能>>>>>>>>>>>>>>>>
+2022-10-08 10:56:48,700 - maincontroller.py - line:311 - INFO| 对比成功
+2022-10-08 10:56:48,723 - maincontroller.py - line:319 - INFO| 异物状态修改成功
+2022-10-08 10:56:48,731 - maincontroller.py - line:327 - INFO| 图片对比状态修改成功
+2022-10-08 10:56:49,403 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:56:50,877 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:56:52,045 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 10:56:52.045381
+2022-10-08 10:56:53,439 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 10:56:53.439366
+2022-10-08 10:56:53,440 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 10:56:53.440366
+2022-10-08 10:57:55,099 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 10:57:55.099077
+2022-10-08 10:57:55,155 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 10:57:55.155066
+2022-10-08 10:58:20,110 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.110352]
+2022-10-08 10:58:20,147 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.147353]
+2022-10-08 10:58:20,156 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.156352]
+2022-10-08 10:58:20,187 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.187351]
+2022-10-08 10:58:20,254 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.254353]
+2022-10-08 10:58:20,259 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.259352]
+2022-10-08 10:58:20,279 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.279355]
+2022-10-08 10:58:20,291 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.291355]
+2022-10-08 10:58:20,296 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.296371]
+2022-10-08 10:58:20,297 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.297355]
+2022-10-08 10:58:20,366 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.366632]
+2022-10-08 10:58:20,366 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.366632]
+2022-10-08 10:58:20,392 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.391359]
+2022-10-08 10:58:20,416 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.416361]
+2022-10-08 10:58:20,457 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.457357]
+2022-10-08 10:58:20,475 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:20.475356]
+2022-10-08 10:58:29,455 - detect.py - line:121 - INFO| 
+2022-10-08 10:58:29,465 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 10:58:29.465441
+2022-10-08 10:58:29,472 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 10:58:29,503 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 10:58:30,186 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 10:58:30,187 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 10:58:30,266 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 10:58:30,266 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 10:58:30,276 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 10:58:32,671 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:58:34,825 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:58:36,019 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 10:58:36.019525
+2022-10-08 10:58:37,394 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 10:58:37.393535
+2022-10-08 10:58:37,395 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 10:58:37.394537
+2022-10-08 10:58:53,333 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 10:58:53.333716
+2022-10-08 10:58:53,349 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 10:58:53.349720
+2022-10-08 10:58:57,694 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:58:57.694753]
+2022-10-08 10:59:00,450 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:00.450783]
+2022-10-08 10:59:00,532 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:00.532780]
+2022-10-08 10:59:00,754 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:00.754788]
+2022-10-08 10:59:00,810 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:00.810783]
+2022-10-08 10:59:00,886 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:00.886789]
+2022-10-08 10:59:01,079 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:01.079791]
+2022-10-08 10:59:01,289 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:01.289787]
+2022-10-08 10:59:01,395 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:01.395790]
+2022-10-08 10:59:01,397 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:01.397790]
+2022-10-08 10:59:01,623 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:01.623797]
+2022-10-08 10:59:01,820 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:01.820798]
+2022-10-08 10:59:01,820 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:01.820798]
+2022-10-08 10:59:02,015 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:02.015794]
+2022-10-08 10:59:02,426 - detect.py - line:121 - INFO| 
+2022-10-08 10:59:02,431 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 10:59:02.431823
+2022-10-08 10:59:02,441 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 10:59:02,448 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 10:59:03,353 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 10:59:03,354 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 10:59:03,365 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 10:59:03,366 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 10:59:03,378 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 10:59:03,814 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:59:03,819 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:03.819813]
+2022-10-08 10:59:04,412 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:04.412820]
+2022-10-08 10:59:04,642 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:59:05,550 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 10:59:05.550859
+2022-10-08 10:59:06,053 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 10:59:06.053838
+2022-10-08 10:59:06,054 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 10:59:06.054838
+2022-10-08 10:59:18,890 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 10:59:18.890985
+2022-10-08 10:59:18,902 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 10:59:18.901986
+2022-10-08 10:59:22,988 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:22.988028]
+2022-10-08 10:59:25,581 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:25.581058]
+2022-10-08 10:59:25,811 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:25.811060]
+2022-10-08 10:59:25,811 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:25.811060]
+2022-10-08 10:59:25,875 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:25.875061]
+2022-10-08 10:59:25,877 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:25.876062]
+2022-10-08 10:59:26,127 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:26.127063]
+2022-10-08 10:59:26,144 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:26.144064]
+2022-10-08 10:59:26,428 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:26.428068]
+2022-10-08 10:59:26,454 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:26.454067]
+2022-10-08 10:59:27,108 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:27.108074]
+2022-10-08 10:59:27,161 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:27.161076]
+2022-10-08 10:59:27,162 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:27.162075]
+2022-10-08 10:59:27,564 - detect.py - line:121 - INFO| 
+2022-10-08 10:59:27,569 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 10:59:27.569078
+2022-10-08 10:59:27,581 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 10:59:27,600 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 10:59:28,246 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 10:59:28,246 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 10:59:28,251 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:28.251088]
+2022-10-08 10:59:28,261 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 10:59:28,262 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 10:59:28,270 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 10:59:28,603 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:28.603093]
+2022-10-08 10:59:28,693 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:28.693093]
+2022-10-08 10:59:28,847 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:59:30,846 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 10:59:31,914 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 10:59:31.914153
+2022-10-08 10:59:32,916 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 10:59:32.916172
+2022-10-08 10:59:32,917 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 10:59:32.917173
+2022-10-08 10:59:47,878 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 10:59:47.877328
+2022-10-08 10:59:47,898 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 10:59:47.898321
+2022-10-08 10:59:52,809 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:52.809360]
+2022-10-08 10:59:52,832 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:52.832362]
+2022-10-08 10:59:53,040 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:53.040363]
+2022-10-08 10:59:55,628 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:55.628393]
+2022-10-08 10:59:55,659 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:55.659394]
+2022-10-08 10:59:55,811 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:55.811393]
+2022-10-08 10:59:55,871 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:55.871395]
+2022-10-08 10:59:55,878 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:55.878394]
+2022-10-08 10:59:55,912 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:55.912394]
+2022-10-08 10:59:56,157 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:56.157403]
+2022-10-08 10:59:56,269 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:56.269399]
+2022-10-08 10:59:56,432 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:56.432400]
+2022-10-08 10:59:56,487 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:56.487408]
+2022-10-08 10:59:56,605 - detect.py - line:121 - INFO| 
+2022-10-08 10:59:56,611 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 10:59:56.611403
+2022-10-08 10:59:56,624 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 10:59:56,643 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 10:59:56,800 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:56.800405]
+2022-10-08 10:59:57,442 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 10:59:57,487 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 10:59:57,496 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 10:59:57,497 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 10:59:57,506 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 10:59:57,877 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:57.877421]
+2022-10-08 10:59:57,959 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 10:59:57.959430]
+2022-10-08 10:59:57,969 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 11:00:00,196 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 11:00:01,159 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 11:00:01.159477
+2022-10-08 11:00:01,702 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 11:00:01.701458
+2022-10-08 11:00:01,702 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 11:00:01.702458
+2022-10-08 11:00:18,947 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 11:00:18.947699
+2022-10-08 11:00:18,964 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 11:00:18.964667
+2022-10-08 11:00:23,900 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:23.900708]
+2022-10-08 11:00:26,672 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:26.672737]
+2022-10-08 11:00:26,812 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:26.812739]
+2022-10-08 11:00:26,836 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:26.835743]
+2022-10-08 11:00:27,219 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:27.219743]
+2022-10-08 11:00:27,266 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:27.266744]
+2022-10-08 11:00:27,279 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:27.279743]
+2022-10-08 11:00:27,299 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:27.299743]
+2022-10-08 11:00:27,479 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:27.479749]
+2022-10-08 11:00:27,603 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:27.603746]
+2022-10-08 11:00:27,672 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:27.672752]
+2022-10-08 11:00:28,040 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:28.040111]
+2022-10-08 11:00:28,477 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:28.477589]
+2022-10-08 11:00:28,605 - detect.py - line:121 - INFO| 
+2022-10-08 11:00:28,615 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 11:00:28.615759
+2022-10-08 11:00:28,633 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 11:00:28,654 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 11:00:29,426 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 11:00:29,426 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 11:00:29,442 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 11:00:29,443 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 11:00:29,452 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 11:00:29,453 - floder_analysis.py - line:116 - INFO| >>>>>>>>>>>>>>>对比功能执行成功>>>>>>>>>>>>>
+2022-10-08 11:00:29,884 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:29.884773]
+2022-10-08 11:00:29,901 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:29.901779]
+2022-10-08 11:00:30,600 - maincontroller.py - line:361 - INFO| [+] AGX API is running [2022-10-08 11:00:30.600780]
+2022-10-08 14:17:29,550 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008141729/
+2022-10-08 14:17:29,552 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 14:17:29,571 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 14:17:29,572 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 14:17:29,573 - floder_analysis.py - line:72 - INFO| >>>>>>>>>>>>>>>>开始执行对比功能>>>>>>>>>>>>>>>>
+2022-10-08 14:17:29,574 - maincontroller.py - line:311 - INFO| 对比成功
+2022-10-08 14:17:29,601 - maincontroller.py - line:319 - INFO| 异物状态修改成功
+2022-10-08 14:17:29,623 - maincontroller.py - line:327 - INFO| 图片对比状态修改成功
+2022-10-08 14:17:30,459 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:17:31,235 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:17:32,097 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 14:17:32.097951
+2022-10-08 14:17:33,559 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 14:17:33.559963
+2022-10-08 14:17:33,560 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 14:17:33.560965
+2022-10-08 14:18:13,854 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 14:18:13.853454
+2022-10-08 14:18:13,872 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 14:18:13.872438
+2022-10-08 14:39:43,102 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:39:43.102818]
+2022-10-08 14:40:35,157 - maincontroller.py - line:299 - INFO| out_path2: D:/images/out_imgs/20221008144035/
+2022-10-08 14:40:35,159 - maincontroller.py - line:300 - INFO| 开始修改对比状态
+2022-10-08 14:40:35,167 - maincontroller.py - line:307 - INFO| 对比状态修改成功
+2022-10-08 14:40:35,168 - maincontroller.py - line:309 - INFO| 开始对比
+2022-10-08 14:40:35,170 - floder_analysis.py - line:72 - INFO| >>>>>>>>>>>>>>>>开始执行对比功能>>>>>>>>>>>>>>>>
+2022-10-08 14:40:35,170 - maincontroller.py - line:311 - INFO| 对比成功
+2022-10-08 14:40:35,200 - maincontroller.py - line:319 - INFO| 异物状态修改成功
+2022-10-08 14:40:35,227 - maincontroller.py - line:327 - INFO| 图片对比状态修改成功
+2022-10-08 14:40:35,975 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:40:37,870 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:40:39,020 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 14:40:39.020236
+2022-10-08 14:40:40,473 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 14:40:40.473209
+2022-10-08 14:40:40,475 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 14:40:40.474207
+2022-10-08 14:41:08,125 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 14:41:08.125502
+2022-10-08 14:41:08,141 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 14:41:08.141505
+2022-10-08 14:41:14,314 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:14.314040]
+2022-10-08 14:41:14,436 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:14.436050]
+2022-10-08 14:41:14,576 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:14.576045]
+2022-10-08 14:41:14,765 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:14.765047]
+2022-10-08 14:41:14,807 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:14.807047]
+2022-10-08 14:41:14,814 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:14.814049]
+2022-10-08 14:41:14,905 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:14.905052]
+2022-10-08 14:41:15,152 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:15.152051]
+2022-10-08 14:41:15,287 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:15.287052]
+2022-10-08 14:41:15,788 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:15.788057]
+2022-10-08 14:41:15,791 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:15.791058]
+2022-10-08 14:41:15,806 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:15.806058]
+2022-10-08 14:41:15,944 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:15.944060]
+2022-10-08 14:41:15,978 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:15.978061]
+2022-10-08 14:41:16,003 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:16.003057]
+2022-10-08 14:41:16,223 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:16.223058]
+2022-10-08 14:41:16,700 - detect.py - line:121 - INFO| 
+2022-10-08 14:41:16,708 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 14:41:16.708066
+2022-10-08 14:41:16,756 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 14:41:16,815 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 14:41:17,589 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 14:41:17,637 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 14:41:17,686 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 14:41:17,695 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 14:41:17,723 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 14:41:18,119 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:41:18,830 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:41:19,800 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 14:41:19.800123
+2022-10-08 14:41:20,693 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 14:41:20.693129
+2022-10-08 14:41:20,695 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 14:41:20.695132
+2022-10-08 14:41:36,350 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 14:41:36.349414
+2022-10-08 14:41:36,362 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 14:41:36.362410
+2022-10-08 14:41:42,915 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:42.915481]
+2022-10-08 14:41:43,014 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.014482]
+2022-10-08 14:41:43,112 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.112482]
+2022-10-08 14:41:43,198 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.198483]
+2022-10-08 14:41:43,259 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.258485]
+2022-10-08 14:41:43,357 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.357481]
+2022-10-08 14:41:43,545 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.545487]
+2022-10-08 14:41:43,643 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.643488]
+2022-10-08 14:41:43,823 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:43.823487]
+2022-10-08 14:41:44,146 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:44.146493]
+2022-10-08 14:41:44,155 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:44.155493]
+2022-10-08 14:41:44,435 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:44.435497]
+2022-10-08 14:41:44,752 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:44.752500]
+2022-10-08 14:41:44,769 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:44.769496]
+2022-10-08 14:41:44,773 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:44.772497]
+2022-10-08 14:41:44,844 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:41:44.844497]
+2022-10-08 14:41:45,369 - detect.py - line:121 - INFO| 
+2022-10-08 14:41:45,376 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 14:41:45.376504
+2022-10-08 14:41:45,526 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 14:41:45,580 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 14:41:46,485 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 14:41:46,530 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 14:41:46,555 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 14:41:46,565 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 14:41:46,592 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 14:41:46,976 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:41:47,836 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:41:48,842 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 14:41:48.842567
+2022-10-08 14:41:49,859 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 14:41:49.859583
+2022-10-08 14:41:49,860 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 14:41:49.860583
+2022-10-08 14:42:04,958 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 14:42:04.958278
+2022-10-08 14:42:04,975 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 14:42:04.975263
+2022-10-08 14:42:11,438 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:11.438328]
+2022-10-08 14:42:11,473 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:11.473332]
+2022-10-08 14:42:11,745 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:11.745331]
+2022-10-08 14:42:11,857 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:11.857333]
+2022-10-08 14:42:11,857 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:11.857333]
+2022-10-08 14:42:12,051 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.050335]
+2022-10-08 14:42:12,254 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.254332]
+2022-10-08 14:42:12,453 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.453340]
+2022-10-08 14:42:12,515 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.515345]
+2022-10-08 14:42:12,553 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.553339]
+2022-10-08 14:42:12,685 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.685341]
+2022-10-08 14:42:12,710 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.710338]
+2022-10-08 14:42:12,760 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.760341]
+2022-10-08 14:42:12,975 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.975342]
+2022-10-08 14:42:12,980 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:12.980341]
+2022-10-08 14:42:13,209 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:13.209343]
+2022-10-08 14:42:13,804 - detect.py - line:121 - INFO| 
+2022-10-08 14:42:13,812 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 14:42:13.812351
+2022-10-08 14:42:13,929 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 14:42:13,982 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 14:42:14,885 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 14:42:14,910 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 14:42:14,961 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 14:42:14,970 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 14:42:14,988 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 14:42:15,356 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:42:16,685 - readImageTools.py - line:50 - INFO| (3000, 4000, 3)
+2022-10-08 14:42:17,877 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行base64->rgb数组 2022-10-08 14:42:17.876097
+2022-10-08 14:42:19,014 - timeTools.py - line:6 - INFO| 图片分析 -- 开始执行 uint8  2022-10-08 14:42:19.014104
+2022-10-08 14:42:19,015 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行差分运算  2022-10-08 14:42:19.015107
+2022-10-08 14:42:38,711 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行阈值分割  2022-10-08 14:42:38.711997
+2022-10-08 14:42:38,728 - timeTools.py - line:6 - INFO| 图片分析 --  开始执行 开运算  2022-10-08 14:42:38.728972
+2022-10-08 14:42:44,406 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:44.406019]
+2022-10-08 14:42:44,651 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:44.651020]
+2022-10-08 14:42:44,917 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:44.917023]
+2022-10-08 14:42:45,017 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:45.017023]
+2022-10-08 14:42:45,017 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:45.017023]
+2022-10-08 14:42:45,264 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:45.264025]
+2022-10-08 14:42:45,395 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:45.395027]
+2022-10-08 14:42:45,783 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:45.783026]
+2022-10-08 14:42:45,804 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:45.804028]
+2022-10-08 14:42:45,963 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:45.963029]
+2022-10-08 14:42:46,048 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:46.048034]
+2022-10-08 14:42:46,071 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:46.071034]
+2022-10-08 14:42:46,198 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:46.198037]
+2022-10-08 14:42:46,217 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:46.217031]
+2022-10-08 14:42:46,442 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:46.442039]
+2022-10-08 14:42:46,560 - maincontroller.py - line:367 - INFO| [+] AGX API is running [2022-10-08 14:42:46.560035]
+2022-10-08 14:42:46,991 - detect.py - line:121 - INFO| 
+2022-10-08 14:42:46,999 - timeTools.py - line:6 - INFO| 结束时间 2022-10-08 14:42:46.999046
+2022-10-08 14:42:47,019 - floder_analysis.py - line:91 - INFO| 开始写入数据库
+2022-10-08 14:42:47,100 - floder_analysis.py - line:96 - INFO| 数据库写入成功
+2022-10-08 14:42:47,824 - floder_analysis.py - line:100 - INFO| 异物框选图保存成功
+2022-10-08 14:42:47,901 - floder_analysis.py - line:104 - INFO| 开始修改任务对比状态
+2022-10-08 14:42:48,031 - floder_analysis.py - line:107 - INFO| 任务对比状态修改成功
+2022-10-08 14:42:48,087 - floder_analysis.py - line:108 - INFO| 开始修改任务进度
+2022-10-08 14:42:48,188 - floder_analysis.py - line:115 - INFO| 任务进度修改成功
+2022-10-08 14:42:48,218 - floder_analysis.py - line:116 - INFO| >>>>>>>>>>>>>>>对比功能执行成功>>>>>>>>>>>>>

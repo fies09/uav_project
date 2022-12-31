@@ -1,0 +1,16 @@
+2022-09-06 18:34:28,713 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:34:28,713 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:34:28,713 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:34:28,713 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:34:28,714 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:34:28,714 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:34:28,714 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-06 18:34:28,718 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-06 18:35:41,710 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:35:41,710 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:35:41,710 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:35:41,710 - floder_analysis.py - line:19 - INFO| 1.JPG has been renamed successfully! New name is: 1.JPG
+2022-09-06 18:35:41,710 - floder_analysis.py - line:19 - INFO| 2.JPG has been renamed successfully! New name is: 2.JPG
+2022-09-06 18:35:41,710 - floder_analysis.py - line:19 - INFO| 3.JPG has been renamed successfully! New name is: 3.JPG
+2022-09-06 18:35:41,711 - floder_analysis.py - line:36 - INFO| 开始执行当前文件：1
+2022-09-06 18:35:41,711 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'

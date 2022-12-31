@@ -1,0 +1,4 @@
+2022-09-05 11:19:13,473 - floder_analysis.py - line:33 - INFO| 开始执行当前文件：1
+2022-09-05 11:19:13,473 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
+2022-09-05 11:21:18,414 - floder_analysis.py - line:33 - INFO| 开始执行当前文件：1
+2022-09-05 11:21:18,415 - readImageTools.py - line:48 - ERROR| 'NoneType' object has no attribute 'shape'
